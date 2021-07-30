@@ -8,12 +8,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
-@font-face {
-    font-family: 'M Plus Rounded 1c';
-    src: url('/MPLUSRounded1c-Light.ttf') format('truetype'),
-         url('/MPLUSRounded1c-Light_1_.woff') format('woff');
-}
-
 body {
     font-family: 'Roboto Slab', 'M Plus 1p';
     /* -webkit-font-smoothing: antialiased;
