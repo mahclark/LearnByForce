@@ -9,19 +9,20 @@ tickBtn = document.getElementById("tick")
 crossBtn = document.getElementById("cross")
 
 switchBtn.onclick = switchDirection
-jBtn.onclick = function() {categoryPressed(jBtn.id, "japanese.csv")}
-bBtn.onclick = function() {categoryPressed(bBtn.id, "bulgarian.csv")}
-mBtn.onclick = function() {categoryPressed(mBtn.id, "music.csv")}
+jBtn.onclick = function() {categoryPressed(jBtn.id, ["japanese.csv", "j6000.csv"])}
+bBtn.onclick = function() {categoryPressed(bBtn.id, ["bulgarian.csv"])}
+mBtn.onclick = function() {categoryPressed(mBtn.id, ["music.csv"])}
 
 backBtn.onclick = returnToLanding
 checkBtn.onclick = checkAnswer
 tickBtn.onclick = answerRight
 crossBtn.onclick = answerWrong
 
-var reversed = false
-var selectedCat = null
-var selectedSec = null
-var selectedCsv = null
+var reversed = false;
+var selectedCat = null;
+var selectedSec = null;
+var selectedCsv = null;
+var selectedCsvs = null;
 
 var tests = new Object();
 var test = [];
@@ -37,15 +38,15 @@ function switchDirection() {
         // $("#switch").css("transform", "rotate(" + (reversed ? "180" : "0") + "deg)");
         $("#switch").fadeIn(200);
     });
-    loadSections(selectedCsv);
+    loadSections(selectedCsvs);
 }
 
 function scoreName(csvName, secName, reversed) {
     return "scores/" + csvName + "/" + secName + (reversed ? "<" : ">")
 }
 
-function categoryPressed(btnId, csvName) {
-    selectedCsv = csvName;
+function categoryPressed(btnId, csvNames) {
+    selectedCsvs = csvNames;
     if (btnId == selectedCat) {
         $("#" + btnId).animate({top: "5px"}, 100);
         $("#" + btnId).animate({top: "10px"}, 100);
@@ -57,62 +58,66 @@ function categoryPressed(btnId, csvName) {
         $("#music").animate({top: "0px"}, 200);
         $("#" + btnId).animate({top: "10px"}, {duration: 200, queue: false});
 
-        loadSections(csvName)
+        loadSections(csvNames)
     }
 }
 
-function loadSections(csvName) {
+function loadSections(csvNames) {
     $(".sections").empty();
     
-    $.get("data/" + csvName, function(csvData) {
-        data = $.csv.toObjects(csvData);
-        tests = new Object();
+    tests = new Object();
 
-        var first = true;
-        var currentSec = null;
+    var first = true;
+    var currentSec = null;
 
-        $.each(data, function(index, value) {
-            if (value["name"] != null) {
-                currentSec = value["name"]
-                tests[currentSec] = [value];
+    $.each(csvNames, function(index, csvName) {
+        $.get("data/" + csvName, function(csvData) {
+            data = $.csv.toObjects(csvData);
 
-                var score = localStorage.getItem(scoreName(csvName, currentSec, reversed));
+            $.each(data, function(index, value) {
+                if (value["name"] != null) {
+                    currentSec = value["name"]
+                    tests[currentSec] = [value];
 
-                if (score == null) {
-                    score = "-";
-                } else {
-                    score = parseFloat(score);
-                    score = Math.min(score, 1);
-                    score = Math.max(score, 0);
-                    score = Math.floor(score * 100);
-                }
+                    var score = localStorage.getItem(scoreName(csvName, currentSec, reversed));
 
-                if (!first) {
-                    $("<hr>").appendTo(".sections");
-                }
-                first = false;
-
-                var btn = $("<button />", {
-                    "class": "sectionBtn",
-                    "text": currentSec,
-                    click: function() {
-                        selectedSec = value["name"]
-                        $("#landing").hide();
-                        $("#testing").show();
-                        document.getElementById("secTitle").innerHTML = selectedSec
-                        startTest();
+                    if (score == null) {
+                        score = "-";
+                    } else {
+                        score = parseFloat(score);
+                        score = Math.min(score, 1);
+                        score = Math.max(score, 0);
+                        score = Math.floor(score * 100);
                     }
-                })
-                btn.append(
-                    $("<span />", {
-                        "class": "sectionSpan",
-                        "text": score + "%"
+
+                    if (!first) {
+                        $("<hr>").appendTo(".sections");
+                    }
+                    first = false;
+
+                    var btn = $("<button />", {
+                        "class": "sectionBtn",
+                        "text": currentSec,
+                        click: function() {
+                            selectedCsv = csvName;
+                            selectedSec = value["name"]
+                            $("#landing").hide();
+                            $("#testing").show();
+                            document.getElementById("secTitle").innerHTML = selectedSec
+                            startTest();
+                        }
                     })
-                )
-                btn.appendTo(".sections");
-            } else {
-                tests[currentSec].push(value)
-            }
+                    btn.append(
+                        $("<span />", {
+                            "class": "sectionSpan",
+                            "text": score + "%"
+                        })
+                    )
+                    btn.appendTo(".sections");
+                } else {
+                    tests[currentSec].push(value)
+                }
+            });
         });
     });
 }
@@ -179,7 +184,7 @@ function nextQuestion() {
 function checkAnswer() {
     var question = testItem["question"]
     var answer = testItem["answer"]
-    var furigana = testItem["furigana"] ?? ""
+    var furigana = testItem["furi"] ?? ""
 
     if (reversed) {
         $("#question").text(question)
@@ -208,7 +213,7 @@ function returnToLanding() {
     selectedSec = null;
     $("#landing").show();
     $("#testing").hide();
-    loadSections(selectedCsv);
+    loadSections(selectedCsvs);
 }
 
 $( document ).ready(function() {
