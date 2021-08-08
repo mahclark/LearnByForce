@@ -1,4 +1,3 @@
-switchBtn = document.getElementById("switch")
 jBtn = document.getElementById("japanese")
 bBtn = document.getElementById("bulgarian")
 mBtn = document.getElementById("music")
@@ -8,7 +7,6 @@ checkBtn = document.getElementById("checkBtn")
 tickBtn = document.getElementById("tick")
 crossBtn = document.getElementById("cross")
 
-switchBtn.onclick = switchDirection
 jBtn.onclick = function() {categoryPressed(jBtn.id, ["japanese.csv", "j6000.csv"])}
 bBtn.onclick = function() {categoryPressed(bBtn.id, ["bulgarian.csv"])}
 mBtn.onclick = function() {categoryPressed(mBtn.id, ["music.csv"])}
@@ -31,21 +29,18 @@ var testItem = null;
 var testSize = 0;
 var wrongAnswers = 0;
 
-function switchDirection() {
-    reversed = !reversed;
-    $("#switch").fadeOut(200, function() {
-        $("#switch").text("Q " + (reversed ? "←" : "→") + " A");
-        // $("#switch").css("transform", "rotate(" + (reversed ? "180" : "0") + "deg)");
-        $("#switch").fadeIn(200);
-    });
-    loadSections(selectedCsvs);
-}
+var scrollPos = 0;
 
 function scoreName(csvName, secName, reversed) {
     return "scores/" + csvName + "/" + secName + (reversed ? "<" : ">")
 }
 
+function dateName(csvName, secName, reversed) {
+    return "scores/" + csvName + "/" + secName + (reversed ? "<" : ">") + "day"
+}
+
 function categoryPressed(btnId, csvNames) {
+    scrollPos = $(window).scrollTop()
     selectedCsvs = csvNames;
     if (btnId == selectedCat) {
         $("#" + btnId).animate({top: "5px"}, 100);
@@ -60,6 +55,26 @@ function categoryPressed(btnId, csvNames) {
 
         loadSections(csvNames)
     }
+}
+
+function parseScore(score) {
+    if (score == null) {
+        score = "-";
+    } else {
+        score = parseFloat(score);
+        score = Math.floor(score * 100) + "%";
+    }
+
+    return score
+}
+
+function getDateDiff(date) {
+    var diff = "";
+    if (date != null) {
+        diff = "Day " + Math.floor((new Date() - new Date(date)) / (1000 * 3600 * 24));
+    }
+
+    return diff
 }
 
 function loadSections(csvNames) {
@@ -79,41 +94,82 @@ function loadSections(csvNames) {
                     currentSec = value["name"]
                     tests[currentSec] = [value];
 
-                    var score = localStorage.getItem(scoreName(csvName, currentSec, reversed));
-
-                    if (score == null) {
-                        score = "-";
-                    } else {
-                        score = parseFloat(score);
-                        score = Math.min(score, 1);
-                        score = Math.max(score, 0);
-                        score = Math.floor(score * 100);
-                    }
+                    var scoreA = parseScore(localStorage.getItem(scoreName(csvName, currentSec, true)));
+                    var scoreB = parseScore(localStorage.getItem(scoreName(csvName, currentSec, false)));
+                    
+                    var diffA = getDateDiff(localStorage.getItem(dateName(csvName, currentSec, true)));
+                    var diffB = getDateDiff(localStorage.getItem(dateName(csvName, currentSec, false)));
 
                     if (!first) {
                         $("<hr>").appendTo(".sections");
                     }
                     first = false;
 
-                    var btn = $("<button />", {
+                    var sectionDiv = $("<div />", {
+                        "class": "sectionDiv",
+                    });
+
+                    leftBtn = $("<button />", {
                         "class": "sectionBtn",
-                        "text": currentSec,
+                        "text": scoreA,
                         click: function() {
                             selectedCsv = csvName;
                             selectedSec = value["name"]
-                            $("#landing").hide();
-                            $("#testing").show();
-                            document.getElementById("secTitle").innerHTML = selectedSec
+                            reversed = true;
                             startTest();
                         }
-                    })
-                    btn.append(
+                    });
+
+                    leftBtn.append(
+                        $("<span />", {
+                            "class": "daySpan",
+                            "text": diffA
+                        })
+                    );
+
+                    sectionDiv.append(leftBtn);
+
+                    sectionDiv.append(
                         $("<span />", {
                             "class": "sectionSpan",
-                            "text": score + "%"
+                            "text": currentSec
+                        }
+                    ));
+
+                    rightBtn = $("<button />", {
+                        "class": "sectionBtn",
+                        css : {
+                            "text-align": "right"
+                        },
+                        click: function() {
+                            selectedCsv = csvName;
+                            selectedSec = value["name"]
+                            reversed = false;
+                            startTest();
+                        }
+                    });
+
+                    rightBtn.append(
+                        $("<span />", {
+                            "class": "daySpan",
+                            "text": diffB
                         })
-                    )
-                    btn.appendTo(".sections");
+                    );
+                    
+                    rightBtn.append(
+                        $("<span />", {
+                            "text": scoreB
+                        })
+                    );
+
+                    sectionDiv.append(rightBtn);
+
+                    sectionDiv.appendTo(".sections").ready(
+                        function() {
+                            $(window).scrollTop(scrollPos);
+                            console.log(scrollPos, $(window).scrollTop());
+                        }
+                    );
                 } else {
                     tests[currentSec].push(value)
                 }
@@ -123,6 +179,12 @@ function loadSections(csvNames) {
 }
 
 function startTest() {
+    scrollPos = $(window).scrollTop()
+    console.log(scrollPos)
+    $("#landing").hide();
+    $("#testing").show();
+    document.getElementById("secTitle").innerHTML = selectedSec
+
     test = tests[selectedSec];
 
     testSize = test.length;
@@ -134,13 +196,21 @@ function nextQuestion() {
     if (test.length == 0) {
         $("#question").text(":D");
         $("#answer").text("Learnt!");
-        $("#furi").text("");
 
         $("#checkBtn").hide();
         $("#response").hide();
 
         score = testSize / (testSize + wrongAnswers)
         localStorage.setItem(scoreName(selectedCsv, selectedSec, reversed), score);
+
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, "0");
+        var mm = String(today.getMonth() + 1).padStart(2, "0"); //January is 0!
+        var yyyy = today.getFullYear();
+
+        today = mm + "/" + dd + "/" + yyyy;
+
+        localStorage.setItem(dateName(selectedCsv, selectedSec, reversed), today);
     } else {
         prevItem = testItem;
 
@@ -174,8 +244,6 @@ function nextQuestion() {
             $("#answer").text("")
         }
 
-        $("#furi").text("")
-
         $("#checkBtn").show()
         $("#response").hide()
     }
@@ -184,15 +252,17 @@ function nextQuestion() {
 function checkAnswer() {
     var question = testItem["question"]
     var answer = testItem["answer"]
-    var furigana = testItem["furi"] ?? ""
+    var furigana = testItem["furi"] ?? answer
+
+    if (furigana == "") {
+        furigana = answer
+    }
 
     if (reversed) {
         $("#question").text(question)
-    } else {
-        $("#answer").text(answer)
     }
 
-    $("#furi").text(furigana)
+    $("#answer").html(furigana)
 
     $("#checkBtn").hide()
     $("#response").show()
