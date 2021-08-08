@@ -185,7 +185,22 @@ function startTest() {
     $("#testing").show();
     document.getElementById("secTitle").innerHTML = selectedSec
 
-    test = tests[selectedSec];
+	if (reversed) {
+        test = [];
+        for (var testItem of tests[selectedSec]) {
+            answers = testItem["answer"].split(", ");
+            furis =  testItem["furi"].split(", ");
+            for (var i = 0; i < answers.length; i++) {
+                test.push({
+                    "question": testItem["question"],
+                    "answer": answers[i],
+                    "furi": furis[i]
+                });
+            }
+        }
+    } else {
+        test = tests[selectedSec];
+    }
 
     testSize = test.length;
     wrongAnswers = 0;
