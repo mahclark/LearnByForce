@@ -77,21 +77,41 @@ h1 {
     background: #444;
 }
 
+.sectionDiv {
+    display: flex; 
+    justify-content: center;
+}
+
 .sectionBtn {
     margin: 0px;
-    padding: 15px;
+    padding: min(3vw, 15px);
     background: inherit;
-    width: 100%;
+    width: 35%;
     text-align: left;
     color: inherit;
     border: None;
     font-family: inherit;
-    font-size: min(5vw, 32px);
+    font-size: min(4vw, 36px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.daySpan {
+    /* display: flex; */
+    /* align-items: center; */
+    font-size: min(3vw, 27px);
 }
 
 .sectionSpan {
-    float: right;
-    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    font-size: min(4vw, 36px);
 }
 
 hr {
@@ -134,7 +154,7 @@ hr {
     width: 100%;
 }
 
-#furi {
+#answer {
     font-size: min(6vw, 42px);
     position: absolute;
     bottom: 0;
