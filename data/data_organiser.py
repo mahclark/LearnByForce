@@ -2,6 +2,53 @@ import csv
 from collections import OrderedDict
 from dataclasses import dataclass
 
+
+class NoChange:
+    pass
+
+@dataclass
+class Correction:
+    en : str = NoChange
+    jp : str = NoChange
+    fu : str = NoChange
+
+    def correct(self, en, jp, fu):
+        return (
+            en if self.en == NoChange else self.en,
+            jp if self.jp == NoChange else self.jp,
+            fu if self.fu == NoChange else self.fu
+        )
+
+corrections = {
+    ("未[ま]だ", "yet, more") : Correction("not yet, still"),
+    ("洋服[ようふく]", "clothes") : Correction("clothes (western style)"),
+    ("ふらふら", "weak") : Correction("dizzy, unsteady, for no particular reason"),
+    ("開[ひら]く", "to open") : Correction("to be opened"),
+    ("開[あ]く", "to open") : Correction("to be opened"),
+    ("閉[と]じる", "to close") : Correction("to shut, to close"),
+    ("新[あら]た", "new, fresh") : Correction("newly, freshly", jp="新たに", fu="新[あら]たに"),
+    ("私[わたし]", "I") : Correction("I, me"),
+    ("俺[おれ]", "I, me") : Correction("I, me (masculine, informal)"),
+    ("作業[さぎょう]", "work, operation") : Correction("tasks, work"),
+    ("始[はじ]まる", "to begin") : Correction("to be started"),
+    ("出掛[でか]ける", "to go out, to be about to go out") : Correction("to go out (and do something)"),
+    ("続[つづ]ける", "to continue, to keep up") : Correction("to continue (doing something)"),
+    ("用[もち]いる", "to use, to make use of") : Correction("to use"),
+    ("場所[ばしょ]", "place, space") : Correction("place"),
+    ("思[おも]う", "to think") : Correction("to think (opinion, feeling)"),
+    ("考[かんが]える", "to think, to consider") : Correction("to think, to ponder"),
+    ("位置[いち]", "position, place") : Correction("position, standing"),
+    ("おっしゃる", "to say") : Correction("to utter, to express"),
+    ("言[い]い 表[あら]わす", "to express, to say") : Correction("to utter, to express"),
+    ("近[ちか]い", "near, soon") : Correction("near, nearby"),
+    ("近[ちか]く", "near, close to") : Correction("near, nearby"),
+    ("近[ちか]く", "vicinity, nearby") : Correction("near, nearby"),
+    ("そば", "side, vicinity") : Correction("buckwheat noodles, next to"),
+    ("そば", "buckwheat noodles, soba") : Correction("buckwheat noodles, next to"),
+    ("辺[へん]", "vicinity, part") : Correction("vicinity, side, edge"),
+    ("一帯[いったい]", "area, vicinity") : Correction("whole area, stretch of land"),
+}
+
 def check_fu(fu):
 
     next_exp = {
@@ -137,14 +184,18 @@ if __name__ == "__main__":
 
         for i, line in enumerate(reader):
             core_id = int(line[headers.index("Core-index")])
-            jp = line[headers.index("Vocab-expression")]
             en = line[headers.index("Vocab-meaning")]
+            jp = line[headers.index("Vocab-expression")]
             fu = line[headers.index("Vocab-furigana")]
             part = line[headers.index("Vocab-pos")]
 
             # add "to" in front of each verb
             if part == "Verb":
                 en = ", ".join(["to " + e for e in en.split(", ")])
+            
+            # apply corrections
+            if (fu, en) in corrections:
+                en, jp, fu = corrections.pop((fu, en)).correct(en, jp, fu)
             
             # group the items by japanese
             if fu in idx_by_jp:
@@ -160,6 +211,9 @@ if __name__ == "__main__":
             # exclude the obscure vocab of above 4000
             if core_id == 4023:
                 break
+    
+    if len(corrections) > 0:
+        print(f"Warning: unable to find correction matches for:\n{corrections}")
 
     # group the items by english
     for test_item in jp_grouped:
@@ -171,6 +225,29 @@ if __name__ == "__main__":
         else:
             idx_by_en[en] = len(all_grouped)
             all_grouped.append(TestItem(en, jp, fu))
+    
+    # detect duplicates for correction
+    ej = {}
+    for test_item in all_grouped:
+        for en in test_item.ens.keys():
+            ej.setdefault(en, []).append(test_item)
+    
+    duplicates = {
+        k : v
+        for k, v in ej.items()
+        if len(v) > 1
+    }
+    
+    with open("data/duplicates.txt", "w", encoding="utf-8") as dup_txt:
+        txt = f"{len(duplicates)}\n"
+        for en, test_items in duplicates.items():
+            txt += f"{en}:\n"
+            for test_item in test_items:
+                e, _, f = test_item.row()
+                txt += f'\t"{f}", "{e}"\n'
+        
+        dup_txt.write(txt)
+
 
     rows = [
         test_item.row()

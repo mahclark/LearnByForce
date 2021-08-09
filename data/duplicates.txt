@@ -1,0 +1,3083 @@
+907
+that:
+	"それ", "that, that one"
+	"あんなに, そんなに", "that, so"
+circle:
+	"円[えん]", "circle, yen"
+	"サークル", "circle, club"
+	"一周[いっしゅう]", "circle, around"
+house:
+	"家[うち／いえ]", "house, home"
+	"家屋[かおく]", "house, building"
+home:
+	"家[うち／いえ]", "house, home"
+	"家庭[かてい]", "home, family"
+this:
+	"これ", "this, this one"
+	"こんなに", "this, so, such"
+I:
+	"私[わたし]", "I, me"
+	"俺[おれ]", "I, me (masculine, informal)"
+work:
+	"仕事[しごと]", "work, job"
+	"作業[さぎょう]", "tasks, work"
+	"勤労[きんろう]", "labor, work"
+to do:
+	"する", "to do, to make"
+	"やる", "to do, to give (to an inferior)"
+	"行[おこな]う", "to do, to carry out"
+to make:
+	"する", "to do, to make"
+	"作[つく]る", "to make, to create"
+to leave:
+	"出[で]る", "to go out, to leave"
+	"置[お]く", "to put, to leave"
+	"残[のこ]す", "to leave, to reserve, to leave undone"
+	"去[さ]る", "to go away, to leave"
+to possess:
+	"持[も]つ", "to have, to possess, to maintain, to last long"
+	"有[あ]る", "to exist, to possess"
+to maintain:
+	"持[も]つ", "to have, to possess, to maintain, to last long"
+	"支[ささ]える", "to support, to maintain"
+time:
+	"時間[じかん], 時刻[じこく]", "time, hour"
+	"時[とき], 頃[ころ]", "time"
+	"時期[じき]", "time, season"
+	"際[さい]", "occasion, time"
+now:
+	"今[いま]", "now"
+	"この 頃[ごろ]", "now, these days, recently"
+	"今更[いまさら]", "now, too late"
+to follow:
+	"続[つづ]く", "to continue, to follow"
+	"従[したが]う", "to follow, to obey"
+country:
+	"国[くに]", "country"
+	"国家[こっか]", "state, country"
+	"田舎[いなか]", "country, countryside"
+	"国土[こくど]", "country, territory"
+still:
+	"未[ま]だ", "not yet, still"
+	"なお", "still, in addition"
+	"やはり", "as expected, also, still"
+	"じっと", "without moving, still"
+to tell:
+	"言[い]う", "to say, to tell"
+	"教[おし]える", "to teach, to tell"
+	"話[はな]す", "to speak, to tell"
+	"語[かた]る", "to tell, to talk"
+	"聞[き]かす", "to tell, to read aloud"
+to go:
+	"行[い]く", "to go"
+	"いらっしゃる", "to come, to go"
+to feel:
+	"感[かん]じる", "to feel, to sense"
+	"触[さわ]る", "to touch, to feel"
+child:
+	"子供[こども], 子[こ]", "child, kid"
+	"児童[じどう]", "child, juvenile"
+that way:
+	"そう", "in such manner, that way"
+	"そちら", "there, that way"
+already:
+	"もう", "already, yet, another, again"
+	"既[すで]に", "already, previously"
+another:
+	"もう", "already, yet, another, again"
+	"別[べつ]", "another, different"
+again:
+	"もう", "already, yet, another, again"
+	"再[ふたた]び", "again, a second time"
+	"又[また]", "again, also, or"
+to put in:
+	"入[い]れる", "to put in"
+	"込[こ]める", "to put in, to concentrate on"
+student:
+	"学生[がくせい]", "student"
+	"生徒[せいと]", "pupil, student"
+often:
+	"よく", "often, well"
+	"しばしば", "often, frequently"
+to hear:
+	"聞[き]く", "to hear, to ask"
+	"聞[き]こえる", "to hear, to be heard"
+to ask:
+	"聞[き]く", "to hear, to ask"
+	"頼[たの]む", "to ask, to request"
+how:
+	"どう, いかが", "how, what"
+	"いかに", "how, in what way"
+what:
+	"どう, いかが", "how, what"
+	"どれ, 何[なに／なん]", "what, which"
+language:
+	"言葉[ことば]", "word, language"
+	"言語[げんご]", "language, speech"
+	"言葉遣[ことばづか]い", "wording, language"
+face:
+	"顔[かお]", "face"
+	"表[おもて]", "front side, face, outside"
+	"正面[しょうめん]", "front, face"
+	"顔付[かおつ]き", "face, expression"
+to give:
+	"あげる, 与[あた]える", "to give"
+	"贈[おく]る", "to offer, to give"
+	"下[くだ]さる", "to give, to favor with"
+school:
+	"学校[がっこう]", "school"
+	"学園[がくえん]", "educational institution, school"
+to get up:
+	"起[お]きる", "to get up, to get out of bed, to occur"
+	"起[お]き 上[あ]がる", "to get up, to rise"
+spring:
+	"春[はる]", "spring"
+	"泉[いずみ]", "spring, fountain"
+morning:
+	"午前[ごぜん]", "morning, a.m."
+	"朝[あさ]", "morning"
+to finish:
+	"終[お]わる", "to finish, to end"
+	"終[お]える", "to end, to finish"
+	"仕上[しあ]げる", "to finish, to complete"
+to end:
+	"終[お]わる", "to finish, to end"
+	"終[お]える", "to end, to finish"
+young:
+	"若[わか]い", "young"
+	"幼[おさな]い", "young, childish"
+rather:
+	"かなり", "fairly, rather"
+	"かえって", "on the contrary, rather"
+to live:
+	"住[す]む", "to live, to reside"
+	"暮[く]らす", "to live, to earn one's livelihood"
+to return:
+	"戻[もど]る", "to return, to turn back"
+	"帰[かえ]る", "to return, to go back"
+	"返[かえ]す", "to return, to repay"
+to work:
+	"働[はたら]く", "to work"
+	"利[き]く", "to work, to function"
+after:
+	"後[あと]", "after"
+	"後[のち]", "after, afterwards"
+teacher:
+	"先生[せんせい]", "teacher"
+	"教師[きょうし]", "teacher, instructor"
+	"教員[きょういん]", "teacher, teaching staff"
+to stand:
+	"立[た]つ", "to stand, to rise"
+	"立[た]てる", "to stand, to set up, to establish"
+to rise:
+	"立[た]つ", "to stand, to rise"
+	"上[あ]がる", "to go up, to rise, to get nervous, to get stage fright, be completed, to eat, to drink"
+	"起[お]き 上[あ]がる", "to get up, to rise"
+spirit:
+	"気[き]", "spirit, temperament"
+	"神[かみ]", "god, spirit"
+	"骨[ほね]", "bone, frame, spirit"
+	"精神[せいしん]", "mind, spirit"
+more:
+	"もっと", "more"
+	"より", "more, further"
+	"一層[いっそう]", "more, even more"
+feeling:
+	"気持[きも]ち", "feeling, sensation"
+	"感[かん]じ", "feeling, impression"
+	"感情[かんじょう]", "feeling, emotion"
+	"気分[きぶん]", "feeling, mood"
+sensation:
+	"気持[きも]ち", "feeling, sensation"
+	"感覚[かんかく]", "sense, sensation"
+automobile:
+	"車[くるま]", "car, automobile"
+	"自動車[じどうしゃ]", "automobile"
+to change:
+	"変[か]える, 変[か]わる", "to change"
+	"乗[の]り 換[か]える", "to change, to transfer"
+	"改[あらた]める", "to reform, to change"
+	"改[あらた]まる", "to be renewed, to change"
+big:
+	"広[ひろ]い", "wide, big"
+	"大[おお]きい", "big"
+to understand:
+	"分[わ]かる", "to understand"
+	"受[う]け 取[と]る", "to receive, to understand"
+number:
+	"数[かず]", "number"
+	"番号[ばんごう]", "number, serial number"
+there:
+	"そこ", "there"
+	"そちら", "there, that way"
+	"そっち", "there, thou"
+	"あっち", "other side, there"
+to sell:
+	"売[う]る", "to sell"
+	"売[う]れる", "to sell, to be in demand"
+at once:
+	"直[す]ぐ", "at once, soon"
+	"一度[いちど]に", "at a time, at once"
+soon:
+	"直[す]ぐ", "at once, soon"
+	"早[はや]く", "early, soon"
+	"そろそろ", "soon, quietly"
+to meet:
+	"会[あ]う, 逢[あ]う", "to meet"
+	"お 目[め]に 掛[か]かる", "to meet, to have the honor of seeing"
+room:
+	"部屋[へや]", "room"
+	"空間[くうかん]", "space, room"
+to happen:
+	"起[お]こる", "to happen"
+	"生[しょう]じる", "to happen, to cause"
+difficult:
+	"難[むずか]しい", "difficult"
+	"苦[くる]しい", "painful, difficult"
+	"きつい", "tight, difficult, severe, hard, strict"
+to die:
+	"死[し]ぬ", "to die"
+	"亡[な]くなる", "to die, to pass away"
+	"枯[か]れる", "to wither, to die"
+to take:
+	"乗[の]る", "to ride, to take"
+	"取[と]る", "to take, to get"
+	"通[とお]る", "to pass, to take, to go through"
+	"持[も]って 行[い]く", "to take"
+to write:
+	"書[か]く", "to write"
+	"著[あらわ]す", "to write, to compose"
+head:
+	"頭[あたま]", "head"
+	"頭[かしら]", "head, chief"
+	"首脳[しゅのう]", "head, leader"
+	"主任[しゅにん]", "person in charge, head"
+body:
+	"体[からだ]", "body, health"
+	"死体[したい]", "corpse, body"
+health:
+	"体[からだ]", "body, health"
+	"健康[けんこう]", "healthy, health"
+	"具合[ぐあい]", "condition, health"
+	"機嫌[きげん]", "mood, health"
+here:
+	"ここ, こっち", "here"
+	"こちら", "here, this way"
+low:
+	"低[ひく]い", "low, short"
+	"下品[げひん]", "vulgar, low"
+short:
+	"低[ひく]い", "low, short"
+	"短[みじか]い", "short, brief"
+to receive:
+	"もらう", "to receive"
+	"受[う]ける, 受[う]け 付[つ]ける", "to receive, to accept"
+	"受[う]け 取[と]る", "to receive, to understand"
+	"受[う]け 止[と]める", "to catch, to receive"
+	"頂[いただ]く", "to receive, to eat"
+to eat:
+	"食[た]べる", "to eat"
+	"上[あ]がる", "to go up, to rise, to get nervous, to get stage fright, be completed, to eat, to drink"
+	"食[く]う", "to eat, to live on"
+	"頂[いただ]く", "to receive, to eat"
+early:
+	"早[はや]い", "early"
+	"早[はや]く", "early, soon"
+name:
+	"名前[なまえ], 氏名[しめい]", "name"
+	"人名[じんめい]", "personal name, name"
+husband:
+	"夫[おっと]", "husband"
+	"主人[しゅじん]", "master, husband"
+one:
+	"一[いち]", "one"
+	"一人[ひとり]", "one, one person"
+old:
+	"古[ふる]い", "old"
+	"従来[じゅうらい]", "former, old"
+	"旧[きゅう]", "old, former"
+to wake up:
+	"起[お]こす", "to wake up, to bring about, to cause"
+	"覚[さ]める", "to awake, to wake up"
+	"覚[さ]ます", "to awaken, to wake up"
+to cause:
+	"起[お]こす", "to wake up, to bring about, to cause"
+	"生[しょう]じる", "to happen, to cause"
+to show:
+	"見[み]せる", "to show"
+	"示[しめ]す", "to show, to indicate"
+	"現[あらわ]す", "to show, to reveal"
+daughter:
+	"娘[むすめ]", "daughter, girl"
+	"女[おんな]の 子[こ]", "girl, daughter"
+girl:
+	"娘[むすめ]", "daughter, girl"
+	"女[おんな], 女子[じょし]", "woman, girl"
+	"女[おんな]の 子[こ]", "girl, daughter"
+	"姉[ねえ]さん", "older sister, girl, miss"
+	"少女[しょうじょ]", "girl"
+very:
+	"とても", "very"
+	"非常[ひじょう]に", "very, extremely"
+	"大分[だいぶ], 大[おお]いに", "very, greatly"
+	"極[きわ]めて", "extremely, very"
+question:
+	"質問[しつもん]", "question"
+	"問題[もんだい]", "problem, question"
+	"疑問[ぎもん]", "question, doubt"
+all:
+	"みんな", "all, everybody"
+	"全部[ぜんぶ]", "all, wholly"
+	"全[すべ]て", "all, entirely"
+	"すっかり", "all, completely"
+	"一同[いちどう]", "everybody, all"
+everybody:
+	"みんな", "all, everybody"
+	"皆[みな]さん", "everybody, ladies and gentlemen"
+	"一同[いちどう]", "everybody, all"
+to get:
+	"取[と]る", "to take, to get"
+	"かかる", "to catch, to get"
+study:
+	"勉強[べんきょう]", "study"
+	"研究[けんきゅう]", "research, study"
+	"学習[がくしゅう]", "study, learning"
+to fall:
+	"落[お]ちる", "to fall, to sink"
+	"下[さ]がる", "to come down, to hang down, to fall"
+	"降[ふ]る", "to fall, to come down"
+to sink:
+	"落[お]ちる", "to fall, to sink"
+	"沈[しず]む", "to sink, to set"
+	"沈[しず]める", "to sink, to submerge"
+white:
+	"白[しろ]い", "white, blank"
+	"白[しろ]", "white"
+who:
+	"誰[だれ]", "who, whom"
+	"どなた", "who"
+always:
+	"いつも", "always, usually"
+	"いつでも", "always, at all times"
+airplane:
+	"飛行機[ひこうき]", "airplane"
+	"航空機[こうくうき]", "aircraft, airplane"
+year:
+	"年[とし]", "year, age"
+	"年度[ねんど]", "year, school year"
+age:
+	"年[とし]", "year, age"
+	"時代[じだい]", "age, antiquity"
+light:
+	"軽[かる]い", "light, light weight"
+	"明[あ]かり", "light"
+	"軽快[けいかい]", "light, cheerful"
+to find:
+	"見[み]つける", "to find"
+	"拾[ひろ]う", "to pick up, to find"
+which:
+	"どちら, どっち", "which"
+	"どれ, 何[なに／なん]", "what, which"
+older sister:
+	"姉[あね], お 姉[ねえ]さん", "older sister"
+	"姉[ねえ]さん", "older sister, girl, miss"
+to learn:
+	"覚[おぼ]える", "to memorize, to learn"
+	"習[なら]う", "to learn, to practice"
+	"教[おそ]わる", "to be taught, to learn"
+narrow:
+	"狭[せま]い", "narrow, restricted"
+	"細[ほそ]い", "thin, slender, narrow"
+to build:
+	"建[た]てる", "to build, to erect"
+	"組[く]み 立[た]てる", "to build, to set up, to construct"
+red:
+	"赤[あか]い", "red"
+	"赤[あか]", "red, crimson"
+today:
+	"今日[きょう]", "today"
+	"今日[こんにち]", "today, these days"
+to wear:
+	"着[き]る, 被[かぶ]る", "to wear, to put on"
+	"履[は]く", "to put on footwear, to wear"
+to put on:
+	"着[き]る, 被[かぶ]る", "to wear, to put on"
+	"載[の]せる", "to place, to put on"
+	"掛[か]ける", "to hang, to put on"
+class:
+	"授業[じゅぎょう], クラス", "class, lesson"
+	"教室[きょうしつ]", "classroom, class"
+	"級[きゅう]", "grade, class"
+lesson:
+	"授業[じゅぎょう], クラス", "class, lesson"
+	"課[か]", "section, division, lesson"
+	"教[おし]え", "lesson, teachings"
+character:
+	"漢字[かんじ]", "character, kanji"
+	"文字[もじ], 字[じ]", "character, letter"
+	"人物[じんぶつ]", "character, person"
+	"性格[せいかく], 人格[じんかく]", "character, personality"
+to search for:
+	"探[さが]す", "to search for, to look for"
+	"尋[たず]ねる", "to inquire, to search for"
+	"捜[さが]す", "to look for, to search for"
+to look for:
+	"探[さが]す", "to search for, to look for"
+	"捜[さが]す", "to look for, to search for"
+late:
+	"遅[おそ]い", "slow, late"
+	"最近[さいきん]", "late, recent"
+together:
+	"一緒[いっしょ]に", "together, at the same time"
+	"一緒[いっしょ]", "together"
+to play:
+	"遊[あそ]ぶ", "to play"
+	"演[えん]じる", "to perform, to play"
+weak:
+	"弱[よわ]い", "weak"
+	"薄[うす]い", "thin, weak, pale"
+to sit down:
+	"座[すわ]る", "to sit, to sit down"
+	"腰掛[こしか]ける", "to sit down"
+right:
+	"右[みぎ]", "right"
+	"権利[けんり]", "right, privilege"
+	"正[せい]", "right, positiveness"
+to drink:
+	"飲[の]む", "to drink"
+	"上[あ]がる", "to go up, to rise, to get nervous, to get stage fright, be completed, to eat, to drink"
+to sleep:
+	"寝[ね]る", "to sleep, to go to sleep"
+	"眠[ねむ]る", "to sleep"
+to turn off:
+	"消[け]す", "to switch off, to turn off"
+	"止[と]める", "to stop, to turn off"
+healthy:
+	"元気[げんき]", "healthy, energetic, vigor, spirits"
+	"健康[けんこう]", "healthy, health"
+	"丈夫[じょうぶ]", "healthy, stout"
+	"健全[けんぜん]", "healthy, sound"
+vigor:
+	"元気[げんき]", "healthy, energetic, vigor, spirits"
+	"勢[いきお]い", "vigor, momentum"
+to lose:
+	"負[ま]ける", "to lose"
+	"無[な]くす", "to lose, to get rid of"
+	"失[うしな]う", "to lose, to miss"
+wholly:
+	"全部[ぜんぶ]", "all, wholly"
+	"全然[ぜんぜん]", "wholly, at all"
+to pull:
+	"引[ひ]く", "to draw, to pull"
+	"引[ひ]っ 張[ぱ]る", "to pull, to drag"
+to raise:
+	"上[あ]げる", "to raise, to improve"
+	"植[う]える", "to plant, to raise"
+	"飼[か]う", "to raise, to keep"
+green:
+	"緑[みどり]", "green, foliage"
+	"青[あお]", "blue, green, green light"
+	"緑色[みどりいろ], グリーン", "green"
+door:
+	"ドア", "door"
+	"戸[と]", "door, shutter"
+	"玄関[げんかん]", "entrance, door"
+to shut:
+	"閉[と]じる, 閉[し]める", "to shut, to close"
+	"畳[たた]む", "to fold, to shut"
+to close:
+	"閉[と]じる, 閉[し]める", "to shut, to close"
+	"締[し]め 切[き]る", "to close, to fix a deadline"
+line:
+	"線[せん]", "line"
+	"行列[ぎょうれつ]", "queue, line"
+	"整列[せいれつ]", "row, line"
+	"行[ぎょう]", "line, row"
+clothes:
+	"服[ふく]", "clothes"
+	"着物[きもの]", "clothes, kimono"
+	"衣類[いるい]", "clothes, garments"
+	"衣服[いふく]", "clothes, dress"
+back:
+	"後[うし]ろ", "back, behind"
+	"背中[せなか]", "back"
+	"後方[こうほう]", "back, rear"
+daytime:
+	"昼[ひる]", "daytime, midday"
+	"昼間[ひるま]", "daytime, day"
+end:
+	"終[お]わり", "end, conclusion"
+	"終了[しゅうりょう]", "end, expiry"
+conclusion:
+	"終[お]わり", "end, conclusion"
+	"結論[けつろん]", "conclusion"
+height:
+	"背[せ]", "height, stature"
+	"高[たか]さ", "height"
+	"身長[しんちょう]", "stature, height"
+stature:
+	"背[せ]", "height, stature"
+	"身長[しんちょう]", "stature, height"
+to help:
+	"手伝[てつだ]う", "to help, to assist"
+	"助[たす]ける", "to help, to save"
+touch):
+	"熱[あつ]い", "hot (things, touch)"
+	"冷[つめ]たい", "cold (things, touch)"
+sad:
+	"悲[かな]しい", "sad"
+	"寂[さび]しい", "lonely, desolate, sad"
+to love:
+	"愛[あい]する", "to love, to care for"
+	"恋[こい]する", "to love, to fall in love with"
+	"可愛[かわい]がる", "to love, to cherish"
+to care for:
+	"愛[あい]する", "to love, to care for"
+	"構[かま]う", "to mind, to care for"
+to talk:
+	"しゃべる", "to chat, to talk"
+	"語[かた]る", "to tell, to talk"
+sweet:
+	"甘[あま]い", "sweet"
+	"可愛[かわい]い", "cute, charming, sweet"
+table:
+	"テーブル", "table"
+	"机[つくえ]", "desk, table"
+	"表[ひょう]", "table, list"
+food:
+	"食[た]べ 物[もの], 食物[しょくもつ]", "food"
+	"食品[しょくひん]", "food, foodstuff"
+game:
+	"ゲーム", "game"
+	"試合[しあい]", "match, game"
+weather:
+	"天気[てんき]", "weather"
+	"空[そら]", "sky, weather"
+thick:
+	"太[ふと]い", "thick, fat"
+	"厚[あつ]い", "thick, bulky"
+	"濃[こ]い", "thick, concentrated, dark-colored"
+fat:
+	"太[ふと]い", "thick, fat"
+	"脂肪[しぼう], 脂[あぶら]", "fat, grease"
+god:
+	"神[かみ]", "god, spirit"
+	"神様[かみさま]", "god, the divine"
+painful:
+	"痛[いた]い", "painful"
+	"苦[くる]しい", "painful, difficult"
+probably:
+	"多分[たぶん]", "probably, perhaps"
+	"恐[おそ]らく", "probably"
+why:
+	"どうして", "why"
+	"なぜ", "why, for what reason"
+to hang:
+	"掛[か]ける", "to hang, to put on"
+	"掛[か]かる", "to hang, to splash, to require"
+to turn:
+	"曲[ま]がる", "to turn"
+	"回[まわ]す", "to turn, to rotate"
+	"向[む]く", "to turn, to face, to look"
+meeting:
+	"ミーティング", "meeting"
+	"会談[かいだん]", "conversation, meeting"
+	"会議[かいぎ]", "conference, meeting"
+	"打[う]ち 合[あ]わせ", "meeting, arrangement"
+	"会[かい]", "meeting, association"
+dislike:
+	"嫌[きら]い", "dislike"
+	"嫌[いや]", "dislike, have a dislike for"
+Friday:
+	"金曜日[きんようび]", "Friday"
+	"金[きん]", "gold, sum of money, Friday"
+to require:
+	"要[い]る", "to need, to require"
+	"掛[か]かる", "to hang, to splash, to require"
+gentle:
+	"優[やさ]しい", "gentle, kind"
+	"柔[やわ]らか", "soft, tender, gentle"
+	"大人[おとな]しい", "gentle, quiet, subdued"
+kind:
+	"優[やさ]しい", "gentle, kind"
+	"よう", "way, like, kind"
+	"種類[しゅるい]", "kind, species"
+	"親切[しんせつ]", "kind, friendly, kindness"
+love:
+	"大好[だいす]き, 愛[あい]", "love"
+	"愛情[あいじょう]", "love, affection"
+	"恋[こい]", "love, romance"
+to go up:
+	"上[のぼ]る", "to go up"
+	"上[あ]がる", "to go up, to rise, to get nervous, to get stage fright, be completed, to eat, to drink"
+	"登[のぼ]る", "to climb, to mount, to go up"
+meal:
+	"ご 飯[はん]", "cooked rice, meal"
+	"食事[しょくじ]", "meal, dinner"
+day:
+	"日[にち]", "day"
+	"日[ひ]", "sun, sunlight, day"
+	"昼間[ひるま]", "daytime, day"
+hair:
+	"髪[かみ]の 毛[け]", "hair"
+	"髪[かみ]", "hair, hairstyle"
+	"毛[け]", "hair, wool"
+to tighten:
+	"締[し]める", "to tighten, to fasten"
+	"締[し]まる", "to tighten, to be compact"
+bad:
+	"まずい", "bad-tasting, bad"
+	"悪[わる]い", "bad"
+	"悪質[あくしつ]", "bad, malignant"
+this evening:
+	"今晩[こんばん]", "this evening, tonight"
+	"今夜[こんや]", "tonight, this evening"
+tonight:
+	"今晩[こんばん]", "this evening, tonight"
+	"今夜[こんや]", "tonight, this evening"
+easy:
+	"易[やさ]しい", "easy, simple"
+	"簡単[かんたん]", "simple, easy"
+	"気軽[きがる]", "lighthearted, easy"
+simple:
+	"易[やさ]しい", "easy, simple"
+	"簡単[かんたん]", "simple, easy"
+vicinity:
+	"辺[へん]", "vicinity, side, edge"
+	"辺[あた]り", "vicinity, around"
+side:
+	"辺[へん]", "vicinity, side, edge"
+	"方[ほう]", "direction, side"
+	"横[よこ]", "side, width across"
+edge:
+	"辺[へん]", "vicinity, side, edge"
+	"角[かど]", "corner, edge, angle"
+way:
+	"よう", "way, like, kind"
+	"仕方[しかた]", "way, method"
+	"手段[しゅだん]", "means, way"
+salty:
+	"辛[から]い", "spicy, salty, strict, severe"
+	"塩辛[しおから]い", "salty"
+strict:
+	"辛[から]い", "spicy, salty, strict, severe"
+	"きつい", "tight, difficult, severe, hard, strict"
+	"厳[きび]しい", "strict, severe, intense"
+	"厳重[げんじゅう]", "strict, secure"
+severe:
+	"辛[から]い", "spicy, salty, strict, severe"
+	"ひどい", "cruel, severe"
+	"きつい", "tight, difficult, severe, hard, strict"
+	"厳[きび]しい", "strict, severe, intense"
+	"強烈[きょうれつ]", "intense, severe"
+to come:
+	"来[く]る", "to come"
+	"いらっしゃる", "to come, to go"
+front:
+	"前[まえ]", "front, before"
+	"戦場[せんじょう]", "battlefield, front"
+	"正面[しょうめん]", "front, face"
+before:
+	"前[まえ]", "front, before"
+	"以前[いぜん]", "before, ago"
+	"先[さき]に", "before, ahead"
+full:
+	"一杯[いっぱい]", "full"
+	"十分[じゅうぶん]", "full, plentiful"
+sour:
+	"酸[す]っぱい", "sour"
+	"苦[にが]い", "bitter, sour"
+to differ:
+	"違[ちが]う", "to differ, to be wrong"
+	"異[こと]なる", "to differ"
+thin:
+	"細[ほそ]い", "thin, slender, narrow"
+	"薄[うす]い", "thin, weak, pale"
+good:
+	"上手[じょうず]", "good, skilled"
+	"良[い]い", "good"
+	"良[よ]い", "good, suitable, preferable"
+strong:
+	"強[つよ]い", "strong"
+	"頑丈[がんじょう]", "solid, strong"
+warm:
+	"暖[あたた]かい", "warm"
+	"温暖[おんだん]", "warm, mild"
+	"暖[あたた]か", "warm, warmhearted"
+to move:
+	"動[うご]く", "to move"
+	"移[うつ]る", "to move, to shift"
+	"移[うつ]す", "to move, to shift, to transfer"
+	"動[うご]かす", "to move, to operate"
+	"引[ひ]っ 越[こ]す", "to move, to change quarters"
+tasty:
+	"おいしい", "tasty"
+	"うまい", "good at, delicious, tasty"
+male:
+	"男[おとこ]", "man, male"
+	"雄[おす]", "male"
+adult:
+	"大人[おとな]", "adult"
+	"成人[せいじん]", "adult, grownup"
+	"成年[せいねん]", "majority, adult"
+favor:
+	"お 願[ねが]い", "favor"
+	"好意[こうい]", "favor, affection"
+woman:
+	"女[おんな], 女子[じょし]", "woman, girl"
+	"女性[じょせい]", "woman, female"
+money:
+	"金[かね]", "money"
+	"金銭[きんせん]", "money, cash"
+	"貨幣[かへい]", "money, currency"
+to answer:
+	"答[こた]える", "to answer, to reply"
+	"応[おう]じる", "to answer, to comply with"
+ahead:
+	"先[さき]", "ahead, first"
+	"先[さき]に", "before, ahead"
+first:
+	"先[さき]", "ahead, first"
+	"先[ま]ず", "first"
+	"最初[さいしょ]", "first, outset"
+below:
+	"下[した]", "under, below"
+	"以下[いか]", "below"
+	"下[げ]", "low class, inferiority, below"
+OK:
+	"大丈夫[だいじょうぶ]", "alright, OK"
+	"まあまあ", "OK, not bad, average"
+	"可[か]", "permitted, OK"
+moon:
+	"月[つき]", "moon"
+	"衛星[えいせい]", "satellite, moon"
+summer:
+	"夏[なつ]", "summer"
+	"夏季[かき]", "summer, summer season"
+person:
+	"人[ひと]", "person"
+	"人物[じんぶつ]", "character, person"
+direction:
+	"方[ほう]", "direction, side"
+	"方向[ほうこう]", "direction, course"
+store:
+	"店[みせ], 商店[しょうてん]", "shop, store"
+	"売店[ばいてん]", "booth, store"
+road:
+	"道[みち], 道路[どうろ]", "road, street"
+	"車道[しゃどう]", "road, roadway"
+street:
+	"道[みち], 道路[どうろ]", "road, street"
+	"通[とお]り", "passage, street"
+to stop:
+	"止[や]める", "to stop, to give up, to abolish"
+	"止[と]める", "to stop, to turn off"
+	"止[や]む", "to stop, to abate"
+to give up:
+	"止[や]める", "to stop, to give up, to abolish"
+	"諦[あきら]める", "to abandon, to give up"
+toilet:
+	"お 手洗[てあら]い", "toilet, bathroom"
+	"トイレ", "toilet"
+bathroom:
+	"お 手洗[てあら]い", "toilet, bathroom"
+	"洗面所[せんめんじょ]", "washroom, bathroom"
+	"便所[べんじょ]", "lavatory, bathroom"
+truly:
+	"本当[ほんとう]に", "really, truly"
+	"全[まった]く", "entirely, truly, indeed"
+	"実[じつ]に", "truly, surely"
+self:
+	"自分[じぶん]", "self, oneself"
+	"自身[じしん]", "self"
+	"自己[じこ]", "oneself, self"
+oneself:
+	"自分[じぶん]", "self, oneself"
+	"自己[じこ]", "oneself, self"
+purpose:
+	"ため", "sake, purpose"
+	"目的[もくてき]", "object, purpose"
+	"つもり", "intention, purpose"
+situation:
+	"場合[ばあい]", "situation, case"
+	"事態[じたい]", "situation, state of affairs"
+	"情勢[じょうせい]", "state of things, situation"
+case:
+	"場合[ばあい]", "situation, case"
+	"事件[じけん]", "affair, case"
+	"箱[はこ]", "box, case"
+	"ケース", "case"
+problem:
+	"問題[もんだい]", "problem, question"
+	"課題[かだい]", "task, problem"
+development:
+	"開発[かいはつ]", "development"
+	"展開[てんかい]", "unfolding, development"
+affair:
+	"事件[じけん]", "affair, case"
+	"事柄[ことがら]", "matter, affair"
+corporation:
+	"企業[きぎょう]", "corporation, business"
+	"会社[かいしゃ]", "company, corporation"
+business:
+	"企業[きぎょう]", "corporation, business"
+	"用事[ようじ]", "things to do, errand, business"
+	"営業[えいぎょう]", "business, sales"
+	"商売[しょうばい]", "trade, business"
+	"事業[じぎょう]", "business, achievement"
+utilization:
+	"利用[りよう]", "utilization, usage"
+	"活用[かつよう]", "utilization, conjugation"
+usage:
+	"利用[りよう]", "utilization, usage"
+	"使用[しよう]", "usage"
+administration:
+	"政府[せいふ]", "government, administration"
+	"管理[かんり]", "management, administration"
+	"行政[ぎょうせい]", "administration"
+to accept:
+	"受[う]ける, 受[う]け 付[つ]ける", "to receive, to accept"
+	"受[う]け 入[い]れる", "to accept, to accommodate"
+further:
+	"より", "more, further"
+	"一段[いちだん]と", "greater, further"
+information:
+	"情報[じょうほう]", "information"
+	"知[し]らせ", "information, notice"
+construction:
+	"建設[けんせつ]", "construction, building"
+	"構造[こうぞう]", "construction, structure"
+	"工事[こうじ]", "construction"
+	"建築[けんちく]", "construction, architecture"
+	"仕組[しく]み", "construction, arrangement"
+building:
+	"建設[けんせつ]", "construction, building"
+	"建物[たてもの]", "building, structure"
+	"ビル", "building"
+	"家屋[かおく]", "house, building"
+to be cured:
+	"治[なお]る", "to be cured, to get well"
+	"治[おさ]まる", "to settle down, to be cured"
+function:
+	"機能[きのう]", "function, feature"
+	"行事[ぎょうじ]", "event, function"
+system:
+	"システム", "system"
+	"制度[せいど]", "system, organization"
+	"系統[けいとう]", "system, lineage"
+	"体制[たいせい]", "system, structure"
+to face:
+	"対[たい]する", "to face, to be in response to"
+	"向[む]かう", "to face, to confront, to head toward"
+	"向[む]く", "to turn, to face, to look"
+method:
+	"方法[ほうほう]", "method, procedure"
+	"仕方[しかた]", "way, method"
+	"筋道[すじみち]", "method, logic"
+after this:
+	"今後[こんご]", "after this, in the future"
+	"これから", "from now on, after this"
+in the future:
+	"今後[こんご]", "after this, in the future"
+	"将来[しょうらい]", "future, in the future"
+world:
+	"世界[せかい]", "world"
+	"世間[せけん]", "world, the public"
+middle:
+	"中心[ちゅうしん], 真[ま]ん 中[なか]", "center, middle"
+	"中[なか]", "inside, middle"
+plan:
+	"計画[けいかく], 企画[きかく]", "plan, project"
+	"予定[よてい]", "schedule, plan"
+	"設計[せっけい]", "design, plan"
+	"案[あん]", "plan, proposal"
+influence:
+	"影響[えいきょう]", "influence, effect"
+	"勢力[せいりょく]", "influence, power"
+effect:
+	"影響[えいきょう]", "influence, effect"
+	"効果[こうか]", "effect, result"
+	"作用[さよう]", "action, effect"
+	"効力[こうりょく]", "effect, validity"
+	"効[き]き 目[め]", "effect, efficacy"
+to increase:
+	"増[ふ]える", "to increase, to accrue"
+	"増[ふ]やす", "to increase, to add"
+	"増[ま]す", "to increase, to augment"
+introduction:
+	"導入[どうにゅう]", "introduction"
+	"紹介[しょうかい]", "introduction, presentation"
+life:
+	"生活[せいかつ]", "life, living"
+	"人生[じんせい]", "human life, life"
+	"生命[せいめい], 命[いのち], 生[せい]", "life"
+living:
+	"生活[せいかつ]", "life, living"
+	"暮[く]らし", "living, livelihood"
+to advance:
+	"進[すす]める", "to advance, to promote"
+	"進[すす]む", "to advance, to move forward"
+relation:
+	"関係[かんけい]", "relation, relationship"
+	"関連[かんれん]", "connection, relation"
+almost:
+	"ほとんど", "almost, hardly"
+	"ほぼ", "almost, nearly"
+	"惜[お]しい", "almost, close"
+hardly:
+	"ほとんど", "almost, hardly"
+	"なかなか", "not at all, hardly"
+field:
+	"分野[ぶんや]", "field, sphere"
+	"畑[はたけ]", "field, vegetable garden"
+to concern:
+	"関[かん]する", "to concern, to relate to"
+	"関[かか]わる", "to involve, to concern"
+state:
+	"状態[じょうたい]", "state, appearance"
+	"国家[こっか]", "state, country"
+	"州[しゅう]", "state"
+appearance:
+	"状態[じょうたい]", "state, appearance"
+	"姿[すがた]", "figure, appearance"
+	"格好[かっこう]", "shape, appearance"
+object:
+	"対象[たいしょう]", "target, object"
+	"目的[もくてき]", "object, purpose"
+	"反対[はんたい]", "oppose, object"
+	"物[もの]", "thing, object"
+management:
+	"処理[しょり]", "management, process"
+	"管理[かんり]", "management, administration"
+	"経営[けいえい]", "management, operation"
+	"運用[うんよう], 運営[うんえい]", "operation, management"
+	"支配[しはい]", "control, management"
+process:
+	"処理[しょり]", "management, process"
+	"過程[かてい]", "process, course"
+solution:
+	"解決[かいけつ]", "solution, settlement"
+	"答[こた]え", "answer, solution"
+	"解答[かいとう]", "solution, answer"
+settlement:
+	"解決[かいけつ]", "solution, settlement"
+	"決定[けってい]", "decision, settlement"
+	"植民地[しょくみんち]", "colony, settlement"
+	"決[き]まり", "settlement, rule"
+implementation:
+	"実現[じつげん]", "implementation, realization"
+	"実施[じっし]", "enforcement, implementation"
+realization:
+	"実現[じつげん]", "implementation, realization"
+	"実感[じっかん]", "true sense, realization"
+movement:
+	"動[うご]き", "movement, motion"
+	"運動[うんどう]", "movement, exercise"
+	"移動[いどう]", "movement, shift"
+story:
+	"話[はなし]", "talk, story"
+	"小説[しょうせつ]", "novel, story"
+	"記事[きじ]", "article, story"
+price:
+	"価格[かかく]", "price, cost"
+	"値段[ねだん]", "price"
+to collect:
+	"集[あつ]める", "to collect, to gather"
+	"汲[く]む", "to collect, to scoop up"
+to gather:
+	"集[あつ]める", "to collect, to gather"
+	"集[あつ]まる", "to gather, to be collected"
+sound:
+	"声[こえ]", "voice, sound"
+	"音[おと]", "sound, noise, speech sound, Chinese pronunciation of a character"
+	"健全[けんぜん]", "healthy, sound"
+	"音[ね]", "sound, note"
+clear:
+	"明[あき]らか", "clear, obvious"
+	"爽[さわ]やか", "refreshing, clear"
+	"すっと", "clear"
+obvious:
+	"明[あき]らか", "clear, obvious"
+	"当[あ]たり 前[まえ]", "of course, obvious"
+part:
+	"一部[いちぶ]", "part"
+	"部分[ぶぶん]", "part, section"
+	"分[ぶん]", "amount, part, share"
+	"一部分[いちぶぶん]", "part, portion"
+area:
+	"地域[ちいき]", "region, area"
+	"広[ひろ]さ", "area, extent"
+important:
+	"重要[じゅうよう]", "important, essential"
+	"大切[たいせつ]", "important, valuable"
+	"重大[じゅうだい]", "important, serious"
+essential:
+	"重要[じゅうよう]", "important, essential"
+	"肝心[かんじん]", "vital, essential"
+figure:
+	"姿[すがた]", "figure, appearance"
+	"数字[すうじ]", "figure, numeral"
+	"図[ず]", "figure, map"
+expectation:
+	"期待[きたい]", "expectation, anticipation"
+	"予想[よそう]", "prospect, expectation"
+power:
+	"力[ちから], 強[つよ]さ", "strength, power"
+	"勢力[せいりょく]", "influence, power"
+	"権力[けんりょく]", "power, authority"
+	"権威[けんい]", "authority, power"
+common:
+	"一般[いっぱん]", "general, common"
+	"通常[つうじょう]", "common, ordinary"
+this time:
+	"今回[こんかい]", "this time"
+	"今度[こんど]", "this time, next time"
+expression:
+	"表現[ひょうげん]", "expression"
+	"言[い]い 方[かた]", "way of speaking, expression"
+	"顔付[かおつ]き", "face, expression"
+schedule:
+	"予定[よてい]", "schedule, plan"
+	"スケジュール", "schedule"
+plant:
+	"工場[こうじょう]", "factory, plant"
+	"植物[しょくぶつ]", "plant, vegetation"
+production:
+	"生産[せいさん]", "production"
+	"製造[せいぞう]", "production, manufacture"
+	"製作[せいさく], 作製[さくせい]", "manufacture, production"
+completion:
+	"完成[かんせい]", "completion, finish"
+	"完了[かんりょう], 修了[しゅうりょう]", "completion"
+	"仕上[しあ]げ", "completion, finishing"
+change:
+	"変化[へんか], お 釣[つ]り", "change"
+	"乗[の]り 換[か]え", "change, transfer"
+	"変換[へんかん]", "change, conversion"
+existence:
+	"存在[そんざい]", "existence, being"
+	"生存[せいぞん]", "existence, survival"
+land:
+	"土地[とち]", "land"
+	"陸[おか]", "land, shore"
+to decrease:
+	"減[へ]る", "to decrease, to diminish"
+	"減[へ]らす", "to decrease, to reduce"
+consideration:
+	"検討[けんとう]", "consideration, inspection"
+	"審議[しんぎ]", "deliberation, consideration"
+	"考慮[こうりょ]", "consideration, deliberation"
+inspection:
+	"検討[けんとう]", "consideration, inspection"
+	"検査[けんさ]", "inspection, examination"
+beginning:
+	"開始[かいし], 初[はじ]め", "beginning"
+	"起源[きげん]", "origin, beginning"
+	"初歩[しょほ]", "first steps, beginning"
+competition:
+	"競争[きょうそう]", "competition"
+	"コンクール", "contest, competition"
+section:
+	"部分[ぶぶん]", "part, section"
+	"課[か]", "section, division, lesson"
+	"区分[くぶん], 区画[くかく]", "division, section"
+to disappear:
+	"消[き]える", "to be extinguished, to disappear"
+	"隠[かく]れる", "to hide, to disappear"
+	"無[な]くなる", "to disappear, to run short, to get lost"
+family:
+	"家族[かぞく]", "family, household"
+	"家庭[かてい]", "home, family"
+	"一家[いっか]", "household, family"
+household:
+	"家族[かぞく]", "family, household"
+	"一家[いっか]", "household, family"
+cause:
+	"理由[りゆう]", "reason, cause"
+	"原因[げんいん]", "cause, origin"
+	"せい", "cause, fault"
+organization:
+	"構成[こうせい]", "organization"
+	"制度[せいど]", "system, organization"
+	"組織[そしき]", "organization, constitution, tissue"
+	"結成[けっせい]", "organization, formation"
+reform:
+	"改革[かいかく]", "reform"
+	"改良[かいりょう]", "improvement, reform"
+conversation:
+	"会談[かいだん]", "conversation, meeting"
+	"会話[かいわ]", "conversation"
+president:
+	"会長[かいちょう]", "president, chairperson"
+	"議長[ぎちょう]", "chairman, president"
+to reach:
+	"広[ひろ]がる", "to spread out, to reach"
+	"達[たっ]する", "to attain, to reach"
+	"届[とど]く", "to reach, to be received"
+	"至[いた]る", "to come to, to reach"
+characteristic:
+	"特徴[とくちょう]", "distinctive feature, characteristic"
+	"固有[こゆう]", "peculiar to, characteristic"
+emphasis:
+	"強調[きょうちょう]", "emphasis, stress"
+	"重点[じゅうてん]", "important point, emphasis"
+stress:
+	"強調[きょうちょう]", "emphasis, stress"
+	"ストレス", "stress"
+	"アクセント", "accent, stress"
+course:
+	"方針[ほうしん]", "course, policy"
+	"方向[ほうこう]", "direction, course"
+	"コース, 進路[しんろ]", "course, route"
+	"過程[かてい]", "process, course"
+	"課程[かてい]", "course, curriculum"
+policy:
+	"方針[ほうしん]", "course, policy"
+	"政策[せいさく]", "policy, political measures"
+	"策[さく]", "scheme, policy"
+former:
+	"従来[じゅうらい]", "former, old"
+	"旧[きゅう]", "old, former"
+accident:
+	"事故[じこ]", "accident, incident"
+	"偶然[ぐうぜん]", "chance, accident"
+incident:
+	"事故[じこ]", "accident, incident"
+	"事[こと]", "thing, incident"
+capital:
+	"資金[しきん]", "funds, capital"
+	"首都[しゅと]", "capital"
+bank:
+	"銀行[ぎんこう]", "bank"
+	"岸[きし]", "shore, bank"
+truth:
+	"事実[じじつ]", "fact, truth"
+	"実際[じっさい]", "truth, actual state"
+	"本当[ほんとう], 真実[しんじつ]", "truth, reality"
+	"真理[しんり]", "truth"
+decision:
+	"決定[けってい]", "decision, settlement"
+	"判断[はんだん]", "judgment, decision"
+	"確定[かくてい]", "decision, confirmation"
+residence:
+	"住宅[じゅうたく]", "housing, residence"
+	"住[す]まい", "dwelling, residence"
+intense:
+	"激[はげ]しい", "violent, intense"
+	"厳[きび]しい", "strict, severe, intense"
+	"強烈[きょうれつ]", "intense, severe"
+result:
+	"結果[けっか]", "result, outcome"
+	"効果[こうか]", "effect, result"
+	"成果[せいか]", "result, fruit"
+total:
+	"全体[ぜんたい]", "whole, total"
+	"計[けい]", "total"
+command:
+	"命令[めいれい]", "command, order"
+	"制御[せいぎょ]", "control, command"
+	"指揮[しき]", "command, initiative"
+order:
+	"命令[めいれい]", "command, order"
+	"注文[ちゅうもん]", "order, request"
+	"前後[ぜんご]", "before and after, order"
+	"順序[じゅんじょ]", "order"
+	"順[じゅん]", "order, sequence"
+	"順番[じゅんばん]", "order, turn"
+	"順位[じゅんい]", "order, rank"
+operation:
+	"経営[けいえい]", "management, operation"
+	"運用[うんよう], 運営[うんえい]", "operation, management"
+origin:
+	"原因[げんいん]", "cause, origin"
+	"出身[しゅっしん]", "come from, origin"
+	"生[う]まれ", "birth, origin"
+	"起源[きげん]", "origin, beginning"
+position:
+	"立場[たちば]", "standpoint, position"
+	"位置[いち]", "position, standing"
+action:
+	"対策[たいさく]", "measure, action"
+	"行動[こうどう]", "action, conduct"
+	"活躍[かつやく]", "activity, action"
+	"作用[さよう]", "action, effect"
+to repeat:
+	"繰[く]り 返[かえ]す", "to repeat"
+	"重[かさ]ねる", "to pile up, to repeat"
+to add:
+	"加[くわ]える", "to add, to include"
+	"増[ふ]やす", "to increase, to add"
+	"足[た]す", "to add, to supplement"
+	"合[あ]わす", "to match, to add"
+opinion:
+	"意見[いけん]", "opinion"
+	"説[せつ]", "theory, opinion"
+	"見解[けんかい]", "opinion, view"
+design:
+	"設計[せっけい]", "design, plan"
+	"構想[こうそう]", "conception, design"
+	"柄[がら]", "pattern, design"
+structure:
+	"構造[こうぞう]", "construction, structure"
+	"建物[たてもの]", "building, structure"
+	"体制[たいせい]", "system, structure"
+opponent:
+	"相手[あいて]", "opponent"
+	"向[む]こう", "the other side, the other party, opponent"
+ability:
+	"能力[のうりょく]", "ability, capacity"
+	"才能[さいのう]", "talent, ability"
+capacity:
+	"能力[のうりょく]", "ability, capacity"
+	"性能[せいのう]", "performance, capacity"
+journalist:
+	"記者[きしゃ]", "journalist, reporter"
+	"ジャーナリスト", "journalist"
+service:
+	"サービス", "service, on the house"
+	"勤務[きんむ]", "duty, service"
+conference:
+	"会議[かいぎ]", "conference, meeting"
+	"協議[きょうぎ]", "conference, deliberation"
+equipment:
+	"装置[そうち]", "equipment, device"
+	"設備[せつび]", "equipment, facilities"
+record:
+	"記録[きろく]", "record, documentation"
+	"レコード", "record"
+	"成績[せいせき]", "results, record"
+	"記入[きにゅう]", "entry, record"
+school year:
+	"年度[ねんど]", "year, school year"
+	"学年[がくねん]", "school year, grade"
+industry:
+	"産業[さんぎょう]", "industry"
+	"工業[こうぎょう]", "industry, manufacturing industry"
+	"業界[ぎょうかい]", "industry, business world"
+scenery:
+	"背景[はいけい]", "background, scenery, setting"
+	"景色[けしき]", "scenery, landscape"
+demand:
+	"要求[ようきゅう]", "requirement, demand"
+	"需要[じゅよう]", "demand"
+	"催促[さいそく]", "demand, urging"
+citizens:
+	"市民[しみん]", "citizens, townsmen"
+	"民間[みんかん]", "citizens, civilians"
+practice:
+	"実行[じっこう]", "practice, execution"
+	"練習[れんしゅう], 実習[じっしゅう]", "practice, training"
+	"稽古[けいこ]", "practice, learning"
+judgment:
+	"判断[はんだん]", "judgment, decision"
+	"読[よ]み", "reading, judgment, foresight"
+	"眼鏡[めがね]", "glasses, judgment"
+	"裁判[さいばん]", "trial, judgment"
+constitution:
+	"組織[そしき]", "organization, constitution, tissue"
+	"憲法[けんぽう]", "constitution, constitutional law"
+tissue:
+	"組織[そしき]", "organization, constitution, tissue"
+	"ティッシュ", "tissue"
+to cure:
+	"直[なお]す", "to repair, to cure, to alter"
+	"治[なお]す", "to cure, to heal"
+concrete:
+	"具体的[ぐたいてき]", "concrete, specific"
+	"コンクリート", "concrete"
+group:
+	"グループ", "group"
+	"集団[しゅうだん]", "group, mass"
+entirely:
+	"全[まった]く", "entirely, truly, indeed"
+	"全[すべ]て", "all, entirely"
+indeed:
+	"全[まった]く", "entirely, truly, indeed"
+	"いかにも", "indeed, as if"
+view:
+	"見方[みかた]", "view, way of looking"
+	"考[かんが]え", "thought, view, idea"
+	"見解[けんかい]", "opinion, view"
+person in charge:
+	"担当[たんとう], 係[かかり]", "person in charge"
+	"主任[しゅにん]", "person in charge, head"
+proposal:
+	"提案[ていあん]", "proposition, proposal"
+	"案[あん]", "plan, proposal"
+final:
+	"最後[さいご], 最終[さいしゅう]", "last, final"
+	"決勝[けっしょう]", "final, final game"
+to invite:
+	"招[まね]く", "to invite, to beckon, to engage"
+	"迎[むか]える", "to welcome, to go out to meet, to invite"
+	"誘[さそ]う", "to invite, to ask out"
+attention:
+	"注目[ちゅうもく]", "attention, notice"
+	"注意[ちゅうい]", "attention, care, watch out"
+notice:
+	"注目[ちゅうもく]", "attention, notice"
+	"知[し]らせ", "information, notice"
+	"掲示[けいじ]", "notice, bulletin"
+criticism:
+	"批判[ひはん]", "criticism, comment"
+	"攻撃[こうげき]", "attack, criticism"
+culture:
+	"文化[ぶんか]", "culture"
+	"教養[きょうよう]", "culture, education"
+facilities:
+	"施設[しせつ]", "facilities, institution"
+	"設備[せつび]", "equipment, facilities"
+success:
+	"成功[せいこう]", "success"
+	"出世[しゅっせ]", "success, promotion"
+	"当[あ]たり", "hit, success"
+natural:
+	"当然[とうぜん]", "natural, as a matter of course"
+	"自然[しぜん]", "nature, natural, naturally"
+to put in order:
+	"まとめる", "to gather together, to put in order"
+	"片付[かたづ]ける", "to put in order, to dispose of, to do away with"
+speech:
+	"言語[げんご]", "language, speech"
+	"発言[はつげん]", "utterance, speech"
+	"演説[えんぜつ]", "speech, address"
+	"言論[げんろん]", "speech, discussion"
+	"スピーチ", "speech"
+education:
+	"教育[きょういく]", "education"
+	"教養[きょうよう]", "culture, education"
+youth:
+	"若者[わかもの]", "young person, youth"
+	"青年[せいねん]", "youth, young man"
+	"青春[せいしゅん]", "youth"
+extent:
+	"程度[ていど]", "degree, extent"
+	"広[ひろ]さ", "area, extent"
+to hit:
+	"当[あ]たる, 打[う]つ", "to hit, to strike"
+	"ぶつかる", "to hit, to bump into"
+	"叩[たた]く", "to tap, to hit"
+to strike:
+	"当[あ]たる, 打[う]つ", "to hit, to strike"
+	"擦[こす]る", "to rub, to strike"
+circumstances:
+	"事情[じじょう]", "circumstances, conditions"
+	"都合[つごう]", "circumstances"
+conditions:
+	"事情[じじょう]", "circumstances, conditions"
+	"状況[じょうきょう]", "state of affairs, conditions"
+disposition:
+	"傾向[けいこう]", "tendency, disposition"
+	"整理[せいり]", "disposition, arrangement"
+opening:
+	"開催[かいさい]", "holding (of an event), opening"
+	"開会[かいかい]", "opening, start a meeting"
+	"開放[かいほう]", "opening"
+letter:
+	"文字[もじ], 字[じ]", "character, letter"
+	"手紙[てがみ]", "letter"
+activity:
+	"活動[かつどう]", "activity"
+	"活躍[かつやく]", "activity, action"
+term:
+	"期間[きかん]", "term, period"
+	"期限[きげん]", "time limit, term"
+period:
+	"期間[きかん]", "term, period"
+	"生理[せいり]", "period, menstruation"
+standard:
+	"一定[いってい]", "constant, standard"
+	"基準[きじゅん]", "standard, criterion"
+	"水準[すいじゅん]", "level, standard"
+also:
+	"やはり", "as expected, also, still"
+	"又[また]", "again, also, or"
+state of affairs:
+	"状況[じょうきょう]", "state of affairs, conditions"
+	"事態[じたい]", "situation, state of affairs"
+confirmation:
+	"確認[かくにん]", "confirmation"
+	"確定[かくてい]", "decision, confirmation"
+passage:
+	"通過[つうか]", "passing, passage"
+	"通[とお]り", "passage, street"
+intimate:
+	"深[ふか]い", "deep, profound, intimate"
+	"親[した]しい", "intimate, familiar"
+noise:
+	"音[おと]", "sound, noise, speech sound, Chinese pronunciation of a character"
+	"雑音[ざつおん]", "noise, interference"
+basis:
+	"基本[きほん], 基礎[きそ]", "basis, foundation"
+	"根拠[こんきょ]", "grounds, basis"
+	"根本[こんぽん]", "basis, root"
+foundation:
+	"基本[きほん], 基礎[きそ]", "basis, foundation"
+	"設立[せつりつ]", "establishment, foundation"
+agreement:
+	"契約[けいやく]", "contract, agreement"
+	"一致[いっち]", "accord, agreement"
+	"賛成[さんせい]", "approval, agreement"
+to set up:
+	"設[もう]ける", "to set up, to establish"
+	"立[た]てる", "to stand, to set up, to establish"
+	"並[なら]べる", "to line up, to display, to set up"
+	"組[く]み 立[た]てる", "to build, to set up, to construct"
+to establish:
+	"設[もう]ける", "to set up, to establish"
+	"立[た]てる", "to stand, to set up, to establish"
+specially:
+	"特[とく]に", "specially, particularly"
+	"せっかく", "with much trouble, specially"
+boy:
+	"少年[しょうねん]", "boy"
+	"男[おとこ]の 子[こ]", "boy, baby boy"
+of course:
+	"もちろん", "of course, no doubt"
+	"当[あ]たり 前[まえ]", "of course, obvious"
+no doubt:
+	"もちろん", "of course, no doubt"
+	"さぞ", "no doubt, must"
+office:
+	"事務所[じむしょ]", "office, one's place of business"
+	"事務室[じむしつ]", "office"
+	"職場[しょくば]", "place of work, office"
+once:
+	"かつて", "once, formerly"
+	"一旦[いったん]", "once, for a while"
+abroad:
+	"海外[かいがい]", "overseas, abroad"
+	"国外[こくがい]", "abroad, outside the country"
+condition:
+	"条件[じょうけん]", "condition, item"
+	"具合[ぐあい]", "condition, health"
+item:
+	"条件[じょうけん]", "condition, item"
+	"品[しな]", "article, item"
+	"種目[しゅもく]", "item, event"
+	"項目[こうもく]", "item, clause"
+sea:
+	"海[うみ]", "sea, ocean"
+	"海洋[かいよう]", "ocean, sea"
+ocean:
+	"海[うみ]", "sea, ocean"
+	"海洋[かいよう]", "ocean, sea"
+antiquity:
+	"時代[じだい]", "age, antiquity"
+	"古代[こだい]", "ancient times, antiquity"
+season:
+	"時期[じき]", "time, season"
+	"季節[きせつ], シーズン", "season"
+manufacture:
+	"製造[せいぞう]", "production, manufacture"
+	"製作[せいさく], 作製[さくせい]", "manufacture, production"
+circumference:
+	"周辺[しゅうへん]", "environs, circumference"
+	"周囲[しゅうい]", "circumference, surroundings"
+connection:
+	"関連[かんれん]", "connection, relation"
+	"接続[せつぞく]", "connection, joining"
+trade:
+	"貿易[ぼうえき]", "trade, commerce"
+	"商業[しょうぎょう]", "commerce, trade"
+	"商売[しょうばい]", "trade, business"
+commerce:
+	"貿易[ぼうえき]", "trade, commerce"
+	"商業[しょうぎょう]", "commerce, trade"
+employee:
+	"社員[しゃいん]", "staff member, employee"
+	"職員[しょくいん]", "staff, employee"
+	"従業員[じゅうぎょういん]", "employee, worker"
+combination:
+	"結合[けつごう]", "combination, joining"
+	"合同[ごうどう]", "combination, joint"
+	"組[く]み 合[あ]わせ", "combination, assortment"
+	"統合[とうごう]", "integration, combination"
+joining:
+	"結合[けつごう]", "combination, joining"
+	"接続[せつぞく]", "connection, joining"
+nature:
+	"自然[しぜん]", "nature, natural, naturally"
+	"性質[せいしつ]", "nature, property"
+	"質[しつ]", "quality, nature"
+	"性[せい]", "sex, nature"
+naturally:
+	"自然[しぜん]", "nature, natural, naturally"
+	"自然[しぜん]に", "naturally, instinctively"
+to line up:
+	"並[なら]ぶ", "to line up, to be parallel"
+	"並[なら]べる", "to line up, to display, to set up"
+unchanged:
+	"そのまま", "like that, unchanged"
+	"有[あ]りのまま", "as it is, unchanged"
+next time:
+	"今度[こんど]", "this time, next time"
+	"次回[じかい]", "next time"
+to carry:
+	"運[はこ]ぶ", "to carry, to transport"
+	"担[かつ]ぐ", "to shoulder, to carry"
+to pass:
+	"経[た]つ", "to pass, to elapse"
+	"流[なが]れる", "to flow, to pass, to drift away"
+	"通[とお]る", "to pass, to take, to go through"
+	"過[す]ごす", "to pass, to let pass"
+	"追[お]い 抜[ぬ]く", "to pass, to overtake"
+	"受[う]かる", "to pass"
+foreigner:
+	"外国人[がいこくじん]", "foreigner"
+	"外人[がいじん]", "foreigner, alien"
+English:
+	"英語[えいご]", "English"
+	"英文[えいぶん]", "English, English writing"
+dangerous:
+	"危険[きけん]", "danger, dangerous"
+	"危[あぶ]ない", "dangerous, uncertain"
+regular:
+	"普通[ふつう]", "normal, regular"
+	"正式[せいしき]", "formal, regular"
+explanation:
+	"説明[せつめい]", "explanation, description"
+	"解釈[かいしゃく]", "interpretation, explanation"
+	"解説[かいせつ]", "explanation, commentary"
+description:
+	"説明[せつめい]", "explanation, description"
+	"記述[きじゅつ]", "description"
+to discuss:
+	"話[はな]し 合[あ]う", "to discuss, to talk over"
+	"打[う]ち 合[あ]わせる", "to arrange, to discuss"
+wood:
+	"木[き]", "tree, wood"
+	"材木[ざいもく]", "timber, wood"
+extremely:
+	"非常[ひじょう]に", "very, extremely"
+	"随分[ずいぶん]", "extremely, considerably"
+	"極[きわ]めて", "extremely, very"
+to shift:
+	"移[うつ]る", "to move, to shift"
+	"移[うつ]す", "to move, to shift, to transfer"
+airport:
+	"空港[くうこう]", "airport"
+	"飛行場[ひこうじょう]", "airport, airfield"
+precious:
+	"珍[めずら]しい", "rare, precious"
+	"貴重[きちょう]", "precious, valuable"
+to hurry:
+	"急[いそ]ぐ", "to hurry, to hasten"
+	"慌[あわ]てる", "to be flurried, to hurry"
+to hasten:
+	"急[いそ]ぐ", "to hurry, to hasten"
+	"促[うなが]す", "to hasten, to urge"
+intention:
+	"つもり", "intention, purpose"
+	"意向[いこう]", "intention, inclination"
+	"意図[いと]", "intention, aim"
+certainly:
+	"必[かなら]ず", "without fail, certainly"
+	"きっと", "surely, certainly"
+finally:
+	"やっと", "at last, finally"
+	"結局[けっきょく]", "after all, finally"
+	"いよいよ", "finally, any moment"
+stream:
+	"川[かわ]", "river, stream"
+	"小川[おがわ]", "brook, stream"
+consultation:
+	"相談[そうだん]", "consultation, advice"
+	"参考[さんこう]", "reference, consultation"
+advice:
+	"相談[そうだん]", "consultation, advice"
+	"アドバイス", "advice"
+awful:
+	"大変[たいへん]", "awful, serious"
+	"恐[おそ]ろしい", "terrible, awful"
+serious:
+	"大変[たいへん]", "awful, serious"
+	"真面目[まじめ]", "serious, sober, earnest"
+	"深刻[しんこく]", "serious, grave"
+	"真剣[しんけん]", "serious, sincere"
+	"重大[じゅうだい]", "important, serious"
+battle:
+	"戦争[せんそう]", "war, battle"
+	"争[あらそ]い", "conflict, battle"
+thought:
+	"考[かんが]え", "thought, view, idea"
+	"思想[しそう]", "thought, conception"
+	"感想[かんそう]", "thought, impression"
+idea:
+	"考[かんが]え", "thought, view, idea"
+	"アイデア", "idea"
+apartment:
+	"マンション", "apartment, apartment block, condominium"
+	"アパート", "apartment, flat, apartment house"
+cheerful:
+	"明[あか]るい", "bright, cheerful"
+	"軽快[けいかい]", "light, cheerful"
+gas:
+	"ガス", "gas"
+	"気体[きたい]", "gas, vapor"
+to grow:
+	"伸[の]びる", "to stretch, to grow"
+	"育[そだ]つ", "to be brought up, to grow"
+quiet:
+	"静[しず]か", "quiet, tranquil"
+	"大人[おとな]しい", "gentle, quiet, subdued"
+to be divided:
+	"分[わ]かれる", "to be divided, to disperse, to branch off"
+	"割[わ]れる", "to crack, to be divided, to split"
+complete:
+	"詳[くわ]しい", "detailed, complete"
+	"完全[かんぜん]", "perfect, complete"
+famous:
+	"有名[ゆうめい]", "famous"
+	"偉[えら]い", "great, famous, eminent"
+to abandon:
+	"捨[す]てる", "to discard, to abandon"
+	"投[な]げる", "to throw, to abandon"
+	"諦[あきら]める", "to abandon, to give up"
+to transfer:
+	"移[うつ]す", "to move, to shift, to transfer"
+	"乗[の]り 換[か]える", "to change, to transfer"
+to substitute:
+	"代[か]わる", "to substitute, to be substituted for"
+	"代[か]える", "to substitute, to use in place of"
+to settle:
+	"着[つ]く", "to arrive, to make contact, to settle"
+	"済[す]ます", "to settle, to complete"
+song:
+	"歌[うた]", "song"
+	"曲[きょく]", "song, melody, tune"
+pale:
+	"薄[うす]い", "thin, weak, pale"
+	"青白[あおじろ]い", "pale, pallid"
+departure:
+	"出発[しゅっぱつ]", "departure, starting"
+	"出国[しゅっこく]", "departure, emigration"
+to fall over:
+	"倒[たお]れる", "to fall over, to succumb"
+	"転[ころ]ぶ", "to tumble down, to fall over"
+seat:
+	"席[せき]", "seat, one's place"
+	"座席[ざせき]", "seat"
+	"客席[きゃくせき]", "seat, passenger seat"
+	"腰掛[こしか]け", "stool, seat"
+heat:
+	"熱[ねつ]", "heat, fever"
+	"暑[あつ]さ", "heat, summer heat"
+	"火力[かりょく]", "heating power, heat"
+extraordinary:
+	"特別[とくべつ]", "special, extraordinary"
+	"異常[いじょう]", "extraordinary, exceptional"
+glass:
+	"ガラス, グラス", "glass"
+	"コップ", "cup, glass"
+to shake:
+	"振[ふ]る", "to wave, to shake, to brandish"
+	"揺[ゆ]れる", "to shake, to sway, to rock"
+	"震[ふる]える", "to tremble, to quiver, to shake"
+cooking:
+	"料理[りょうり]", "cooking, handling"
+	"炊事[すいじ]", "cooking"
+to believe:
+	"信[しん]じる", "to believe, to trust, to have faith in"
+	"思[おも]い 込[こ]む", "to assume, to believe"
+to turn down:
+	"下[さ]げる", "to lower, to turn down"
+	"断[ことわ]る", "to refuse, to turn down"
+black:
+	"黒[くろ]い", "black, dark"
+	"黒[くろ]", "black"
+dark:
+	"黒[くろ]い", "black, dark"
+	"暗[くら]い", "dark, dreary, shadowy"
+sun:
+	"太陽[たいよう]", "sun"
+	"日[ひ]", "sun, sunlight, day"
+taste:
+	"味[あじ]", "taste, flavor"
+	"好[この]み", "taste, preference"
+	"好[す]き 嫌[きら]い", "likes and dislikes, taste"
+fault:
+	"故障[こしょう]", "malfunction, fault, breakdown"
+	"せい", "cause, fault"
+	"過[あやま]ち", "fault, mistake"
+rear:
+	"裏[うら]", "rear, reverse, inside"
+	"後方[こうほう]", "back, rear"
+reverse:
+	"裏[うら]", "rear, reverse, inside"
+	"逆[ぎゃく]", "reverse, inverse"
+	"逆[さか]さ", "reverse, inversion"
+	"逆[さか]さま", "upside-down, reverse"
+inside:
+	"裏[うら]", "rear, reverse, inside"
+	"内側[うちがわ]", "inside, interior"
+	"中[なか]", "inside, middle"
+	"内[うち]", "inside"
+shutter:
+	"戸[と]", "door, shutter"
+	"シャッター", "shutter"
+entrance:
+	"玄関[げんかん]", "entrance, door"
+	"入[い]り 口[ぐち]", "entrance"
+to photograph:
+	"撮[と]る", "to photograph, to shoot, to film"
+	"写[うつ]す", "to copy, to photograph"
+to shoot:
+	"撮[と]る", "to photograph, to shoot, to film"
+	"撃[う]つ", "to fire, to shoot"
+map:
+	"地図[ちず]", "map, atlas"
+	"図[ず]", "figure, map"
+coast:
+	"海岸[かいがん]", "seashore, coast"
+	"沿岸[えんがん]", "coast, shore"
+suddenly:
+	"急[きゅう]に", "suddenly, unexpectedly"
+	"さっと", "quickly, suddenly"
+unexpectedly:
+	"急[きゅう]に", "suddenly, unexpectedly"
+	"案外[あんがい]", "unexpectedly"
+busy:
+	"忙[いそが]しい", "busy, occupied"
+	"慌[あわ]ただしい", "busy"
+test:
+	"テスト", "test, exam"
+	"試験[しけん]", "test, examination"
+all over:
+	"あちこち", "all over"
+	"あちらこちら", "all over, here and there"
+	"至[いた]る 所[ところ]", "everywhere, all over"
+examination:
+	"試験[しけん]", "test, examination"
+	"検査[けんさ]", "inspection, examination"
+rule:
+	"規則[きそく]", "rule, regulation"
+	"決[き]まり", "settlement, rule"
+regulation:
+	"規則[きそく]", "rule, regulation"
+	"規定[きてい]", "regulation, provision"
+	"規制[きせい]", "regulation, control"
+textbook:
+	"教科書[きょうかしょ]", "textbook, schoolbook"
+	"テキスト", "textbook, text, text file"
+urgent:
+	"急[きゅう]", "urgent, dire, pressing"
+	"緊急[きんきゅう], 至急[しきゅう]", "urgent, pressing"
+pressing:
+	"急[きゅう]", "urgent, dire, pressing"
+	"緊急[きんきゅう], 至急[しきゅう]", "urgent, pressing"
+forest:
+	"森[もり]", "thick woods, forest"
+	"森林[しんりん]", "forest, woodland"
+play:
+	"遊[あそ]び", "play, amusement"
+	"劇[げき], 演劇[えんげき]", "drama, play"
+amusement:
+	"遊[あそ]び", "play, amusement"
+	"娯楽[ごらく]", "amusement, pastime"
+customer:
+	"得意[とくい]", "one's forte, pride, customer"
+	"客[きゃく]", "visitor, customer"
+to come down:
+	"下[さ]がる", "to come down, to hang down, to fall"
+	"下[お]りる", "to go down, to come down"
+	"降[ふ]る", "to fall, to come down"
+restaurant:
+	"レストラン", "restaurant"
+	"食堂[しょくどう]", "dining hall, restaurant"
+doctor:
+	"医者[いしゃ], お 医者[いしゃ]さん", "doctor"
+	"医師[いし]", "doctor, physician"
+signal:
+	"信号[しんごう]", "signal, traffic light"
+	"合図[あいず]", "signal, sign"
+amusing:
+	"面白[おもしろ]い", "interesting, amusing"
+	"おかしい", "strange, peculiar, suspicious, funny, amusing, comical"
+shopping:
+	"買[か]い 物[もの]", "shopping, purchase"
+	"ショッピング", "shopping"
+purchase:
+	"買[か]い 物[もの]", "shopping, purchase"
+	"購入[こうにゅう]", "purchase"
+future:
+	"未来[みらい]", "future"
+	"将来[しょうらい]", "future, in the future"
+principal:
+	"校長[こうちょう]", "principal, schoolmaster"
+	"主要[しゅよう]", "main, principal"
+department:
+	"デパート", "department store, department"
+	"売[う]り 場[ば]", "sales floor, department"
+	"学科[がっか]", "subject, department"
+	"学部[がくぶ]", "faculty, department"
+	"部門[ぶもん]", "division, department"
+memory:
+	"思[おも]い 出[で]", "recollections, memory"
+	"記憶[きおく]", "memory, recollection"
+	"記念[きねん]", "commemoration, memory"
+	"覚[おぼ]え", "recollection, memory"
+coat:
+	"コート", "coat, jacket, court"
+	"上着[うわぎ]", "coat, jacket"
+jacket:
+	"コート", "coat, jacket, court"
+	"上着[うわぎ]", "coat, jacket"
+court:
+	"コート", "coat, jacket, court"
+	"庭[にわ]", "garden, court"
+to burn:
+	"燃[も]える", "to burn, to undergo combustion"
+	"焼[や]ける", "to burn, to be scorched, to be baked"
+	"焼[や]く", "to burn, to bake, to be envious"
+	"焦[こ]げる", "to scorch, to burn"
+division:
+	"課[か]", "section, division, lesson"
+	"割[わ]り 算[ざん]", "division"
+	"区分[くぶん], 区画[くかく]", "division, section"
+	"部門[ぶもん]", "division, department"
+shoes:
+	"靴[くつ]", "shoes, boots"
+	"シューズ", "shoes, sports shoes"
+holiday:
+	"休日[きゅうじつ]", "holiday, day off"
+	"休[やす]み", "rest, holiday, absence"
+	"祝日[しゅくじつ]", "holiday, festival day"
+	"休暇[きゅうか]", "holiday, vacation"
+request:
+	"注文[ちゅうもん]", "order, request"
+	"依頼[いらい]", "request, commission"
+training:
+	"練習[れんしゅう], 実習[じっしゅう]", "practice, training"
+	"訓練[くんれん]", "training, drill"
+to wrap:
+	"巻[ま]く", "to roll up, to wind, to wrap"
+	"包[つつ]む", "to wrap, to pack"
+blue:
+	"青[あお]い", "blue"
+	"青[あお]", "blue, green, green light"
+strange:
+	"おかしい", "strange, peculiar, suspicious, funny, amusing, comical"
+	"変[へん]", "strange, weird, funny"
+suspicious:
+	"おかしい", "strange, peculiar, suspicious, funny, amusing, comical"
+	"怪[あや]しい", "suspicious, dubious"
+funny:
+	"おかしい", "strange, peculiar, suspicious, funny, amusing, comical"
+	"変[へん]", "strange, weird, funny"
+to go across:
+	"渡[わた]る", "to cross, to ford, to go across"
+	"越[こ]える", "to go over, to go across, to go beyond"
+to divide:
+	"割[わ]る", "to divide, to crack, to split"
+	"区切[くぎ]る", "to punctuate, to divide"
+to crack:
+	"割[わ]る", "to divide, to crack, to split"
+	"割[わ]れる", "to crack, to be divided, to split"
+to split:
+	"割[わ]る", "to divide, to crack, to split"
+	"割[わ]れる", "to crack, to be divided, to split"
+	"裂[さ]ける", "to split, to tear"
+to cry:
+	"泣[な]く", "to cry, to weep"
+	"鳴[な]く", "to cry, to chirp, to meow"
+roof:
+	"屋根[やね]", "roof"
+	"屋上[おくじょう]", "housetop, roof"
+guide:
+	"案内[あんない]", "guide, inform"
+	"指導[しどう]", "guide, lead"
+	"ガイド", "guide"
+to tear:
+	"破[やぶ]る", "to tear, to break through, to breach"
+	"破[やぶ]れる", "to tear, to rip open"
+	"裂[さ]ける", "to split, to tear"
+article:
+	"品物[しなもの]", "article, thing"
+	"記事[きじ]", "article, story"
+	"品[しな]", "article, item"
+thing:
+	"品物[しなもの]", "article, thing"
+	"物[もの]", "thing, object"
+	"事[こと]", "thing, incident"
+to lend:
+	"貸[か]す", "to lend, to lease"
+	"貸[か]し 出[だ]す", "to lend, to lend out"
+to set:
+	"沈[しず]む", "to sink, to set"
+	"付[つ]ける", "to attach, to set, to apply"
+to get tired:
+	"疲[つか]れる", "to get tired, to become fatigued"
+	"くたびれる", "to get tired, to be worn out"
+habit:
+	"習慣[しゅうかん]", "custom, habit"
+	"癖[くせ]", "habit, mannerism"
+interest:
+	"趣味[しゅみ]", "hobby, interest"
+	"関心[かんしん]", "concern, interest"
+	"金利[きんり]", "interest, interest rate"
+	"興味[きょうみ]", "interest"
+to rob:
+	"盗[ぬす]む", "to steal, to rob"
+	"奪[うば]う", "to rob, to take by force"
+misfortune:
+	"不幸[ふこう]", "unhappiness, misfortune, bereavement"
+	"災難[さいなん]", "calamity, misfortune"
+weight:
+	"重[おも]さ, 重量[じゅうりょう]", "weight"
+	"重[おも]み", "weight, importance"
+relief:
+	"安心[あんしん]", "peace of mind, relief"
+	"救助[きゅうじょ], 救[すく]い", "rescue, relief"
+not at all:
+	"なかなか", "not at all, hardly"
+	"一切[いっさい]", "not at all, not one bit"
+	"さっぱり", "completely, not at all"
+platform:
+	"ホーム", "platform"
+	"台[だい]", "stand, platform"
+good fortune:
+	"幸[しあわ]せ, 幸[さいわ]い, 幸福[こうふく]", "happiness, good fortune"
+	"幸運[こううん]", "good fortune, good luck"
+to inhale:
+	"吸[す]う", "to inhale, to suck"
+	"吸[す]い 込[こ]む", "to inhale, to suck in"
+to break:
+	"壊[こわ]す", "to break, to destroy, to smash"
+	"壊[こわ]れる", "to break, to break down, to get out of order"
+	"崩[くず]す", "to destroy, to break"
+to destroy:
+	"壊[こわ]す", "to break, to destroy, to smash"
+	"崩[くず]す", "to destroy, to break"
+to smash:
+	"壊[こわ]す", "to break, to destroy, to smash"
+	"砕[くだ]く", "to crush, to smash"
+excellent:
+	"立派[りっぱ]", "fine, excellent"
+	"素晴[すば]らしい", "splendid, excellent"
+great:
+	"凄[すご]い", "wonderful, great, incredible"
+	"偉[えら]い", "great, famous, eminent"
+	"偉大[いだい]", "great, mighty"
+bread:
+	"パン", "bread"
+	"食[しょく]パン", "bread, loaf of bread"
+rest:
+	"休[やす]み", "rest, holiday, absence"
+	"休憩[きゅうけい]", "rest, repose"
+	"休養[きゅうよう]", "rest, recreation"
+	"休息[きゅうそく]", "rest, break"
+absence:
+	"休[やす]み", "rest, holiday, absence"
+	"欠席[けっせき]", "absence, nonattendance"
+	"休学[きゅうがく]", "leave of absence, absence"
+to serve:
+	"足[た]りる", "to suffice, to serve, to be satisfied"
+	"勤[つと]める", "to serve, to hold a job"
+boat:
+	"ボート", "boat"
+	"船[ふね]", "ship, boat, vessel"
+ball:
+	"ボール", "ball"
+	"球[きゅう]", "globe, ball"
+motorbike:
+	"オートバイ", "motorbike, motorcycle"
+	"バイク", "motorbike, motor cycle"
+to hide:
+	"隠[かく]れる", "to hide, to disappear"
+	"隠[かく]す", "to hide, to conceal"
+	"覆[おお]う", "to cover, to hide"
+kindness:
+	"親切[しんせつ]", "kind, friendly, kindness"
+	"思[おも]いやり", "thoughtfulness, kindness"
+	"恩[おん]", "debt of gratitude, kindness"
+to apply:
+	"付[つ]ける", "to attach, to set, to apply"
+	"申[もう]し 込[こ]む", "to apply, to make a proposal"
+milk:
+	"牛乳[ぎゅうにゅう]", "milk"
+	"ミルク", "milk, baby milk"
+address:
+	"住所[じゅうしょ]", "one's dwelling, address"
+	"番地[ばんち]", "lot number, address"
+	"演説[えんぜつ]", "speech, address"
+to go down:
+	"下[お]りる", "to go down, to come down"
+	"下[くだ]る", "to go down, to go down or away from a central place"
+	"傾[かたむ]く", "to decline, to go down"
+fruit:
+	"果物[くだもの]", "fruit"
+	"成果[せいか]", "result, fruit"
+mistake:
+	"間違[まちが]い", "mistake, error"
+	"失敗[しっぱい]", "failure, mistake"
+	"誤[あやま]り", "error, mistake"
+	"過[あやま]ち", "fault, mistake"
+error:
+	"間違[まちが]い", "mistake, error"
+	"誤[あやま]り", "error, mistake"
+you:
+	"あなた, 君[きみ]", "you"
+	"お 宅[たく]", "your home, you, fan, geek"
+	"お 前[まえ]", "you, darling"
+cleaning:
+	"掃除[そうじ]", "cleaning"
+	"クリーニング", "cleaning, laundry"
+at all times:
+	"いつでも", "always, at all times"
+	"始終[しじゅう]", "from beginning to end, at all times"
+lonely:
+	"寂[さび]しい", "lonely, desolate, sad"
+	"孤独[こどく]", "solitary, lonely"
+	"心細[こころぼそ]い", "helpless, lonely"
+at all:
+	"少[すこ]しも", "at all"
+	"全然[ぜんぜん]", "wholly, at all"
+	"一向[いっこう]に", "absolutely, at all"
+reading:
+	"読[よ]み", "reading, judgment, foresight"
+	"読[よ]み 方[かた]", "way of reading, reading"
+to plant:
+	"植[う]える", "to plant, to raise"
+	"まく", "to scatter, to plant"
+oil:
+	"油[あぶら]", "oil, animal oil"
+	"石油[せきゆ]", "petroleum, oil"
+honest:
+	"正直[しょうじき]", "honest, upright"
+	"素直[すなお]", "honest, straightforward"
+drama:
+	"ドラマ", "drama, theater, soap opera"
+	"劇[げき], 演劇[えんげき]", "drama, play"
+theater:
+	"ドラマ", "drama, theater, soap opera"
+	"劇場[げきじょう]", "theater"
+channel:
+	"水道[すいどう]", "water service, channel"
+	"チャンネル", "channel"
+	"海峡[かいきょう]", "straits, channel"
+clerk:
+	"店員[てんいん]", "clerk, salesperson"
+	"事務員[じむいん]", "clerk, clerical staff"
+salesperson:
+	"店員[てんいん]", "clerk, salesperson"
+	"セールスマン", "sales representative, salesperson"
+tight:
+	"固[かた]い", "stiff, tight"
+	"きつい", "tight, difficult, severe, hard, strict"
+	"窮屈[きゅうくつ]", "tight, cramped"
+to get lost:
+	"迷[まよ]う", "to be perplexed, to hesitate, to get lost"
+	"無[な]くなる", "to disappear, to run short, to get lost"
+sightseeing:
+	"見物[けんぶつ]", "sightseeing, visit"
+	"観光[かんこう]", "sightseeing"
+composition:
+	"作文[さくぶん]", "composition, essay"
+	"合成[ごうせい]", "composition, synthesis"
+	"作曲[さっきょく]", "composition"
+sober:
+	"真面目[まじめ]", "serious, sober, earnest"
+	"地味[じみ]", "plain, sober"
+to like:
+	"気[き]に 入[い]る", "to like, to be pleased with"
+	"好[この]む", "to like, to be fond of"
+bitter:
+	"苦[にが]い", "bitter, sour"
+	"渋[しぶ]い", "bitter, astringent"
+bag:
+	"バッグ", "bag"
+	"袋[ふくろ]", "bag, sack"
+	"鞄[かばん]", "bag, handbag, briefcase"
+until now:
+	"今[いま]まで", "until now, so far"
+	"これまで", "until now, until here"
+ticket:
+	"切符[きっぷ], チケット", "ticket"
+	"券[けん]", "voucher, ticket"
+after all:
+	"やっぱり", "just as I thought, after all"
+	"結局[けっきょく]", "after all, finally"
+fire:
+	"火事[かじ], 火[ひ]", "fire"
+	"火災[かさい]", "fire, conflagration"
+ladies and gentlemen:
+	"皆[みな]さん", "everybody, ladies and gentlemen"
+	"皆様[みなさま]", "everyone, ladies and gentlemen"
+deposit:
+	"貯金[ちょきん]", "savings, deposit"
+	"敷金[しききん]", "deposit, key money"
+to bite:
+	"噛[か]む", "to bite, to chew"
+	"かじる", "to nibble, to bite"
+hard:
+	"きつい", "tight, difficult, severe, hard, strict"
+	"せっせと", "hard, diligently"
+	"かちかち", "hard, solid"
+to go over:
+	"越[こ]える", "to go over, to go across, to go beyond"
+	"越[こ]す", "to go over, to surmount"
+delivery:
+	"配達[はいたつ]", "delivery"
+	"出産[しゅっさん]", "birth, delivery"
+charming:
+	"可愛[かわい]い", "cute, charming, sweet"
+	"可愛[かわい]らしい", "lovely, charming"
+some time ago:
+	"さっき", "some time ago, only a moment ago"
+	"先程[さきほど]", "some time ago, a little while ago"
+soft:
+	"柔[やわ]らかい", "soft"
+	"柔[やわ]らか", "soft, tender, gentle"
+idle talk:
+	"おしゃべり", "chatter, talkative, idle talk"
+	"雑談[ざつだん]", "chat, idle talk"
+to bend:
+	"曲[ま]げる", "to bend, to curve"
+	"折[お]る", "to break off, to fold, to bend"
+surely:
+	"きっと", "surely, certainly"
+	"実[じつ]に", "truly, surely"
+refreshing:
+	"涼[すず]しい", "cool, refreshing"
+	"爽[さわ]やか", "refreshing, clear"
+air conditioning:
+	"冷房[れいぼう]", "air conditioning"
+	"クーラー", "air conditioning, cooler"
+zero:
+	"ゼロ", "zero"
+	"零[れい]", "zero, naught"
+weak point:
+	"苦手[にがて]", "person that is hard to deal with, weak point"
+	"欠点[けってん]", "weak point, defect"
+	"弱点[じゃくてん]", "weak point"
+moving:
+	"引[ひ]っ 越[こ]し", "moving"
+	"感激[かんげき]", "deep emotion, moving"
+the other day:
+	"この 間[あいだ]", "the other day, recently"
+	"先日[せんじつ]", "the other day, a few days ago"
+recently:
+	"この 間[あいだ]", "the other day, recently"
+	"この 頃[ごろ]", "now, these days, recently"
+wool:
+	"毛[け]", "hair, wool"
+	"ウール", "wool"
+	"毛糸[けいと]", "woolen yarn, wool"
+uncle:
+	"おじ", "uncle"
+	"おじさん", "uncle, Mister, middle-aged man"
+to bring down:
+	"下[お]ろす", "to bring down, to take down, to pull down"
+	"倒[たお]す", "to bring down, to overthrow, to defeat"
+to fold:
+	"折[お]る", "to break off, to fold, to bend"
+	"畳[たた]む", "to fold, to shut"
+noisy:
+	"うるさい", "noisy, annoying, pesky, bothersome"
+	"騒[さわ]がしい", "noisy"
+pitiable:
+	"可哀相[かわいそう]", "poor, pitiable"
+	"気[き]の 毒[どく]", "pitiable, regrettable"
+bookstore:
+	"本屋[ほんや]", "bookstore, bookseller"
+	"書店[しょてん]", "bookstore"
+cup:
+	"コップ", "cup, glass"
+	"カップ", "cup"
+rice field:
+	"田[た]んぼ", "rice field"
+	"水田[すいでん]", "paddy field, rice field"
+for life:
+	"一生懸命[いっしょうけんめい]", "for life, with all one's might"
+	"生涯[しょうがい]", "for life, lifetime"
+with all one's might:
+	"一生懸命[いっしょうけんめい]", "for life, with all one's might"
+	"思[おも]い 切[き]り", "to one's heart's content, with all one's might"
+to dry:
+	"乾[かわ]く", "to dry, to run dry"
+	"干[ほ]す", "to dry, to desiccate"
+	"乾[かわ]かす", "to dry"
+	"拭[ふ]く", "to wipe, to dry"
+match:
+	"マッチ", "match, matchbox"
+	"試合[しあい]", "match, game"
+	"勝負[しょうぶ]", "match"
+	"競技[きょうぎ]", "match, sporting event"
+to cool:
+	"冷[ひ]やす", "to cool, to chill"
+	"冷[さ]ます", "to cool, to let cool"
+date:
+	"デート, 月日[がっぴ]", "date"
+	"期日[きじつ]", "date, due date"
+to boil:
+	"炊[た]く", "to cook, to boil"
+	"沸[わ]く", "to boil, to be excited"
+	"沸[わ]かす", "to boil, to excite"
+to scold:
+	"怒[おこ]る", "to get angry, to scold"
+	"叱[しか]る", "to scold, to tell off, to reprimand"
+to supplement:
+	"足[た]す", "to add, to supplement"
+	"補[おぎな]う", "to supplement, to replenish"
+start:
+	"発車[はっしゃ]", "start, leave"
+	"スタート", "start, begin"
+calendar:
+	"カレンダー", "calendar"
+	"暦[こよみ]", "calendar, almanac"
+handbag:
+	"ハンドバッグ", "handbag"
+	"鞄[かばん]", "bag, handbag, briefcase"
+bell:
+	"ベル", "bell"
+	"鐘[かね]", "bell, gong"
+nap:
+	"昼寝[ひるね]", "siesta, nap"
+	"居眠[いねむ]り", "doze, nap"
+other side:
+	"向[む]こう 側[がわ]", "other side"
+	"あっち", "other side, there"
+thanks:
+	"お 礼[れい]", "thanks, reward, return present"
+	"感謝[かんしゃ]", "gratitude, thanks"
+crossing:
+	"交差点[こうさてん]", "crossing, intersection"
+	"横断[おうだん]", "crossing, traversing"
+intersection:
+	"交差点[こうさてん]", "crossing, intersection"
+	"四[よ]つ 角[かど]", "street corner, intersection"
+belt:
+	"ベルト", "belt"
+	"帯[おび]", "belt, sash"
+to overtake:
+	"追[お]い 越[こ]す", "to outrun, to overtake"
+	"追[お]い 抜[ぬ]く", "to pass, to overtake"
+	"追[お]い 付[つ]く", "to overtake, to catch up with"
+Japanese syllabary:
+	"仮名[かな]", "kana, Japanese syllabary"
+	"五十音[ごじゅうおん]", "Japanese syllabary"
+to be present:
+	"居[い]る", "to be present"
+	"居[お]る", "to be present, to stay (humble)"
+aunt:
+	"おば", "aunt"
+	"おばさん", "aunt, middle-aged woman"
+corner:
+	"角[かど]", "corner, edge, angle"
+	"曲[ま]がり 角[かど], コーナー", "corner"
+	"隅[すみ]", "nook, corner"
+angle:
+	"角[かど]", "corner, edge, angle"
+	"角度[かくど]", "angle"
+generally:
+	"大抵[たいてい]", "generally, mostly"
+	"一般[いっぱん]に", "generally, in general"
+mostly:
+	"大抵[たいてい]", "generally, mostly"
+	"主[おも]に", "mainly, mostly"
+to wish for:
+	"欲[ほ]しがる", "to desire, to wish for, to covet"
+	"祈[いの]る", "to pray, to wish for"
+square:
+	"四角[しかく]", "square, quadrilateral"
+	"四角[しかく]い", "square, four-sided"
+	"正方形[せいほうけい]", "square"
+smile:
+	"にこにこ", "smile"
+	"笑顔[えがお]", "smiling face, smile"
+transfer:
+	"乗[の]り 換[か]え", "change, transfer"
+	"移転[いてん]", "transfer, change of address"
+example:
+	"例文[れいぶん]", "illustrative sentence, example"
+	"例[れい]", "example, precedent"
+	"実例[じつれい]", "example, instance"
+stop:
+	"停留所[ていりゅうじょ]", "stop, station"
+	"ストップ", "stop"
+supper:
+	"夕飯[ゆうはん]", "evening meal, supper"
+	"夕食[ゆうしょく]", "supper"
+all right:
+	"よろしい", "all right"
+	"結構[けっこう]", "all right, no thank you, quite"
+to be settled:
+	"片付[かたづ]く", "to be put in order, to be settled"
+	"済[す]む", "to be settled, to complete"
+feel excited:
+	"どきどき", "feel excited, feel nervous"
+	"うきうき", "feel excited"
+sweets:
+	"飴[あめ]", "candy, sweets"
+	"お 菓子[かし]", "sweets, snacks"
+policeman:
+	"お 巡[まわ]りさん", "policeman"
+	"警官[けいかん]", "police officer, policeman"
+preparation:
+	"予習[よしゅう]", "preparation, previewing (a lesson)"
+	"支度[したく]", "arrangement, preparation"
+	"下調[したしら]べ", "preliminary investigation, preparation"
+to spill:
+	"こぼす", "to spill"
+	"こぼれる", "to spill, to overflow"
+gradually:
+	"段々[だんだん]", "gradually, one after another"
+	"次第[しだい]に", "gradually, by degrees"
+free time:
+	"暇[ひま]", "free time, spare time"
+	"空[あ]き", "vacancy, free time"
+pork:
+	"豚[ぶた]", "pig, pork"
+	"豚肉[ぶたにく]", "pork, hog meat"
+properly:
+	"よろしく", "properly, one's regards"
+	"きちんと", "properly, neatly"
+to exchange:
+	"換[か]える", "to exchange, to convert"
+	"交[か]わす", "to exchange"
+empty:
+	"がらがら", "empty, gargle"
+	"空[から]っぽ", "empty"
+festival day:
+	"祝日[しゅくじつ]", "holiday, festival day"
+	"祭日[さいじつ]", "national holiday, festival day"
+outside:
+	"外側[そとがわ]", "exterior, outside"
+	"表[おもて]", "front side, face, outside"
+	"外[そと]", "outside, open air"
+	"外部[がいぶ]", "outside, outer"
+bathhouse:
+	"風呂屋[ふろや]", "bathhouse, public bath"
+	"湯[ゆ]", "hot water, hot bath, bathhouse"
+interval:
+	"間[あいだ]", "interval"
+	"距離[きょり]", "distance, interval"
+	"間隔[かんかく]", "interval, space"
+	"間[かん]", "interval, duration of time"
+so:
+	"あんなに, そんなに", "that, so"
+	"こんなに", "this, so, such"
+shape:
+	"形[かたち]", "shape, form"
+	"格好[かっこう]", "shape, appearance"
+form:
+	"形[かたち]", "shape, form"
+	"形式[けいしき]", "form, model"
+quarrel:
+	"喧嘩[けんか]", "fight, quarrel, argument"
+	"口[くち]げんか", "quarrel"
+argument:
+	"喧嘩[けんか]", "fight, quarrel, argument"
+	"議論[ぎろん]", "argument, discussion"
+answer:
+	"答[こた]え", "answer, solution"
+	"返事[へんじ]", "answer, reply"
+	"回答[かいとう]", "reply, answer"
+	"解答[かいとう]", "solution, answer"
+these days:
+	"この 頃[ごろ]", "now, these days, recently"
+	"今日[こんにち]", "today, these days"
+to break down:
+	"壊[こわ]れる", "to break, to break down, to get out of order"
+	"砕[くだ]ける", "to be crushed, to break down"
+to get out of order:
+	"壊[こわ]れる", "to break, to break down, to get out of order"
+	"狂[くる]う", "to become insane, to get out of order"
+potato:
+	"ジャガイモ", "potato"
+	"芋[いも]", "potato, yam"
+washing:
+	"洗濯[せんたく]", "laundering, washing"
+	"水洗[すいせん]", "flushing, washing"
+importance:
+	"大事[だいじ]", "importance"
+	"重視[じゅうし]", "importance, value"
+	"重[おも]み", "weight, importance"
+valuable:
+	"大切[たいせつ]", "important, valuable"
+	"貴重[きちょう]", "precious, valuable"
+to save:
+	"助[たす]ける", "to help, to save"
+	"救[すく]う", "to save, to relieve"
+just:
+	"ちょうど", "just, as if"
+	"正当[せいとう]", "just, legal"
+as if:
+	"ちょうど", "just, as if"
+	"いかにも", "indeed, as if"
+nail:
+	"爪[つめ]", "nail, claw"
+	"釘[くぎ]", "nail, spike"
+lively:
+	"賑[にぎ]やか", "lively, exciting"
+	"活発[かっぱつ]", "lively, active"
+	"生[い]き 生[い]きと", "lively, vividly"
+people:
+	"人間[にんげん]", "human being, people"
+	"人々[ひとびと], 方々[かたがた]", "people"
+to get wet:
+	"濡[ぬ]れる", "to get wet"
+	"湿[しめ]る", "to get damp, to get wet"
+to stick:
+	"貼[は]る", "to stick, to paste"
+	"くっ 付[つ]く", "to stick, to cling"
+	"刺[さ]さる", "to stick, to be stuck"
+to paste:
+	"貼[は]る", "to stick, to paste"
+	"くっ 付[つ]ける", "to join, to paste"
+vessel:
+	"船[ふね]", "ship, boat, vessel"
+	"器[うつわ]", "vessel, dish"
+reply:
+	"返事[へんじ]", "answer, reply"
+	"回答[かいとう]", "reply, answer"
+star:
+	"星[ほし]", "star, planet, spot"
+	"スター", "star"
+reality:
+	"本当[ほんとう], 真実[しんじつ]", "truth, reality"
+	"現実[げんじつ]", "actuality, reality"
+last night:
+	"昨夜[ゆうべ], 昨晩[さくばん]", "last night, last evening"
+	"昨夜[さくや]", "last night"
+welcome:
+	"ようこそ, 歓迎[かんげい]", "welcome"
+	"有[あ]り 難[がた]い", "welcome, grateful"
+absolutely:
+	"絶対[ぜったい]に", "absolutely, unconditionally"
+	"絶対[ぜったい]", "absolutely"
+	"一向[いっこう]に", "absolutely, at all"
+maintenance:
+	"整備[せいび]", "maintenance, servicing"
+	"維持[いじ]", "maintenance, upkeep"
+	"支持[しじ]", "support, maintenance"
+bill:
+	"証券[しょうけん]", "bill, bond"
+	"札[さつ]", "bill, paper money"
+establishment:
+	"設立[せつりつ]", "establishment, foundation"
+	"設置[せっち], 確立[かくりつ]", "establishment"
+chief:
+	"頭[かしら]", "head, chief"
+	"主[おも]", "main, chief"
+appointment:
+	"就任[しゅうにん]", "inauguration, appointment"
+	"指定[してい]", "designation, appointment"
+assembly:
+	"議会[ぎかい]", "assembly, council"
+	"集合[しゅうごう], 集[あつ]まり", "gathering, assembly"
+advancement:
+	"進出[しんしゅつ], 進行[しんこう], 前進[ぜんしん]", "advancement"
+	"進歩[しんぽ]", "progress, advancement"
+deliberation:
+	"協議[きょうぎ]", "conference, deliberation"
+	"審議[しんぎ]", "deliberation, consideration"
+	"考慮[こうりょ]", "consideration, deliberation"
+shift:
+	"移動[いどう]", "movement, shift"
+	"交替[こうたい]", "alternation, shift"
+finance:
+	"金融[きんゆう]", "finance"
+	"会計[かいけい]", "account, finance"
+to evade:
+	"避[さ]ける", "to avoid, to evade"
+	"ごまかす", "to deceive, to evade"
+support:
+	"支援[しえん]", "support, backing"
+	"支持[しじ]", "support, maintenance"
+	"応援[おうえん]", "support, cheering"
+curtailment:
+	"削減[さくげん]", "curtailment, reduction"
+	"縮小[しゅくしょう]", "reduction, curtailment"
+reduction:
+	"削減[さくげん]", "curtailment, reduction"
+	"減少[げんしょう]", "decrease, reduction"
+	"縮小[しゅくしょう]", "reduction, curtailment"
+formation:
+	"成立[せいりつ], 形成[けいせい]", "formation"
+	"結成[けっせい]", "organization, formation"
+improvement:
+	"向上[こうじょう]", "improvement"
+	"改善[かいぜん]", "improvement, amelioration"
+	"改良[かいりょう]", "improvement, reform"
+conduct:
+	"行動[こうどう]", "action, conduct"
+	"行為[こうい]", "act, conduct"
+sales:
+	"営業[えいぎょう]", "business, sales"
+	"売[う]り 上[あ]げ", "sales, proceeds"
+level:
+	"水準[すいじゅん]", "level, standard"
+	"水平[すいへい]", "horizontal, level"
+opportunity:
+	"機会[きかい]", "opportunity, occasion"
+	"きっかけ", "chance, opportunity"
+	"時機[じき]", "opportunity, chance"
+occasion:
+	"機会[きかい]", "opportunity, occasion"
+	"際[さい]", "occasion, time"
+recollection:
+	"記憶[きおく]", "memory, recollection"
+	"覚[おぼ]え", "recollection, memory"
+joint:
+	"共同[きょうどう]", "joint, commonality"
+	"合同[ごうどう]", "combination, joint"
+	"関節[かんせつ]", "joint"
+commonality:
+	"共同[きょうどう]", "joint, commonality"
+	"共通[きょうつう]", "commonality"
+performance:
+	"性能[せいのう]", "performance, capacity"
+	"実績[じっせき], 業績[ぎょうせき]", "achievement, performance"
+	"出演[しゅつえん]", "appearance on stage, performance"
+stability:
+	"安定[あんてい]", "stability, composure"
+	"固定[こてい]", "fixing, stability"
+composure:
+	"安定[あんてい]", "stability, composure"
+	"落[お]ち 着[つ]き", "presence of mind, composure"
+discussion:
+	"議論[ぎろん]", "argument, discussion"
+	"言論[げんろん]", "speech, discussion"
+rank:
+	"位[くらい]", "rank, dignity"
+	"順位[じゅんい]", "order, rank"
+data:
+	"資料[しりょう]", "materials, data"
+	"データ", "data"
+consumption:
+	"消費[しょうひ]", "consumption, spending"
+	"消化[しょうか]", "digestion, consumption"
+value:
+	"重視[じゅうし]", "importance, value"
+	"価値[かち]", "value, merit"
+	"値[あたい]", "value, worth"
+revision:
+	"改正[かいせい]", "revision, amendment"
+	"修正[しゅうせい]", "correction, revision"
+provision:
+	"規定[きてい]", "regulation, provision"
+	"供給[きょうきゅう]", "supply, provision"
+conception:
+	"構想[こうそう]", "conception, design"
+	"思想[しそう]", "thought, conception"
+to match:
+	"合[あ]わせる", "to adjust, to match"
+	"合[あ]わす", "to match, to add"
+achievement:
+	"実績[じっせき], 業績[ぎょうせき]", "achievement, performance"
+	"事業[じぎょう]", "business, achievement"
+property:
+	"性質[せいしつ]", "nature, property"
+	"資産[しさん]", "property, assets"
+control:
+	"制御[せいぎょ]", "control, command"
+	"規制[きせい]", "regulation, control"
+	"支配[しはい]", "control, management"
+various:
+	"各種[かくしゅ]", "each kind, various"
+	"様々[さまざま]", "various, diverse"
+shipping:
+	"出荷[しゅっか]", "shipping, dispatch"
+	"運送[うんそう]", "shipping, transportation"
+formal:
+	"正式[せいしき]", "formal, regular"
+	"公式[こうしき]", "formal, official"
+	"形式的[けいしきてき]", "formal"
+modern times:
+	"現代[げんだい]", "present age, modern times"
+	"近代[きんだい]", "modern times"
+principle:
+	"原則[げんそく]", "principle, general rule"
+	"原理[げんり]", "principle, theory"
+	"主義[しゅぎ]", "principle, -ism"
+gathering:
+	"集合[しゅうごう], 集[あつ]まり", "gathering, assembly"
+	"収集[しゅうしゅう]", "collection, gathering"
+to chase:
+	"追[お]う", "to chase, to pursue"
+	"追[お]い 掛[か]ける", "to chase, to run after"
+distance:
+	"距離[きょり]", "distance, interval"
+	"行程[こうてい]", "distance, journey"
+doubt:
+	"疑[うたが]い", "doubt, suspicion"
+	"疑問[ぎもん]", "question, doubt"
+scheme:
+	"工夫[くふう]", "contrivance, scheme"
+	"策[さく]", "scheme, policy"
+exchange:
+	"交換[こうかん]", "exchange, bartering"
+	"市場[しじょう]", "market, exchange"
+promotion:
+	"推進[すいしん]", "promotion"
+	"主催[しゅさい]", "sponsorship, promotion"
+	"出世[しゅっせ]", "success, promotion"
+limit:
+	"限[かぎ]り", "limit, as far as possible"
+	"制限[せいげん]", "restriction, limit"
+	"限界[げんかい]", "boundary, limit"
+	"限度[げんど]", "limit, bounds"
+application:
+	"応用[おうよう], 応募[おうぼ]", "application"
+	"申請[しんせい]", "application, petition"
+impression:
+	"感[かん]じ", "feeling, impression"
+	"印象[いんしょう]", "impression"
+	"感動[かんどう]", "emotion, impression"
+	"感想[かんそう]", "thought, impression"
+ceremony:
+	"式[しき]", "ceremony"
+	"儀式[ぎしき]", "ceremony, ritual"
+active:
+	"盛[さか]ん", "prosperous, active"
+	"積極的[せっきょくてき]", "positive, active"
+	"活発[かっぱつ]", "lively, active"
+initial:
+	"初期[しょき]", "early days, initial"
+	"当初[とうしょ]", "original, initial"
+denial:
+	"拒否[きょひ]", "denial, rejection"
+	"打[う]ち 消[け]し", "negation, denial"
+disorder:
+	"障害[しょうがい]", "obstacle, disorder"
+	"混乱[こんらん]", "disorder, confusion"
+	"混雑[こんざつ]", "confusion, disorder"
+main:
+	"主要[しゅよう]", "main, principal"
+	"主[おも]", "main, chief"
+chance:
+	"きっかけ", "chance, opportunity"
+	"偶然[ぐうぜん]", "chance, accident"
+	"時機[じき]", "opportunity, chance"
+completely:
+	"すっかり", "all, completely"
+	"さっぱり", "completely, not at all"
+engine:
+	"エンジン", "engine"
+	"機関[きかん]", "engine, agency"
+learning:
+	"学習[がくしゅう]", "study, learning"
+	"学問[がくもん]", "learning, scholarship"
+	"稽古[けいこ]", "practice, learning"
+surroundings:
+	"周囲[しゅうい]", "circumference, surroundings"
+	"環境[かんきょう]", "environment, surroundings"
+branch:
+	"支店[してん]", "branch"
+	"枝[えだ]", "branch, twig"
+favorable condition:
+	"順調[じゅんちょう]", "favorable condition, smooth progress"
+	"好調[こうちょう]", "favorable condition"
+observation:
+	"観測[かんそく]", "observation"
+	"観察[かんさつ]", "observation, supervision"
+approval:
+	"承認[しょうにん]", "approval, recognition"
+	"賛成[さんせい]", "approval, agreement"
+	"許可[きょか]", "permission, approval"
+confusion:
+	"混乱[こんらん]", "disorder, confusion"
+	"混雑[こんざつ]", "confusion, disorder"
+boundary:
+	"限界[げんかい]", "boundary, limit"
+	"境界[きょうかい], 境[さかい]", "boundary, border"
+symbol:
+	"記号[きごう]", "symbol, mark"
+	"象徴[しょうちょう]", "symbol, symbolize"
+	"印[しるし]", "mark, symbol"
+mark:
+	"記号[きごう]", "symbol, mark"
+	"印[しるし]", "mark, symbol"
+to harden:
+	"固[かた]める", "to harden, to strengthen"
+	"固[かた]まる", "to harden, to solidify"
+space:
+	"宇宙[うちゅう]", "universe, space"
+	"間隔[かんかく]", "interval, space"
+	"空間[くうかん]", "space, room"
+arrangement:
+	"仕組[しく]み", "construction, arrangement"
+	"整理[せいり]", "disposition, arrangement"
+	"打[う]ち 合[あ]わせ", "meeting, arrangement"
+	"支度[したく]", "arrangement, preparation"
+to attack:
+	"襲[おそ]う", "to raid, to attack"
+	"攻[せ]める", "to attack, to take the offensive"
+emotion:
+	"感情[かんじょう]", "feeling, emotion"
+	"感動[かんどう]", "emotion, impression"
+sense:
+	"感覚[かんかく]", "sense, sensation"
+	"勘[かん]", "sense, intuition"
+writer:
+	"作家[さっか]", "writer, novelist"
+	"作者[さくしゃ]", "author, writer"
+tax:
+	"税金[ぜいきん]", "tax"
+	"税[ぜい]", "tax, duty"
+revolution:
+	"回転[かいてん]", "revolution, rotation"
+	"革命[かくめい]", "revolution"
+mind:
+	"精神[せいしん]", "mind, spirit"
+	"心[こころ]", "heart, mind"
+extension:
+	"延長[えんちょう]", "extension, prolongation"
+	"拡張[かくちょう]", "expansion, extension"
+progress:
+	"進歩[しんぽ]", "progress, advancement"
+	"上達[じょうたつ]", "progress, proficiency"
+volition:
+	"意欲[いよく]", "volition, motivation"
+	"意志[いし]", "will, volition"
+theory:
+	"説[せつ]", "theory, opinion"
+	"原理[げんり]", "principle, theory"
+	"学説[がくせつ]", "theory"
+authority:
+	"権力[けんりょく]", "power, authority"
+	"権威[けんい]", "authority, power"
+suburbs:
+	"郊外[こうがい], 近郊[きんこう]", "suburbs, outskirts"
+	"市外[しがい]", "city outskirts, suburbs"
+heart:
+	"心臓[しんぞう]", "heart"
+	"心[こころ]", "heart, mind"
+mood:
+	"気分[きぶん]", "feeling, mood"
+	"機嫌[きげん]", "mood, health"
+conflict:
+	"衝突[しょうとつ]", "collision, conflict"
+	"争[あらそ]い", "conflict, battle"
+all at once:
+	"一斉[いっせい]に", "all together, all at once"
+	"一遍[いっぺん]に", "all at once"
+transportation:
+	"交通[こうつう]", "traffic, transportation"
+	"運送[うんそう]", "shipping, transportation"
+duty:
+	"勤務[きんむ]", "duty, service"
+	"税[ぜい]", "tax, duty"
+	"義務[ぎむ]", "duty, obligation"
+event:
+	"行事[ぎょうじ]", "event, function"
+	"種目[しゅもく]", "item, event"
+to try:
+	"試[こころ]みる", "to try, to attempt"
+	"心掛[こころが]ける", "to bear in mind, to try"
+to attempt:
+	"試[こころ]みる", "to try, to attempt"
+	"図[はか]る", "to strive for, to attempt"
+to calm down:
+	"落[お]ち 着[つ]く", "to calm down, to settle in"
+	"静[しず]まる", "to become quiet, to calm down"
+gap:
+	"格差[かくさ]", "gap, disparity"
+	"開[あ]き", "gap, vacancy"
+cash:
+	"現金[げんきん]", "cash"
+	"金銭[きんせん]", "money, cash"
+secure:
+	"確実[かくじつ]", "certain, secure"
+	"厳重[げんじゅう]", "strict, secure"
+resolution:
+	"決意[けつい]", "resolution, determination"
+	"覚悟[かくご]", "readiness, resolution"
+determination:
+	"決意[けつい]", "resolution, determination"
+	"決心[けっしん]", "determination, resolve"
+aim:
+	"意図[いと]", "intention, aim"
+	"見当[けんとう]", "estimate, aim"
+to fear:
+	"恐[おそ]れる", "to fear, to apprehend"
+	"怖[こわ]がる", "to be afraid of, to fear"
+birth:
+	"生[う]まれ", "birth, origin"
+	"出産[しゅっさん]", "birth, delivery"
+scholarship:
+	"学問[がくもん]", "learning, scholarship"
+	"奨学金[しょうがくきん]", "scholarship, fellowship"
+the public:
+	"世間[せけん]", "world, the public"
+	"公衆[こうしゅう]", "the public"
+energy:
+	"エネルギー", "energy"
+	"気力[きりょく]", "energy, vitality"
+club:
+	"クラブ", "club"
+	"サークル", "circle, club"
+frequently:
+	"しばしば", "often, frequently"
+	"頻[しき]りに, しょっちゅう", "frequently, repeatedly"
+to express:
+	"表[あらわ]す", "to express, to represent"
+	"おっしゃる, 言[い]い 表[あら]わす", "to utter, to express"
+surprise:
+	"ショック", "shock, surprise"
+	"驚[おどろ]き", "surprise, amazement"
+boldly:
+	"あえて", "boldly"
+	"思[おも]い 切[き]って", "boldly, decisively"
+calamity:
+	"災害[さいがい]", "calamity, disaster"
+	"災難[さいなん]", "calamity, misfortune"
+prize:
+	"賞[しょう]", "prize, award"
+	"賞品[しょうひん]", "prize, trophy"
+speaker:
+	"講師[こうし]", "speaker, lecturer"
+	"スピーカー", "speaker"
+from now on:
+	"以後[いご]", "from now on, after that"
+	"これから", "from now on, after this"
+shade:
+	"影[かげ]", "shadow, shade"
+	"陰[かげ]", "shade, behind the scenes"
+around:
+	"辺[あた]り", "vicinity, around"
+	"一周[いっしゅう]", "circle, around"
+to catch:
+	"受[う]け 止[と]める", "to catch, to receive"
+	"かかる", "to catch, to get"
+unexpected:
+	"意外[いがい]", "unexpected, unforeseen"
+	"思[おも]いがけない", "unexpected, accidental"
+delay:
+	"遅[おく]れ", "delay, being late"
+	"渋滞[じゅうたい]", "delay, traffic jam"
+to complete:
+	"済[す]む", "to be settled, to complete"
+	"仕上[しあ]げる", "to finish, to complete"
+	"済[す]ます", "to settle, to complete"
+perfume:
+	"香[かお]り", "perfume, fragrance"
+	"香水[こうすい]", "perfume"
+to stake:
+	"賭[か]ける", "to bet, to stake"
+	"懸[か]ける", "to stake"
+fortune:
+	"財産[ざいさん]", "fortune, asset"
+	"運命[うんめい]", "fate, fortune"
+	"運[うん]", "fortune, fate"
+to appear:
+	"映[うつ]る", "to be reflected, to appear"
+	"現[あらわ]れる", "to appear, to emerge"
+subject:
+	"主題[しゅだい]", "subject, theme"
+	"科目[かもく]", "subject"
+	"学科[がっか]", "subject, department"
+	"主観[しゅかん]", "subjectivity, subject"
+to dislike:
+	"嫌[きら]う", "to dislike"
+	"嫌[いや]がる", "to dislike, to hate"
+time limit:
+	"期限[きげん]", "time limit, term"
+	"締[し]め 切[き]り", "deadline, time limit"
+clause:
+	"句[く]", "phrase, clause"
+	"項目[こうもく]", "item, clause"
+shore:
+	"沿岸[えんがん]", "coast, shore"
+	"岸[きし]", "shore, bank"
+	"陸[おか]", "land, shore"
+the people:
+	"人民[じんみん]", "the people, populace"
+	"国民[こくみん]", "the people, nation"
+board:
+	"板[いた]", "board, plank"
+	"食費[しょくひ]", "food expenses, board"
+postponement:
+	"延期[えんき]", "postponement, deferment"
+	"後回[あとまわ]し", "deferment, postponement"
+deferment:
+	"延期[えんき]", "postponement, deferment"
+	"後回[あとまわ]し", "deferment, postponement"
+assistant:
+	"助手[じょしゅ]", "assistant, helper"
+	"お 手伝[てつだ]い", "helper, assistant"
+helper:
+	"助手[じょしゅ]", "assistant, helper"
+	"お 手伝[てつだ]い", "helper, assistant"
+market:
+	"市場[いちば]", "market, marketplace"
+	"市場[しじょう]", "market, exchange"
+curve:
+	"曲線[きょくせん]", "curve, curved line"
+	"カーブ", "curve, bend"
+fate:
+	"運命[うんめい]", "fate, fortune"
+	"運[うん]", "fortune, fate"
+grade:
+	"級[きゅう]", "grade, class"
+	"学年[がくねん]", "school year, grade"
+conviction:
+	"確信[かくしん]", "firm belief, conviction"
+	"信念[しんねん]", "belief, conviction"
+solid:
+	"固体[こたい]", "solid, solid matter"
+	"頑丈[がんじょう]", "solid, strong"
+	"かちかち", "hard, solid"
+pain:
+	"痛[いた]み", "pain, ache"
+	"苦痛[くつう]", "pain, agony"
+nursing:
+	"看護[かんご]", "nursing"
+	"看病[かんびょう]", "nursing, nursing care"
+sign:
+	"看板[かんばん]", "signboard, sign"
+	"合図[あいず]", "signal, sign"
+repeatedly:
+	"頻[しき]りに, しょっちゅう", "frequently, repeatedly"
+	"じゃんじゃん", "many times, repeatedly"
+row:
+	"整列[せいれつ]", "row, line"
+	"行[ぎょう]", "line, row"
+association:
+	"交際[こうさい]", "association, friendship"
+	"会[かい]", "meeting, association"
+fire fighting:
+	"消火[しょうか]", "fire fighting"
+	"消防[しょうぼう]", "fire fighting, fire prevention"
+garments:
+	"衣類[いるい]", "clothes, garments"
+	"衣料[いりょう]", "clothing, garments"
+Christianity:
+	"キリスト 教[きょう]", "Christianity"
+	"キリスト", "Christ, Christianity"
+muscle:
+	"筋肉[きんにく]", "muscle, sinews"
+	"筋[すじ]", "muscle"
+contest:
+	"コンクール", "contest, competition"
+	"コンテスト", "contest"
+to take advantage of:
+	"生[い]かす", "to take advantage of, to make use of"
+	"甘[あま]える", "to depend on, to take advantage of"
+rough:
+	"荒[あら]い", "wild, reckless, harsh, rough"
+	"ざらざら", "rough, gritty"
+outing:
+	"外出[がいしゅつ]", "outing"
+	"行楽[こうらく]", "excursion, outing"
+sports field:
+	"グラウンド", "sports field"
+	"運動場[うんどうじょう]", "playground, sports field"
+fur:
+	"毛皮[けがわ]", "fur"
+	"皮[かわ]", "peel, fur"
+affection:
+	"愛情[あいじょう]", "love, affection"
+	"好意[こうい]", "favor, affection"
+to decline:
+	"衰[おとろ]える", "to weaken, to decline"
+	"傾[かたむ]く", "to decline, to go down"
+gloomy:
+	"薄暗[うすぐら]い", "gloomy, dim"
+	"湿[しめ]っぽい", "damp, gloomy"
+dim:
+	"薄暗[うすぐら]い", "gloomy, dim"
+	"微[かす]か", "faint, dim"
+city:
+	"市立[しりつ]", "municipal, city"
+	"市[し]", "city"
+slope:
+	"丘[おか]", "hill, slope"
+	"坂[さか]", "slope, incline"
+to reveal:
+	"打[う]ち 明[あ]ける", "to confide in, to reveal"
+	"現[あらわ]す", "to show, to reveal"
+to roll over:
+	"転[ころ]がる", "to roll over, to tumble"
+	"転[ころ]がす", "to roll, to roll over"
+to hurt:
+	"痛[いた]む", "to feel pain, to hurt"
+	"傷付[きずつ]ける", "to wound, to hurt"
+living creature:
+	"生[い]き 物[もの]", "living creature"
+	"生物[せいぶつ]", "living creature, lifeform"
+excursion:
+	"遠足[えんそく]", "excursion, hike"
+	"行楽[こうらく]", "excursion, outing"
+mild:
+	"穏[おだ]やか", "calm, mild"
+	"温暖[おんだん]", "warm, mild"
+justice:
+	"正義[せいぎ]", "justice, righteousness"
+	"義理[ぎり]", "sense of duty, justice"
+skillful:
+	"器用[きよう]", "skillful, clever"
+	"スマート", "sophisticated, skillful"
+eternity:
+	"永遠[えいえん]", "eternity"
+	"永久[えいきゅう]", "permanence, eternity"
+audience:
+	"観衆[かんしゅう]", "audience"
+	"聞[き]き 手[て]", "listener, audience"
+	"観客[かんきゃく]", "audience, spectator"
+spectator:
+	"見物人[けんぶつにん]", "spectator, sightseer"
+	"観客[かんきゃく]", "audience, spectator"
+best:
+	"最上[さいじょう]", "best, highest"
+	"上[じょう]", "upper, best"
+sex:
+	"性別[せいべつ]", "sex, gender"
+	"性[せい]", "sex, nature"
+lovely:
+	"素敵[すてき]", "lovely, nice"
+	"可愛[かわい]らしい", "lovely, charming"
+by turns:
+	"交互[こうご]", "by turns, alternatively"
+	"代[か]わる 代[が]わる", "by turns, alternately"
+	"順々[じゅんじゅん]に", "by turns, in order"
+flour:
+	"小麦粉[こむぎこ]", "flour"
+	"粉[こな]", "powder, flour"
+to contract:
+	"狭[せば]まる", "to become narrow, to contract"
+	"狭[せば]める", "to narrow, to contract"
+addressee:
+	"宛先[あてさき]", "recipient, addressee"
+	"宛名[あてな]", "name of recipient, addressee"
+to damage:
+	"傷[いた]める", "to damage, to spoil"
+	"荒[あら]す", "to damage, to ransack"
+to spoil:
+	"傷[いた]める", "to damage, to spoil"
+	"甘[あま]やかす", "to be indulgent to, to spoil"
+dictation:
+	"聞[き]き 取[と]り", "listening comprehension, dictation"
+	"書[か]き 取[と]り", "dictation"
+round and round:
+	"くるくる", "round and round, spin"
+	"ぐるぐる", "round and round"
+to bury:
+	"埋[う]める", "to bury, to fill up"
+	"埋[うず]める", "to bury, to fill in"
+outlet:
+	"コンセント", "outlet, wall socket"
+	"小売店[こうりてん]", "retail store, outlet"
+cunning:
+	"ずるい", "cunning, sneaky"
+	"ずるがしこい", "sly, cunning"
+rainy weather:
+	"雨天[うてん]", "rainy weather"
+	"雨降[あめふ]り", "rainfall, rainy weather"
+womanly:
+	"女[おんな]らしい", "womanly, feminine"
+	"女性的[じょせいてき]", "feminine, womanly"
+feminine:
+	"女[おんな]らしい", "womanly, feminine"
+	"女性的[じょせいてき]", "feminine, womanly"
+debt:
+	"借[か]り", "borrowing, debt"
+	"借金[しゃっきん]", "borrowing money, debt"
+vacancy:
+	"空[あ]き", "vacancy, free time"
+	"開[あ]き", "gap, vacancy"
+to cover:
+	"覆[おお]う", "to cover, to hide"
+	"被[かぶ]せる", "to cover"

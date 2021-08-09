@@ -6,15 +6,15 @@ lots of,多い,<ruby>多<rt>おお</rt></ruby>い
 "house, home",家,<ruby>家<rt>うち／いえ</rt></ruby>
 "this, this one",これ,これ
 new,新しい,<ruby>新<rt>あたら</rt></ruby>しい
-I,私,<ruby>私<rt>わたし</rt></ruby>
+"I, me",私,<ruby>私<rt>わたし</rt></ruby>
 "work, job",仕事,<ruby>仕事<rt>しごと</rt></ruby>
 "to begin, to start",始める,<ruby>始<rt>はじ</rt></ruby>める
 to become,なる,なる
 "to do, to make",する,する
 "to go out, to leave",出る,<ruby>出<rt>で</rt></ruby>る
-to use,使う,<ruby>使<rt>つか</rt></ruby>う
-place,ところ,ところ
-to think,思う,<ruby>思<rt>おも</rt></ruby>う,Vocab 2
+to use,"使う, 用いる","<ruby>使<rt>つか</rt></ruby>う, <ruby>用<rt>もち</rt></ruby>いる"
+place,"ところ, 場所","ところ, <ruby>場所<rt>ばしょ</rt></ruby>"
+"to think (opinion, feeling)",思う,<ruby>思<rt>おも</rt></ruby>う,Vocab 2
 "to have, to possess, to maintain, to last long",持つ,<ruby>持<rt>も</rt></ruby>つ
 "time, hour","時間, 時刻","<ruby>時間<rt>じかん</rt></ruby>, <ruby>時刻<rt>じこく</rt></ruby>"
 this year,今年,<ruby>今年<rt>ことし</rt></ruby>
@@ -31,13 +31,13 @@ country,国,<ruby>国<rt>くに</rt></ruby>
 to go,行く,<ruby>行<rt>い</rt></ruby>く
 "to decide, to agree upon",決める,<ruby>決<rt>き</rt></ruby>める,Vocab 3
 "high, tall",高い,<ruby>高<rt>たか</rt></ruby>い
-"to think, to consider",考える,<ruby>考<rt>かんが</rt></ruby>える
+"to think, to ponder",考える,<ruby>考<rt>かんが</rt></ruby>える
 "to feel, to sense",感じる,<ruby>感<rt>かん</rt></ruby>じる
 "child, kid","子供, 子","<ruby>子供<rt>こども</rt></ruby>, <ruby>子<rt>こ</rt></ruby>"
 "in such manner, that way",そう,そう
 "university, college",大学,<ruby>大学<rt>だいがく</rt></ruby>
 "already, yet, another, again",もう,もう
-"near, close to, vicinity, nearby",近く,<ruby>近<rt>ちか</rt></ruby>く
+"near, nearby","近く, 近い","<ruby>近<rt>ちか</rt></ruby>く, <ruby>近<rt>ちか</rt></ruby>い"
 to put in,入れる,<ruby>入<rt>い</rt></ruby>れる
 student,学生,<ruby>学生<rt>がくせい</rt></ruby>
 "afternoon, p.m.",午後,<ruby>午後<rt>ごご</rt></ruby>
@@ -82,15 +82,14 @@ to change,"変える, 変わる","<ruby>変<rt>か</rt></ruby>える, <ruby>変<
 "wide, big",広い,<ruby>広<rt>ひろ</rt></ruby>い
 to understand,分かる,<ruby>分<rt>わ</rt></ruby>かる
 number,数,<ruby>数<rt>かず</rt></ruby>
-"near, soon",近い,<ruby>近<rt>ちか</rt></ruby>い
 there,そこ,そこ
 to run,走る,<ruby>走<rt>はし</rt></ruby>る
 to sell,売る,<ruby>売<rt>う</rt></ruby>る
 morning,朝,<ruby>朝<rt>あさ</rt></ruby>
 "to teach, to tell",教える,<ruby>教<rt>おし</rt></ruby>える
 "to walk, to go on foot",歩く,<ruby>歩<rt>ある</rt></ruby>く
-"at once, soon",直ぐ,<ruby>直<rt>す</rt></ruby>ぐ,Vocab 7
-to meet,"会う, 逢う","<ruby>会<rt>あ</rt></ruby>う, <ruby>逢<rt>あ</rt></ruby>う"
+"at once, soon",直ぐ,<ruby>直<rt>す</rt></ruby>ぐ
+to meet,"会う, 逢う","<ruby>会<rt>あ</rt></ruby>う, <ruby>逢<rt>あ</rt></ruby>う",Vocab 7
 room,部屋,<ruby>部屋<rt>へや</rt></ruby>
 to happen,起こる,<ruby>起<rt>お</rt></ruby>こる
 "autumn, fall",秋,<ruby>秋<rt>あき</rt></ruby>
@@ -104,8 +103,8 @@ to write,書く,<ruby>書<rt>か</rt></ruby>く
 head,頭,<ruby>頭<rt>あたま</rt></ruby>
 "body, health",体,<ruby>体<rt>からだ</rt></ruby>
 here,"ここ, こっち","ここ, こっち"
-"to wait, to wait for",待つ,<ruby>待<rt>ま</rt></ruby>つ,Vocab 8
-"low, short",低い,<ruby>低<rt>ひく</rt></ruby>い
+"to wait, to wait for",待つ,<ruby>待<rt>ま</rt></ruby>つ
+"low, short",低い,<ruby>低<rt>ひく</rt></ruby>い,Vocab 8
 to receive,もらう,もらう
 to eat,食べる,<ruby>食<rt>た</rt></ruby>べる
 early,早い,<ruby>早<rt>はや</rt></ruby>い
@@ -119,8 +118,8 @@ old,古い,<ruby>古<rt>ふる</rt></ruby>い
 beautiful,"美しい, 奇麗","<ruby>美<rt>うつく</rt></ruby>しい, <ruby>奇麗<rt>きれい</rt></ruby>"
 "leg, foot",足,<ruby>足<rt>あし</rt></ruby>
 next,次,<ruby>次<rt>つぎ</rt></ruby>
-"to wake up, to bring about, to cause",起こす,<ruby>起<rt>お</rt></ruby>こす,Vocab 9
-to show,見せる,<ruby>見<rt>み</rt></ruby>せる
+"to wake up, to bring about, to cause",起こす,<ruby>起<rt>お</rt></ruby>こす
+to show,見せる,<ruby>見<rt>み</rt></ruby>せる,Vocab 9
 "daughter, girl",娘,<ruby>娘<rt>むすめ</rt></ruby>
 very,とても,とても
 "a bit, a little while",少し,<ruby>少<rt>すこ</rt></ruby>し
@@ -134,8 +133,8 @@ study,勉強,<ruby>勉強<rt>べんきょう</rt></ruby>
 "short, brief",短い,<ruby>短<rt>みじか</rt></ruby>い
 "to fall, to sink",落ちる,<ruby>落<rt>お</rt></ruby>ちる
 son,息子,<ruby>息子<rt>むすこ</rt></ruby>
-"white, blank",白い,<ruby>白<rt>しろ</rt></ruby>い,Vocab 10
-"who, whom",誰,<ruby>誰<rt>だれ</rt></ruby>
+"white, blank",白い,<ruby>白<rt>しろ</rt></ruby>い
+"who, whom",誰,<ruby>誰<rt>だれ</rt></ruby>,Vocab 10
 "always, usually",いつも,いつも
 airplane,飛行機,<ruby>飛行機<rt>ひこうき</rt></ruby>
 to win,勝つ,<ruby>勝<rt>か</rt></ruby>つ
@@ -149,8 +148,8 @@ to pay,"払う, 支払う","<ruby>払<rt>はら</rt></ruby>う, <ruby>支払<rt>
 "light, light weight",軽い,<ruby>軽<rt>かる</rt></ruby>い
 to find,見つける,<ruby>見<rt>み</rt></ruby>つける
 when,"いつ, いつのまに","いつ, いつのまに"
-"friend, companion",友達,<ruby>友達<rt>ともだち</rt></ruby>,Vocab 11
-"to forget, to leave behind",忘れる,<ruby>忘<rt>わす</rt></ruby>れる
+"friend, companion",友達,<ruby>友達<rt>ともだち</rt></ruby>
+"to forget, to leave behind",忘れる,<ruby>忘<rt>わす</rt></ruby>れる,Vocab 11
 "alcoholic drink, Japanese rice wine",酒,<ruby>酒<rt>さけ</rt></ruby>
 which,"どちら, どっち","どちら, どっち"
 older sister,"姉, お姉さん","<ruby>姉<rt>あね</rt></ruby>, お<ruby>姉<rt>ねえ</rt></ruby>さん"
@@ -164,8 +163,8 @@ today,今日,<ruby>今日<rt>きょう</rt></ruby>
 "to wear, to put on","着る, 被る","<ruby>着<rt>き</rt></ruby>る, <ruby>被<rt>かぶ</rt></ruby>る"
 "to laugh, to smile",笑う,<ruby>笑<rt>わら</rt></ruby>う
 most,一番,<ruby>一番<rt>いちばん</rt></ruby>
-"class, lesson","授業, クラス","<ruby>授業<rt>じゅぎょう</rt></ruby>, クラス",Vocab 12
-week,週,<ruby>週<rt>しゅう</rt></ruby>
+"class, lesson","授業, クラス","<ruby>授業<rt>じゅぎょう</rt></ruby>, クラス"
+week,週,<ruby>週<rt>しゅう</rt></ruby>,Vocab 12
 "character, kanji",漢字,<ruby>漢字<rt>かんじ</rt></ruby>
 bicycle,自転車,<ruby>自転車<rt>じてんしゃ</rt></ruby>
 train,"電車, 汽車","<ruby>電車<rt>でんしゃ</rt></ruby>, <ruby>汽車<rt>きしゃ</rt></ruby>"
@@ -179,8 +178,8 @@ fast,速い,<ruby>速<rt>はや</rt></ruby>い
 diary,日記,<ruby>日記<rt>にっき</rt></ruby>
 this month,今月,<ruby>今月<rt>こんげつ</rt></ruby>
 to play,遊ぶ,<ruby>遊<rt>あそ</rt></ruby>ぶ
-"far, distant",遠い,<ruby>遠<rt>とお</rt></ruby>い,Vocab 13
-weak,"弱い, ふらふら","<ruby>弱<rt>よわ</rt></ruby>い, ふらふら"
+"far, distant",遠い,<ruby>遠<rt>とお</rt></ruby>い
+weak,弱い,<ruby>弱<rt>よわ</rt></ruby>い,Vocab 13
 "ear, hearing",耳,<ruby>耳<rt>みみ</rt></ruby>
 "to sit, to sit down",座る,<ruby>座<rt>すわ</rt></ruby>る
 right,右,<ruby>右<rt>みぎ</rt></ruby>
@@ -194,23 +193,23 @@ to lose,負ける,<ruby>負<rt>ま</rt></ruby>ける
 "all, wholly",全部,<ruby>全部<rt>ぜんぶ</rt></ruby>
 last year,"去年, 昨年","<ruby>去年<rt>きょねん</rt></ruby>, <ruby>昨年<rt>さくねん</rt></ruby>"
 "to draw, to pull",引く,<ruby>引<rt>ひ</rt></ruby>く
-library,"図書館, 図書室","<ruby>図書館<rt>としょかん</rt></ruby>, <ruby>図書室<rt>としょしつ</rt></ruby>",Vocab 14
-"to raise, to improve",上げる,<ruby>上<rt>あ</rt></ruby>げる
+library,"図書館, 図書室","<ruby>図書館<rt>としょかん</rt></ruby>, <ruby>図書室<rt>としょしつ</rt></ruby>"
+"to raise, to improve",上げる,<ruby>上<rt>あ</rt></ruby>げる,Vocab 14
 "green, foliage",緑,<ruby>緑<rt>みどり</rt></ruby>
 arm,腕,<ruby>腕<rt>うで</rt></ruby>
 door,ドア,ドア
-to close,閉じる,<ruby>閉<rt>と</rt></ruby>じる
+"to shut, to close","閉じる, 閉める","<ruby>閉<rt>と</rt></ruby>じる, <ruby>閉<rt>し</rt></ruby>める"
 time,"時, 頃","<ruby>時<rt>とき</rt></ruby>, <ruby>頃<rt>ころ</rt></ruby>"
 rice (grain),米,<ruby>米<rt>こめ</rt></ruby>
 to cut,切る,<ruby>切<rt>き</rt></ruby>る
 line,線,<ruby>線<rt>せん</rt></ruby>
 to be decided,決まる,<ruby>決<rt>き</rt></ruby>まる
 "fun, enjoyable",楽しい,<ruby>楽<rt>たの</rt></ruby>しい
-clothes,"服, 洋服","<ruby>服<rt>ふく</rt></ruby>, <ruby>洋服<rt>ようふく</rt></ruby>"
+clothes,服,<ruby>服<rt>ふく</rt></ruby>
 "back, behind",後ろ,<ruby>後<rt>うし</rt></ruby>ろ
 "happy, glad",嬉しい,<ruby>嬉<rt>うれ</rt></ruby>しい
-"hip, lower back",腰,<ruby>腰<rt>こし</rt></ruby>,Vocab 15
-Sunday,日曜日,<ruby>日曜日<rt>にちようび</rt></ruby>
+"hip, lower back",腰,<ruby>腰<rt>こし</rt></ruby>
+Sunday,日曜日,<ruby>日曜日<rt>にちようび</rt></ruby>,Vocab 15
 "to open, to unlock",開ける,<ruby>開<rt>あ</rt></ruby>ける
 "daytime, midday",昼,<ruby>昼<rt>ひる</rt></ruby>
 mother,"お母さん, 母親","お<ruby>母<rt>かあ</rt></ruby>さん, <ruby>母親<rt>ははおや</rt></ruby>"
@@ -224,11 +223,11 @@ nose,鼻,<ruby>鼻<rt>はな</rt></ruby>
 "to place, to put on",載せる,<ruby>載<rt>の</rt></ruby>せる
 sad,悲しい,<ruby>悲<rt>かな</rt></ruby>しい
 "to love, to care for",愛する,<ruby>愛<rt>あい</rt></ruby>する
-"to chat, to talk",しゃべる,しゃべる,Vocab 16
-sweet,甘い,<ruby>甘<rt>あま</rt></ruby>い
+"to chat, to talk",しゃべる,しゃべる
+sweet,甘い,<ruby>甘<rt>あま</rt></ruby>い,Vocab 16
 table,テーブル,テーブル
 food,"食べ物, 食物","<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>, <ruby>食物<rt>しょくもつ</rt></ruby>"
-to begin,始まる,<ruby>始<rt>はじ</rt></ruby>まる
+to be started,始まる,<ruby>始<rt>はじ</rt></ruby>まる
 game,ゲーム,ゲーム
 ten,十,<ruby>十<rt>じゅう</rt></ruby>
 weather,天気,<ruby>天気<rt>てんき</rt></ruby>
@@ -239,24 +238,23 @@ Saturday,土曜日,<ruby>土曜日<rt>どようび</rt></ruby>
 "god, spirit",神,<ruby>神<rt>かみ</rt></ruby>
 painful,痛い,<ruby>痛<rt>いた</rt></ruby>い
 father,お父さん,お<ruby>父<rt>とう</rt></ruby>さん
-"probably, perhaps",多分,<ruby>多分<rt>たぶん</rt></ruby>,Vocab 17
-"clock, watch",時計,<ruby>時計<rt>とけい</rt></ruby>
+"probably, perhaps",多分,<ruby>多分<rt>たぶん</rt></ruby>
+"clock, watch",時計,<ruby>時計<rt>とけい</rt></ruby>,Vocab 17
 to stay overnight,泊まる,<ruby>泊<rt>と</rt></ruby>まる
 why,どうして,どうして
 "to hang, to put on",掛ける,<ruby>掛<rt>か</rt></ruby>ける
 to turn,曲がる,<ruby>曲<rt>ま</rt></ruby>がる
 stomach,"おなか, 胃","おなか, <ruby>胃<rt>い</rt></ruby>"
 meeting,ミーティング,ミーティング
-"to shut, to close",閉める,<ruby>閉<rt>し</rt></ruby>める
 dislike,嫌い,<ruby>嫌<rt>きら</rt></ruby>い
 Friday,金曜日,<ruby>金曜日<rt>きんようび</rt></ruby>
 "to need, to require",要る,<ruby>要<rt>い</rt></ruby>る
 to not be,無い,<ruby>無<rt>な</rt></ruby>い
 yellow,"黄色い, 黄色","<ruby>黄色<rt>きいろ</rt></ruby>い, <ruby>黄色<rt>きいろ</rt></ruby>"
 cold (illness),風邪,<ruby>風邪<rt>かぜ</rt></ruby>
-"gentle, kind",優しい,<ruby>優<rt>やさ</rt></ruby>しい,Vocab 18
+"gentle, kind",優しい,<ruby>優<rt>やさ</rt></ruby>しい
 "to be sunny, to clear up",晴れる,<ruby>晴<rt>は</rt></ruby>れる
-love,"大好き, 愛","<ruby>大好<rt>だいす</rt></ruby>き, <ruby>愛<rt>あい</rt></ruby>"
+love,"大好き, 愛","<ruby>大好<rt>だいす</rt></ruby>き, <ruby>愛<rt>あい</rt></ruby>",Vocab 18
 light brown,茶色,<ruby>茶色<rt>ちゃいろ</rt></ruby>
 dirty,汚い,<ruby>汚<rt>きたな</rt></ruby>い
 to be empty,空く,<ruby>空<rt>す</rt></ruby>く
@@ -269,9 +267,9 @@ Monday,月曜日,<ruby>月曜日<rt>げつようび</rt></ruby>
 to enter,入る,<ruby>入<rt>はい</rt></ruby>る
 katakana,片仮名,<ruby>片仮名<rt>かたかな</rt></ruby>
 this week,今週,<ruby>今週<rt>こんしゅう</rt></ruby>
-to open,開く,<ruby>開<rt>ひら／あ</rt></ruby>く,Vocab 19
+to be opened,開く,<ruby>開<rt>ひら／あ</rt></ruby>く
 water,水,<ruby>水<rt>みず</rt></ruby>
-that over there,あれ,あれ
+that over there,あれ,あれ,Vocab 19
 two,二,<ruby>二<rt>に</rt></ruby>
 "to be shut, to be closed",閉まる,<ruby>閉<rt>し</rt></ruby>まる
 "to tighten, to fasten",締める,<ruby>締<rt>し</rt></ruby>める
@@ -284,9 +282,9 @@ to rewrite,書き直す,<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt><
 "beverage, drink",飲み物,<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>
 Thursday,木曜日,<ruby>木曜日<rt>もくようび</rt></ruby>
 day of the week,曜日,<ruby>曜日<rt>ようび</rt></ruby>
-"side, vicinity, buckwheat noodles, soba",そば,そば,Vocab 20
+"buckwheat noodles, next to",そば,そば
 Tuesday,火曜日,<ruby>火曜日<rt>かようび</rt></ruby>
-to be thirsty,渇く,<ruby>渇<rt>かわ</rt></ruby>く
+to be thirsty,渇く,<ruby>渇<rt>かわ</rt></ruby>く,Vocab 20
 three,三,<ruby>三<rt>さん</rt></ruby>
 Wednesday,水曜日,<ruby>水曜日<rt>すいようび</rt></ruby>
 two (things),二つ,<ruby>二<rt>ふた</rt></ruby>つ
@@ -296,12 +294,12 @@ six (things),六つ,<ruby>六<rt>むっ</rt></ruby>つ
 "six days, 6th of the month",六日,<ruby>六日<rt>むいか</rt></ruby>
 "to be repaired, to return to normal",直る,<ruby>直<rt>なお</rt></ruby>る
 "easy, simple",易しい,<ruby>易<rt>やさ</rt></ruby>しい
-"vicinity, part",辺,<ruby>辺<rt>へん</rt></ruby>
+"vicinity, side, edge",辺,<ruby>辺<rt>へん</rt></ruby>
 "way, like, kind",よう,よう
 "spicy, salty, strict, severe",辛い,<ruby>辛<rt>から</rt></ruby>い
-eight,八,<ruby>八<rt>はち</rt></ruby>,Vocab 21
+eight,八,<ruby>八<rt>はち</rt></ruby>
 "three days, 3rd of the month",三日,<ruby>三日<rt>みっか</rt></ruby>
-over there,あそこ,あそこ
+over there,あそこ,あそこ,Vocab 21
 to come,来る,<ruby>来<rt>く</rt></ruby>る
 "front, before",前,<ruby>前<rt>まえ</rt></ruby>
 "five days, 5th of the month",五日,<ruby>五日<rt>いつか</rt></ruby>
@@ -314,9 +312,9 @@ three (things),三つ,<ruby>三<rt>みっ</rt></ruby>つ
 "eight days, 8th of the month",八日,<ruby>八日<rt>ようか</rt></ruby>
 high school student,高校生,<ruby>高校生<rt>こうこうせい</rt></ruby>
 "good, skilled",上手,<ruby>上手<rt>じょうず</rt></ruby>
-strong,強い,<ruby>強<rt>つよ</rt></ruby>い,Vocab 22
+strong,強い,<ruby>強<rt>つよ</rt></ruby>い
 seven,七,<ruby>七<rt>なな／しち</rt></ruby>
-"20 days, 20th of the month",二十日,<ruby>二十日<rt>はつか</rt></ruby>
+"20 days, 20th of the month",二十日,<ruby>二十日<rt>はつか</rt></ruby>,Vocab 22
 left,左,<ruby>左<rt>ひだり</rt></ruby>
 "two days, 2nd of the month",二日,<ruby>二日<rt>ふつか</rt></ruby>
 four (things),四つ,<ruby>四<rt>よっ</rt></ruby>つ
@@ -329,9 +327,9 @@ younger sister,妹,<ruby>妹<rt>いもうと</rt></ruby>
 to move,動く,<ruby>動<rt>うご</rt></ruby>く
 railway station,駅,<ruby>駅<rt>えき</rt></ruby>
 tasty,おいしい,おいしい
-big,大きい,<ruby>大<rt>おお</rt></ruby>きい,Vocab 23
+big,大きい,<ruby>大<rt>おお</rt></ruby>きい
 younger brother,弟,<ruby>弟<rt>おとうと</rt></ruby>
-"man, male",男,<ruby>男<rt>おとこ</rt></ruby>
+"man, male",男,<ruby>男<rt>おとこ</rt></ruby>,Vocab 23
 adult,大人,<ruby>大人<rt>おとな</rt></ruby>
 favor,お願い,お<ruby>願<rt>ねが</rt></ruby>い
 "woman, girl","女, 女子","<ruby>女<rt>おんな</rt></ruby>, <ruby>女子<rt>じょし</rt></ruby>"
@@ -344,9 +342,9 @@ five,五,<ruby>五<rt>ご</rt></ruby>
 nine (things),九つ,<ruby>九<rt>ここの</rt></ruby>つ
 "to answer, to reply",答える,<ruby>答<rt>こた</rt></ruby>える
 "ahead, first",先,<ruby>先<rt>さき</rt></ruby>
-cold (temperature of the air),寒い,<ruby>寒<rt>さむ</rt></ruby>い,Vocab 24
+cold (temperature of the air),寒い,<ruby>寒<rt>さむ</rt></ruby>い
 four,四,<ruby>四<rt>し／よん</rt></ruby>
-"under, below",下,<ruby>下<rt>した</rt></ruby>
+"under, below",下,<ruby>下<rt>した</rt></ruby>,Vocab 24
 "alright, OK",大丈夫,<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>
 to take out,出す,<ruby>出<rt>だ</rt></ruby>す
 small,小さい,<ruby>小<rt>ちい</rt></ruby>さい
@@ -359,9 +357,9 @@ hand,手,<ruby>手<rt>て</rt></ruby>
 "ten days, 10th of the month",十日,<ruby>十日<rt>とおか</rt></ruby>
 sometimes,時々,<ruby>時々<rt>ときどき</rt></ruby>
 summer,夏,<ruby>夏<rt>なつ</rt></ruby>
-seven (things),七つ,<ruby>七<rt>なな</rt></ruby>つ,Vocab 25
+seven (things),七つ,<ruby>七<rt>なな</rt></ruby>つ
 "seven days, 7th of the month",七日,<ruby>七日<rt>なのか</rt></ruby>
-(speaker's)mother,母,<ruby>母<rt>はは</rt></ruby>
+(speaker's)mother,母,<ruby>母<rt>はは</rt></ruby>,Vocab 25
 person,人,<ruby>人<rt>ひと</rt></ruby>
 "one, one person",一人,<ruby>一人<rt>ひとり</rt></ruby>
 hundred,百,<ruby>百<rt>ひゃく</rt></ruby>
@@ -374,9 +372,9 @@ to be visible,見える,<ruby>見<rt>み</rt></ruby>える
 "shop, store","店, 商店","<ruby>店<rt>みせ</rt></ruby>, <ruby>商店<rt>しょうてん</rt></ruby>"
 "road, street","道, 道路","<ruby>道<rt>みち</rt></ruby>, <ruby>道路<rt>どうろ</rt></ruby>"
 eye,目,<ruby>目<rt>め</rt></ruby>
-eight (things),八つ,<ruby>八<rt>やっ</rt></ruby>つ,Vocab 26
+eight (things),八つ,<ruby>八<rt>やっ</rt></ruby>つ
 "to stop, to give up, to abolish",止める,<ruby>止<rt>や</rt></ruby>める
-"four days, 4th of the month",四日,<ruby>四日<rt>よっか</rt></ruby>
+"four days, 4th of the month",四日,<ruby>四日<rt>よっか</rt></ruby>,Vocab 26
 night (from sunset to sunrise),夜,<ruby>夜<rt>よる</rt></ruby>
 next year,来年,<ruby>来年<rt>らいねん</rt></ruby>
 six,六,<ruby>六<rt>ろく</rt></ruby>
@@ -389,9 +387,9 @@ bad,悪い,<ruby>悪<rt>わる</rt></ruby>い
 "situation, case",場合,<ruby>場合<rt>ばあい</rt></ruby>
 "to take a day off, to take a break",休む,<ruby>休<rt>やす</rt></ruby>む
 "to be found, to be caught",見つかる,<ruby>見<rt>み</rt></ruby>つかる
-"problem, question",問題,<ruby>問題<rt>もんだい</rt></ruby>,Vocab 27
+"problem, question",問題,<ruby>問題<rt>もんだい</rt></ruby>
 development,開発,<ruby>開発<rt>かいはつ</rt></ruby>
-"affair, case",事件,<ruby>事件<rt>じけん</rt></ruby>
+"affair, case",事件,<ruby>事件<rt>じけん</rt></ruby>,Vocab 27
 "need, necessity",必要,<ruby>必要<rt>ひつよう</rt></ruby>
 "corporation, business",企業,<ruby>企業<rt>きぎょう</rt></ruby>
 "to do, to carry out",行う,<ruby>行<rt>おこな</rt></ruby>う
@@ -404,9 +402,9 @@ announcement,発表,<ruby>発表<rt>はっぴょう</rt></ruby>
 "more, further",より,より
 information,情報,<ruby>情報<rt>じょうほう</rt></ruby>
 "to show, to indicate",示す,<ruby>示<rt>しめ</rt></ruby>す
-"construction, building",建設,<ruby>建設<rt>けんせつ</rt></ruby>,Vocab 28
+"construction, building",建設,<ruby>建設<rt>けんせつ</rt></ruby>
 "sale, selling","販売, 発売","<ruby>販売<rt>はんばい</rt></ruby>, <ruby>発売<rt>はつばい</rt></ruby>"
-"to be cured, to get well",治る,<ruby>治<rt>なお</rt></ruby>る
+"to be cured, to get well",治る,<ruby>治<rt>なお</rt></ruby>る,Vocab 28
 "function, feature",機能,<ruby>機能<rt>きのう</rt></ruby>
 "research, study",研究,<ruby>研究<rt>けんきゅう</rt></ruby>
 one way,"一方, 片道","<ruby>一方<rt>いっぽう</rt></ruby>, <ruby>片道<rt>かたみち</rt></ruby>"
@@ -418,11 +416,10 @@ system,システム,システム
 "late, recent",最近,<ruby>最近<rt>さいきん</rt></ruby>
 "after this, in the future",今後,<ruby>今後<rt>こんご</rt></ruby>
 world,世界,<ruby>世界<rt>せかい</rt></ruby>
-"to use, to make use of",用いる,<ruby>用<rt>もち</rt></ruby>いる
-"to tell, to talk",語る,<ruby>語<rt>かた</rt></ruby>る,Vocab 29
+"to tell, to talk",語る,<ruby>語<rt>かた</rt></ruby>る
 computer,コンピューター,コンピューター
 "center, middle","中心, 真ん中","<ruby>中心<rt>ちゅうしん</rt></ruby>, <ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>"
-"meaning, significance","意味, 意義","<ruby>意味<rt>いみ</rt></ruby>, <ruby>意義<rt>いぎ</rt></ruby>"
+"meaning, significance","意味, 意義","<ruby>意味<rt>いみ</rt></ruby>, <ruby>意義<rt>いぎ</rt></ruby>",Vocab 29
 "plan, project","計画, 企画","<ruby>計画<rt>けいかく</rt></ruby>, <ruby>企画<rt>きかく</rt></ruby>"
 "influence, effect",影響,<ruby>影響<rt>えいきょう</rt></ruby>
 "to increase, to accrue",増える,<ruby>増<rt>ふ</rt></ruby>える
@@ -432,12 +429,12 @@ introduction,導入,<ruby>導入<rt>どうにゅう</rt></ruby>
 "life, living",生活,<ruby>生活<rt>せいかつ</rt></ruby>
 "to advance, to promote",進める,<ruby>進<rt>すす</rt></ruby>める
 "relation, relationship",関係,<ruby>関係<rt>かんけい</rt></ruby>
-"to continue, to keep up",続ける,<ruby>続<rt>つづ</rt></ruby>ける
+to continue (doing something),続ける,<ruby>続<rt>つづ</rt></ruby>ける
 robot,ロボット,ロボット
-"almost, hardly",ほとんど,ほとんど,Vocab 30
+"almost, hardly",ほとんど,ほとんど
 "domestic, internal",国内,<ruby>国内<rt>こくない</rt></ruby>
 "field, sphere",分野,<ruby>分野<rt>ぶんや</rt></ruby>
-"company, corporation",会社,<ruby>会社<rt>かいしゃ</rt></ruby>
+"company, corporation",会社,<ruby>会社<rt>かいしゃ</rt></ruby>,Vocab 30
 "to concern, to relate to",関する,<ruby>関<rt>かん</rt></ruby>する
 "state, appearance",状態,<ruby>状態<rt>じょうたい</rt></ruby>
 president (of a country),大統領,<ruby>大統領<rt>だいとうりょう</rt></ruby>
@@ -449,10 +446,10 @@ personal computer,パソコン,パソコン
 "implementation, realization",実現,<ruby>実現<rt>じつげん</rt></ruby>
 "much, largely",多く,<ruby>多<rt>おお</rt></ruby>く
 "movement, motion",動き,<ruby>動<rt>うご</rt></ruby>き
-"talk, story",話,<ruby>話<rt>はなし</rt></ruby>,Vocab 31
+"talk, story",話,<ruby>話<rt>はなし</rt></ruby>
 "price, cost",価格,<ruby>価格<rt>かかく</rt></ruby>
 "to go up, to rise, to get nervous, to get stage fright, be completed, to eat, to drink",上がる,<ruby>上<rt>あ</rt></ruby>がる
-"to collect, to gather",集める,<ruby>集<rt>あつ</rt></ruby>める
+"to collect, to gather",集める,<ruby>集<rt>あつ</rt></ruby>める,Vocab 31
 "voice, sound",声,<ruby>声<rt>こえ</rt></ruby>
 for the first time,初めて,<ruby>初<rt>はじ</rt></ruby>めて
 "clear, obvious",明らか,<ruby>明<rt>あき</rt></ruby>らか
@@ -464,10 +461,10 @@ the whole country,全国,<ruby>全国<rt>ぜんこく</rt></ruby>
 "region, area",地域,<ruby>地域<rt>ちいき</rt></ruby>
 "important, essential",重要,<ruby>重要<rt>じゅうよう</rt></ruby>
 "figure, appearance",姿,<ruby>姿<rt>すがた</rt></ruby>
-first,先ず,<ruby>先<rt>ま</rt></ruby>ず,Vocab 32
+first,先ず,<ruby>先<rt>ま</rt></ruby>ず
 Showa era,昭和,<ruby>昭和<rt>しょうわ</rt></ruby>
 society,社会,<ruby>社会<rt>しゃかい</rt></ruby>
-program,"プログラム, 番組","プログラム, <ruby>番組<rt>ばんぐみ</rt></ruby>"
+program,"プログラム, 番組","プログラム, <ruby>番組<rt>ばんぐみ</rt></ruby>",Vocab 32
 "expectation, anticipation",期待,<ruby>期待<rt>きたい</rt></ruby>
 "strength, power","力, 強さ","<ruby>力<rt>ちから</rt></ruby>, <ruby>強<rt>つよ</rt></ruby>さ"
 "to rid of, to exclude",除く,<ruby>除<rt>のぞ</rt></ruby>く
@@ -475,14 +472,14 @@ program,"プログラム, 番組","プログラム, <ruby>番組<rt>ばんぐみ
 this time,今回,<ruby>今回<rt>こんかい</rt></ruby>
 "diffusion, spread",普及,<ruby>普及<rt>ふきゅう</rt></ruby>
 expression,表現,<ruby>表現<rt>ひょうげん</rt></ruby>
-"work, operation",作業,<ruby>作業<rt>さぎょう</rt></ruby>
+"tasks, work",作業,<ruby>作業<rt>さぎょう</rt></ruby>
 "schedule, plan",予定,<ruby>予定<rt>よてい</rt></ruby>
 "factory, plant",工場,<ruby>工場<rt>こうじょう</rt></ruby>
 production,生産,<ruby>生産<rt>せいさん</rt></ruby>
-political power,政権,<ruby>政権<rt>せいけん</rt></ruby>,Vocab 33
+political power,政権,<ruby>政権<rt>せいけん</rt></ruby>
 "skill, technology",技術,<ruby>技術<rt>ぎじゅつ</rt></ruby>
 "as is, still (in the current state)",まま,まま
-"completion, finish",完成,<ruby>完成<rt>かんせい</rt></ruby>
+"completion, finish",完成,<ruby>完成<rt>かんせい</rt></ruby>,Vocab 33
 change,"変化, お釣り","<ruby>変化<rt>へんか</rt></ruby>, お<ruby>釣<rt>つ</rt></ruby>り"
 "existence, being",存在,<ruby>存在<rt>そんざい</rt></ruby>
 participation,"参加, 出場","<ruby>参加<rt>さんか</rt></ruby>, <ruby>出場<rt>しゅつじょう</rt></ruby>"
@@ -494,10 +491,10 @@ politics,政治,<ruby>政治<rt>せいじ</rt></ruby>
 "enforcement, implementation",実施,<ruby>実施<rt>じっし</rt></ruby>
 beginning,"開始, 初め","<ruby>開始<rt>かいし</rt></ruby>, <ruby>初<rt>はじ</rt></ruby>め"
 "to provide for, to furnish",備える,<ruby>備<rt>そな</rt></ruby>える
-import,輸入,<ruby>輸入<rt>ゆにゅう</rt></ruby>,Vocab 34
+import,輸入,<ruby>輸入<rt>ゆにゅう</rt></ruby>
 "biggest, largest",最大,<ruby>最大<rt>さいだい</rt></ruby>
 competition,競争,<ruby>競争<rt>きょうそう</rt></ruby>
-"part, section",部分,<ruby>部分<rt>ぶぶん</rt></ruby>
+"part, section",部分,<ruby>部分<rt>ぶぶん</rt></ruby>,Vocab 34
 "to be extinguished, to disappear",消える,<ruby>消<rt>き</rt></ruby>える
 "family, household",家族,<ruby>家族<rt>かぞく</rt></ruby>
 contents,内容,<ruby>内容<rt>ないよう</rt></ruby>
@@ -509,10 +506,10 @@ election,選挙,<ruby>選挙<rt>せんきょ</rt></ruby>
 organization,構成,<ruby>構成<rt>こうせい</rt></ruby>
 "management, administration",管理,<ruby>管理<rt>かんり</rt></ruby>
 "increase, gain",増加,<ruby>増加<rt>ぞうか</rt></ruby>
-reform,改革,<ruby>改革<rt>かいかく</rt></ruby>,Vocab 35
+reform,改革,<ruby>改革<rt>かいかく</rt></ruby>
 "conversation, meeting",会談,<ruby>会談<rt>かいだん</rt></ruby>
 "president, chairperson",会長,<ruby>会長<rt>かいちょう</rt></ruby>
-"software, programme",ソフト,ソフト
+"software, programme",ソフト,ソフト,Vocab 35
 "offer, provide",提供,<ruby>提供<rt>ていきょう</rt></ruby>
 "free, simply, merely",ただ,ただ
 these,これら,これら
@@ -524,10 +521,10 @@ these,これら,これら
 "course, policy",方針,<ruby>方針<rt>ほうしん</rt></ruby>
 "former, old",従来,<ruby>従来<rt>じゅうらい</rt></ruby>
 "eventually, sometime",いずれ,いずれ
-"accident, incident",事故,<ruby>事故<rt>じこ</rt></ruby>,Vocab 36
+"accident, incident",事故,<ruby>事故<rt>じこ</rt></ruby>
 "telephone, phone call",電話,<ruby>電話<rt>でんわ</rt></ruby>
 foreign country,外国,<ruby>外国<rt>がいこく</rt></ruby>
-"object, purpose",目的,<ruby>目的<rt>もくてき</rt></ruby>
+"object, purpose",目的,<ruby>目的<rt>もくてき</rt></ruby>,Vocab 36
 freedom,自由,<ruby>自由<rt>じゆう</rt></ruby>
 "funds, capital",資金,<ruby>資金<rt>しきん</rt></ruby>
 bank,銀行,<ruby>銀行<rt>ぎんこう</rt></ruby>
@@ -539,10 +536,10 @@ representative,代表,<ruby>代表<rt>だいひょう</rt></ruby>
 "violent, intense",激しい,<ruby>激<rt>はげ</rt></ruby>しい
 "stocks, shares",株,<ruby>株<rt>かぶ</rt></ruby>
 "negotiation, bargaining",交渉,<ruby>交渉<rt>こうしょう</rt></ruby>
-"result, outcome",結果,<ruby>結果<rt>けっか</rt></ruby>,Vocab 37
+"result, outcome",結果,<ruby>結果<rt>けっか</rt></ruby>
 "whole, total",全体,<ruby>全体<rt>ぜんたい</rt></ruby>
 "after, afterwards",後,<ruby>後<rt>のち</rt></ruby>
-"command, order",命令,<ruby>命令<rt>めいれい</rt></ruby>
+"command, order",命令,<ruby>命令<rt>めいれい</rt></ruby>,Vocab 37
 "full, plentiful",十分,<ruby>十分<rt>じゅうぶん</rt></ruby>
 (not) much,あまり,あまり
 "management, operation",経営,<ruby>経営<rt>けいえい</rt></ruby>
@@ -554,10 +551,10 @@ to repeat,繰り返す,<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></
 "evaluation, appraisal",評価,<ruby>評価<rt>ひょうか</rt></ruby>
 "still, in addition",なお,なお
 calculation,計算,<ruby>計算<rt>けいさん</rt></ruby>
-investment,投資,<ruby>投資<rt>とうし</rt></ruby>,Vocab 38
+investment,投資,<ruby>投資<rt>とうし</rt></ruby>
 "possible, potential",可能,<ruby>可能<rt>かのう</rt></ruby>
 "to add, to include",加える,<ruby>加<rt>くわ</rt></ruby>える
-"kind, species",種類,<ruby>種類<rt>しゅるい</rt></ruby>
+"kind, species",種類,<ruby>種類<rt>しゅるい</rt></ruby>,Vocab 38
 strengthening,強化,<ruby>強化<rt>きょうか</rt></ruby>
 opinion,意見,<ruby>意見<rt>いけん</rt></ruby>
 "to accompany, to go with",伴う,<ruby>伴<rt>ともな</rt></ruby>う
@@ -569,10 +566,10 @@ newspaper,新聞,<ruby>新聞<rt>しんぶん</rt></ruby>
 "National Diet, parliament",国会,<ruby>国会<rt>こっかい</rt></ruby>
 "almost, nearly",ほぼ,ほぼ
 opponent,相手,<ruby>相手<rt>あいて</rt></ruby>
-"occurrence, happening",発生,<ruby>発生<rt>はっせい</rt></ruby>,Vocab 39
+"occurrence, happening",発生,<ruby>発生<rt>はっせい</rt></ruby>
 employment,"採用, 雇用","<ruby>採用<rt>さいよう</rt></ruby>, <ruby>雇用<rt>こよう</rt></ruby>"
 "to remain, to be left over",残る,<ruby>残<rt>のこ</rt></ruby>る
-stage,"段階, ステージ","<ruby>段階<rt>だんかい</rt></ruby>, ステージ"
+stage,"段階, ステージ","<ruby>段階<rt>だんかい</rt></ruby>, ステージ",Vocab 39
 report,報告,<ruby>報告<rt>ほうこく</rt></ruby>
 "goods, commodities",商品,<ruby>商品<rt>しょうひん</rt></ruby>
 "cities, urban community",都市,<ruby>都市<rt>とし</rt></ruby>
@@ -584,11 +581,10 @@ experience,経験,<ruby>経験<rt>けいけん</rt></ruby>
 "first, outset",最初,<ruby>最初<rt>さいしょ</rt></ruby>
 international,"国際, 国際的","<ruby>国際<rt>こくさい</rt></ruby>, <ruby>国際的<rt>こくさいてき</rt></ruby>"
 legislator,議員,<ruby>議員<rt>ぎいん</rt></ruby>
-"journalist, reporter",記者,<ruby>記者<rt>きしゃ</rt></ruby>,Vocab 40
-"place, space",場所,<ruby>場所<rt>ばしょ</rt></ruby>
+"journalist, reporter",記者,<ruby>記者<rt>きしゃ</rt></ruby>
 "movement, exercise",運動,<ruby>運動<rt>うんどう</rt></ruby>
 "service, on the house",サービス,サービス
-"to gather, to be collected",集まる,<ruby>集<rt>あつ</rt></ruby>まる
+"to gather, to be collected",集まる,<ruby>集<rt>あつ</rt></ruby>まる,Vocab 40
 "policy, political measures",政策,<ruby>政策<rt>せいさく</rt></ruby>
 "magnification, enlargement",拡大,<ruby>拡大<rt>かくだい</rt></ruby>
 "to advance, to move forward",進む,<ruby>進<rt>すす</rt></ruby>む
@@ -599,11 +595,11 @@ legislator,議員,<ruby>議員<rt>ぎいん</rt></ruby>
 "record, documentation",記録,<ruby>記録<rt>きろく</rt></ruby>
 "year, school year",年度,<ruby>年度<rt>ねんど</rt></ruby>
 industry,産業,<ruby>産業<rt>さんぎょう</rt></ruby>
-"background, scenery, setting",背景,<ruby>背景<rt>はいけい</rt></ruby>,Vocab 41
+"background, scenery, setting",背景,<ruby>背景<rt>はいけい</rt></ruby>
 "material, factor",材料,<ruby>材料<rt>ざいりょう</rt></ruby>
 "requirement, demand",要求,<ruby>要求<rt>ようきゅう</rt></ruby>
 "citizens, townsmen",市民,<ruby>市民<rt>しみん</rt></ruby>
-century,世紀,<ruby>世紀<rt>せいき</rt></ruby>
+century,世紀,<ruby>世紀<rt>せいき</rt></ruby>,Vocab 41
 "drastically, substantially",大幅,<ruby>大幅<rt>おおはば</rt></ruby>
 "processing, manufacturing",加工,<ruby>加工<rt>かこう</rt></ruby>
 "practice, execution",実行,<ruby>実行<rt>じっこう</rt></ruby>
@@ -614,11 +610,11 @@ police,警察,<ruby>警察<rt>けいさつ</rt></ruby>
 "to convey, to transmit, to hand down",伝える,<ruby>伝<rt>つた</rt></ruby>える
 opening (to the public),公開,<ruby>公開<rt>こうかい</rt></ruby>
 "to face, to confront, to head toward",向かう,<ruby>向<rt>む</rt></ruby>かう
-"to repair, to cure, to alter",直す,<ruby>直<rt>なお</rt></ruby>す,Vocab 42
+"to repair, to cure, to alter",直す,<ruby>直<rt>なお</rt></ruby>す
 "concrete, specific",具体的,<ruby>具体的<rt>ぐたいてき</rt></ruby>
 "to wish, to ask a favor, to apply for",願う,<ruby>願<rt>ねが</rt></ruby>う
 group,グループ,グループ
-individual,個人,<ruby>個人<rt>こじん</rt></ruby>
+individual,個人,<ruby>個人<rt>こじん</rt></ruby>,Vocab 42
 to be based on,基づく,<ruby>基<rt>もと</rt></ruby>づく
 "entirely, truly, indeed",全く,<ruby>全<rt>まった</rt></ruby>く
 "view, way of looking",見方,<ruby>見方<rt>みかた</rt></ruby>
@@ -629,11 +625,11 @@ person in charge,"担当, 係","<ruby>担当<rt>たんとう</rt></ruby>, <ruby>
 "last, final","最後, 最終","<ruby>最後<rt>さいご</rt></ruby>, <ruby>最終<rt>さいしゅう</rt></ruby>"
 "to invite, to beckon, to engage",招く,<ruby>招<rt>まね</rt></ruby>く
 hotel,ホテル,ホテル
-"again, a second time",再び,<ruby>再<rt>ふたた</rt></ruby>び,Vocab 43
+"again, a second time",再び,<ruby>再<rt>ふたた</rt></ruby>び
 "ascension, rising",上昇,<ruby>上昇<rt>じょうしょう</rt></ruby>
 machine,機械,<ruby>機械<rt>きかい</rt></ruby>
 "attention, notice",注目,<ruby>注目<rt>ちゅうもく</rt></ruby>
-the past,過去,<ruby>過去<rt>かこ</rt></ruby>
+the past,過去,<ruby>過去<rt>かこ</rt></ruby>,Vocab 43
 "work of art, piece",作品,<ruby>作品<rt>さくひん</rt></ruby>
 directly,直接,<ruby>直接<rt>ちょくせつ</rt></ruby>
 "criticism, comment",批判,<ruby>批判<rt>ひはん</rt></ruby>
@@ -644,11 +640,11 @@ success,成功,<ruby>成功<rt>せいこう</rt></ruby>
 "natural, as a matter of course",当然,<ruby>当然<rt>とうぜん</rt></ruby>
 period of one year,年間,<ruby>年間<rt>ねんかん</rt></ruby>
 "simple, easy",簡単,<ruby>簡単<rt>かんたん</rt></ruby>
-"to press, to close in on, to be imminent",迫る,<ruby>迫<rt>せま</rt></ruby>る,Vocab 44
+"to press, to close in on, to be imminent",迫る,<ruby>迫<rt>せま</rt></ruby>る
 "to gather together, to put in order",まとめる,まとめる
 "to occupy, to hold",占める,<ruby>占<rt>し</rt></ruby>める
 "to leave, to reserve, to leave undone",残す,<ruby>残<rt>のこ</rt></ruby>す
-"language, speech",言語,<ruby>言語<rt>げんご</rt></ruby>
+"language, speech",言語,<ruby>言語<rt>げんご</rt></ruby>,Vocab 44
 education,教育,<ruby>教育<rt>きょういく</rt></ruby>
 "others, other things",他,<ruby>他<rt>た</rt></ruby>
 "transaction, dealings",取引,<ruby>取引<rt>とりひき</rt></ruby>
@@ -659,11 +655,11 @@ automobile,自動車,<ruby>自動車<rt>じどうしゃ</rt></ruby>
 "task, problem",課題,<ruby>課題<rt>かだい</rt></ruby>
 "common, ordinary",通常,<ruby>通常<rt>つうじょう</rt></ruby>
 similar,同様,<ruby>同様<rt>どうよう</rt></ruby>
-"degree, extent",程度,<ruby>程度<rt>ていど</rt></ruby>,Vocab 45
+"degree, extent",程度,<ruby>程度<rt>ていど</rt></ruby>
 "to hit, to strike","当たる, 打つ","<ruby>当<rt>あ</rt></ruby>たる, <ruby>打<rt>う</rt></ruby>つ"
 to sue,訴える,<ruby>訴<rt>うった</rt></ruby>える
 "circumstances, conditions",事情,<ruby>事情<rt>じじょう</rt></ruby>
-"utterance, speech",発言,<ruby>発言<rt>はつげん</rt></ruby>
+"utterance, speech",発言,<ruby>発言<rt>はつげん</rt></ruby>,Vocab 45
 "tendency, disposition",傾向,<ruby>傾向<rt>けいこう</rt></ruby>
 "holding (of an event), opening",開催,<ruby>開催<rt>かいさい</rt></ruby>
 "character, letter","文字, 字","<ruby>文字<rt>もじ</rt></ruby>, <ruby>字<rt>じ</rt></ruby>"
@@ -674,11 +670,11 @@ activity,活動,<ruby>活動<rt>かつどう</rt></ruby>
 "residents, dwellers",住民,<ruby>住民<rt>じゅうみん</rt></ruby>
 "to reach, to be received",届く,<ruby>届<rt>とど</rt></ruby>く
 "as expected, also, still",やはり,やはり
-"effect, result",効果,<ruby>効果<rt>こうか</rt></ruby>,Vocab 46
+"effect, result",効果,<ruby>効果<rt>こうか</rt></ruby>
 "state of affairs, conditions",状況,<ruby>状況<rt>じょうきょう</rt></ruby>
 confirmation,確認,<ruby>確認<rt>かくにん</rt></ruby>
-"position, place",位置,<ruby>位置<rt>いち</rt></ruby>
-clearly,はっきり,はっきり
+"position, standing",位置,<ruby>位置<rt>いち</rt></ruby>
+clearly,はっきり,はっきり,Vocab 46
 "in short, basically",つまり,つまり
 "passing, passage",通過,<ruby>通過<rt>つうか</rt></ruby>
 "deep, profound, intimate",深い,<ruby>深<rt>ふか</rt></ruby>い
@@ -689,11 +685,11 @@ representative athlete,選手,<ruby>選手<rt>せんしゅ</rt></ruby>
 "basis, foundation","基本, 基礎","<ruby>基本<rt>きほん</rt></ruby>, <ruby>基礎<rt>きそ</rt></ruby>"
 "contract, agreement",契約,<ruby>契約<rt>けいやく</rt></ruby>
 "discovery, revelation",発見,<ruby>発見<rt>はっけん</rt></ruby>
-"at that time, at the present time",当時,<ruby>当時<rt>とうじ</rt></ruby>,Vocab 47
+"at that time, at the present time",当時,<ruby>当時<rt>とうじ</rt></ruby>
 "one's house, one's home",自宅,<ruby>自宅<rt>じたく</rt></ruby>
 "air, atmosphere",空気,<ruby>空気<rt>くうき</rt></ruby>
 "to set up, to establish",設ける,<ruby>設<rt>もう</rt></ruby>ける
-history,歴史,<ruby>歴史<rt>れきし</rt></ruby>
+history,歴史,<ruby>歴史<rt>れきし</rt></ruby>,Vocab 47
 every country,各国,<ruby>各国<rt>かっこく</rt></ruby>
 "specially, particularly",特に,<ruby>特<rt>とく</rt></ruby>に
 experiment,実験,<ruby>実験<rt>じっけん</rt></ruby>
@@ -704,11 +700,11 @@ they,彼ら,<ruby>彼<rt>かれ</rt></ruby>ら
 boy,少年,<ruby>少年<rt>しょうねん</rt></ruby>
 various countries,諸国,<ruby>諸国<rt>しょこく</rt></ruby>
 "of course, no doubt",もちろん,もちろん
-"office, one's place of business",事務所,<ruby>事務所<rt>じむしょ</rt></ruby>,Vocab 48
+"office, one's place of business",事務所,<ruby>事務所<rt>じむしょ</rt></ruby>
 "responsibility, liability",責任,<ruby>責任<rt>せきにん</rt></ruby>
 "once, formerly",かつて,かつて
 to be limited to,限る,<ruby>限<rt>かぎ</rt></ruby>る
-"overseas, abroad",海外,<ruby>海外<rt>かいがい</rt></ruby>
+"overseas, abroad",海外,<ruby>海外<rt>かいがい</rt></ruby>,Vocab 48
 "condition, item",条件,<ruby>条件<rt>じょうけん</rt></ruby>
 "home, family",家庭,<ruby>家庭<rt>かてい</rt></ruby>
 professor,教授,<ruby>教授<rt>きょうじゅ</rt></ruby>
@@ -719,11 +715,11 @@ population,人口,<ruby>人口<rt>じんこう</rt></ruby>
 "age, antiquity",時代,<ruby>時代<rt>じだい</rt></ruby>
 "time, season",時期,<ruby>時期<rt>じき</rt></ruby>
 "production, manufacture",製造,<ruby>製造<rt>せいぞう</rt></ruby>
-"large, large scale",大型,<ruby>大型<rt>おおがた</rt></ruby>,Vocab 49
+"large, large scale",大型,<ruby>大型<rt>おおがた</rt></ruby>
 "environs, circumference",周辺,<ruby>周辺<rt>しゅうへん</rt></ruby>
 to differ,異なる,<ruby>異<rt>こと</rt></ruby>なる
 "arrest, capture",逮捕,<ruby>逮捕<rt>たいほ</rt></ruby>
-"connection, relation",関連,<ruby>関連<rt>かんれん</rt></ruby>
+"connection, relation",関連,<ruby>関連<rt>かんれん</rt></ruby>,Vocab 49
 "trade, commerce",貿易,<ruby>貿易<rt>ぼうえき</rt></ruby>
 "staff member, employee",社員,<ruby>社員<rt>しゃいん</rt></ruby>
 "combination, joining",結合,<ruby>結合<rt>けつごう</rt></ruby>
@@ -734,11 +730,11 @@ patient,患者,<ruby>患者<rt>かんじゃ</rt></ruby>
 movie,映画,<ruby>映画<rt>えいが</rt></ruby>
 "to line up, to be parallel",並ぶ,<ruby>並<rt>なら</rt></ruby>ぶ
 "pupil, student",生徒,<ruby>生徒<rt>せいと</rt></ruby>
-"like that, unchanged",そのまま,そのまま,Vocab 50
+"like that, unchanged",そのまま,そのまま
 "this time, next time",今度,<ruby>今度<rt>こんど</rt></ruby>
 "to divide into parts, to sort, to share",分ける,<ruby>分<rt>わ</rt></ruby>ける
 "to carry, to transport",運ぶ,<ruby>運<rt>はこ</rt></ruby>ぶ
-"complicated, intricate",複雑,<ruby>複雑<rt>ふくざつ</rt></ruby>
+"complicated, intricate",複雑,<ruby>複雑<rt>ふくざつ</rt></ruby>,Vocab 50
 "to turn round, to go round, to detour",回る,<ruby>回<rt>まわ</rt></ruby>る
 high school,高校,<ruby>高校<rt>こうこう</rt></ruby>
 construction,工事,<ruby>工事<rt>こうじ</rt></ruby>
@@ -749,11 +745,11 @@ rain,雨,<ruby>雨<rt>あめ</rt></ruby>
 flower,花,<ruby>花<rt>はな</rt></ruby>
 "attendance, presence",出席,<ruby>出席<rt>しゅっせき</rt></ruby>
 foreigner,外国人,<ruby>外国人<rt>がいこくじん</rt></ruby>
-the Earth,地球,<ruby>地球<rt>ちきゅう</rt></ruby>,Vocab 51
+the Earth,地球,<ruby>地球<rt>ちきゅう</rt></ruby>
 English,英語,<ruby>英語<rt>えいご</rt></ruby>
 "danger, dangerous",危険,<ruby>危険<rt>きけん</rt></ruby>
 "normal, regular",普通,<ruby>普通<rt>ふつう</rt></ruby>
-"explanation, description",説明,<ruby>説明<rt>せつめい</rt></ruby>
+"explanation, description",説明,<ruby>説明<rt>せつめい</rt></ruby>,Vocab 51
 half,半分,<ruby>半分<rt>はんぶん</rt></ruby>
 "attention, care, watch out",注意,<ruby>注意<rt>ちゅうい</rt></ruby>
 "safety, security",安全,<ruby>安全<rt>あんぜん</rt></ruby>
@@ -764,11 +760,11 @@ surgical operation,手術,<ruby>手術<rt>しゅじゅつ</rt></ruby>
 "to protect, to observe",守る,<ruby>守<rt>まも</rt></ruby>る
 "to be surprised, to be startled",驚く,<ruby>驚<rt>おどろ</rt></ruby>く
 earthquake,地震,<ruby>地震<rt>じしん</rt></ruby>
-"to discuss, to talk over",話し合う,<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う,Vocab 52
+"to discuss, to talk over",話し合う,<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う
 "tree, wood",木,<ruby>木<rt>き</rt></ruby>
 "to permit, to license, to forgive",許す,<ruby>許<rt>ゆる</rt></ruby>す
 "snow, snowfall",雪,<ruby>雪<rt>ゆき</rt></ruby>
-animal,動物,<ruby>動物<rt>どうぶつ</rt></ruby>
+animal,動物,<ruby>動物<rt>どうぶつ</rt></ruby>,Vocab 52
 to fit,合う,<ruby>合<rt>あ</rt></ruby>う
 "peace, harmony",平和,<ruby>平和<rt>へいわ</rt></ruby>
 "very, extremely",非常に,<ruby>非常<rt>ひじょう</rt></ruby>に
@@ -779,11 +775,11 @@ graduation,卒業,<ruby>卒業<rt>そつぎょう</rt></ruby>
 agriculture,農業,<ruby>農業<rt>のうぎょう</rt></ruby>
 airport,空港,<ruby>空港<rt>くうこう</rt></ruby>
 "rare, precious",珍しい,<ruby>珍<rt>めずら</rt></ruby>しい
-"to hurry, to hasten",急ぐ,<ruby>急<rt>いそ</rt></ruby>ぐ,Vocab 53
+"to hurry, to hasten",急ぐ,<ruby>急<rt>いそ</rt></ruby>ぐ
 "intention, purpose",つもり,つもり
 "without fail, certainly",必ず,<ruby>必<rt>かなら</rt></ruby>ず
 "figure, numeral",数字,<ruby>数字<rt>すうじ</rt></ruby>
-"at last, finally",やっと,やっと
+"at last, finally",やっと,やっと,Vocab 53
 "travel, trip",旅行,<ruby>旅行<rt>りょこう</rt></ruby>
 music,音楽,<ruby>音楽<rt>おんがく</rt></ruby>
 "river, stream",川,<ruby>川<rt>かわ</rt></ruby>
@@ -794,11 +790,11 @@ elementary school,小学校,<ruby>小学校<rt>しょうがっこう</rt></ruby>
 dream,夢,<ruby>夢<rt>ゆめ</rt></ruby>
 "to escape, to run away",逃げる,<ruby>逃<rt>に</rt></ruby>げる
 "to pass by, to exceed",過ぎる,<ruby>過<rt>す</rt></ruby>ぎる
-capital,首都,<ruby>首都<rt>しゅと</rt></ruby>,Vocab 54
+capital,首都,<ruby>首都<rt>しゅと</rt></ruby>
 "teacher, instructor",教師,<ruby>教師<rt>きょうし</rt></ruby>
 "consultation, advice",相談,<ruby>相談<rt>そうだん</rt></ruby>
 "prepare, ready oneself",用意,<ruby>用意<rt>ようい</rt></ruby>
-news,ニュース,ニュース
+news,ニュース,ニュース,Vocab 54
 law,法律,<ruby>法律<rt>ほうりつ</rt></ruby>
 "awful, serious",大変,<ruby>大変<rt>たいへん</rt></ruby>
 "war, battle",戦争,<ruby>戦争<rt>せんそう</rt></ruby>
@@ -809,11 +805,11 @@ law,法律,<ruby>法律<rt>ほうりつ</rt></ruby>
 video,ビデオ,ビデオ
 "apartment, apartment block, condominium",マンション,マンション
 "healthy, health",健康,<ruby>健康<rt>けんこう</rt></ruby>
-"passage, street",通り,<ruby>通<rt>とお</rt></ruby>り,Vocab 55
+"passage, street",通り,<ruby>通<rt>とお</rt></ruby>り
 "to be happy, to be delighted",喜ぶ,<ruby>喜<rt>よろこ</rt></ruby>ぶ
 be hospitalized,入院,<ruby>入院<rt>にゅういん</rt></ruby>
 "to increase, to add",増やす,<ruby>増<rt>ふ</rt></ruby>やす
-"to bring up, to breed",育てる,<ruby>育<rt>そだ</rt></ruby>てる
+"to bring up, to breed",育てる,<ruby>育<rt>そだ</rt></ruby>てる,Vocab 55
 temperature,"温度, 気温","<ruby>温度<rt>おんど</rt></ruby>, <ruby>気温<rt>きおん</rt></ruby>"
 "magazine, journal",雑誌,<ruby>雑誌<rt>ざっし</rt></ruby>
 we,私たち,<ruby>私<rt>わたし</rt></ruby>たち
@@ -824,11 +820,11 @@ wind,風,<ruby>風<rt>かぜ</rt></ruby>
 drive,"運転, ドライブ","<ruby>運転<rt>うんてん</rt></ruby>, ドライブ"
 "awhile, long time, for the time being",しばらく,しばらく
 height,高さ,<ruby>高<rt>たか</rt></ruby>さ
-to borrow,借りる,<ruby>借<rt>か</rt></ruby>りる,Vocab 56
+to borrow,借りる,<ruby>借<rt>か</rt></ruby>りる
 broadcasting,放送,<ruby>放送<rt>ほうそう</rt></ruby>
 finding employment,就職,<ruby>就職<rt>しゅうしょく</rt></ruby>
 "size, dimensions",大きさ,<ruby>大<rt>おお</rt></ruby>きさ
-"to be at a loss, to in a jam, to in trouble",困る,<ruby>困<rt>こま</rt></ruby>る
+"to be at a loss, to in a jam, to in trouble",困る,<ruby>困<rt>こま</rt></ruby>る,Vocab 56
 "to pass, to take, to go through",通る,<ruby>通<rt>とお</rt></ruby>る
 gas,ガス,ガス
 "husband and wife, married couple",夫婦,<ruby>夫婦<rt>ふうふ</rt></ruby>
@@ -839,11 +835,11 @@ gas,ガス,ガス
 "quiet, tranquil",静か,<ruby>静<rt>しず</rt></ruby>か
 "to be divided, to disperse, to branch off",分かれる,<ruby>分<rt>わ</rt></ruby>かれる
 "detailed, complete",詳しい,<ruby>詳<rt>くわ</rt></ruby>しい
-"accurate, precise",正確,<ruby>正確<rt>せいかく</rt></ruby>,Vocab 57
+"accurate, precise",正確,<ruby>正確<rt>せいかく</rt></ruby>
 "good at, delicious, tasty",うまい,うまい
 "industry, manufacturing industry",工業,<ruby>工業<rt>こうぎょう</rt></ruby>
 "office worker, salaried worker, company employee",サラリーマン,サラリーマン
-famous,有名,<ruby>有名<rt>ゆうめい</rt></ruby>
+famous,有名,<ruby>有名<rt>ゆうめい</rt></ruby>,Vocab 57
 "to discard, to abandon",捨てる,<ruby>捨<rt>す</rt></ruby>てる
 "to move, to shift, to transfer",移す,<ruby>移<rt>うつ</rt></ruby>す
 "correct, righteous, lawful",正しい,<ruby>正<rt>ただ</rt></ruby>しい
@@ -854,11 +850,11 @@ bus,バス,バス
 junior high school,"中学, 中学校","<ruby>中学<rt>ちゅうがく</rt></ruby>, <ruby>中学校<rt>ちゅうがっこう</rt></ruby>"
 song,歌,<ruby>歌<rt>うた</rt></ruby>
 "thin, weak, pale",薄い,<ruby>薄<rt>うす</rt></ruby>い
-"to decrease, to reduce",減らす,<ruby>減<rt>へ</rt></ruby>らす,Vocab 58
+"to decrease, to reduce",減らす,<ruby>減<rt>へ</rt></ruby>らす
 science,"科学, 理科","<ruby>科学<rt>かがく</rt></ruby>, <ruby>理科<rt>りか</rt></ruby>"
 "promise, vow",約束,<ruby>約束<rt>やくそく</rt></ruby>
 "departure, starting",出発,<ruby>出発<rt>しゅっぱつ</rt></ruby>
-"to move, to operate",動かす,<ruby>動<rt>うご</rt></ruby>かす
+"to move, to operate",動かす,<ruby>動<rt>うご</rt></ruby>かす,Vocab 58
 "introduction, presentation",紹介,<ruby>紹介<rt>しょうかい</rt></ruby>
 "to fall over, to succumb",倒れる,<ruby>倒<rt>たお</rt></ruby>れる
 "seat, one's place",席,<ruby>席<rt>せき</rt></ruby>
@@ -869,11 +865,11 @@ length,長さ,<ruby>長<rt>なが</rt></ruby>さ
 "truck, lorry",トラック,トラック
 embassy,大使館,<ruby>大使館<rt>たいしかん</rt></ruby>
 "to die, to pass away",亡くなる,<ruby>亡<rt>な</rt></ruby>くなる
-party,パーティー,パーティー,Vocab 59
+party,パーティー,パーティー
 dog,犬,<ruby>犬<rt>いぬ</rt></ruby>
 "special, extraordinary",特別,<ruby>特別<rt>とくべつ</rt></ruby>
 "classroom, class",教室,<ruby>教室<rt>きょうしつ</rt></ruby>
-glass,"ガラス, グラス","ガラス, グラス"
+glass,"ガラス, グラス","ガラス, グラス",Vocab 59
 "to wave, to shake, to brandish",振る,<ruby>振<rt>ふ</rt></ruby>る
 "to drop, to omit",落とす,<ruby>落<rt>お</rt></ruby>とす
 evening,夕方,<ruby>夕方<rt>ゆうがた</rt></ruby>
@@ -884,11 +880,11 @@ record,レコード,レコード
 knock,"どんどん, ノック","どんどん, ノック"
 "to go to and from, to frequent a place",通う,<ruby>通<rt>かよ</rt></ruby>う
 "secret, privacy",秘密,<ruby>秘密<rt>ひみつ</rt></ruby>
-"cooking, handling",料理,<ruby>料理<rt>りょうり</rt></ruby>,Vocab 60
+"cooking, handling",料理,<ruby>料理<rt>りょうり</rt></ruby>
 "painful, difficult",苦しい,<ruby>苦<rt>くる</rt></ruby>しい
 "to believe, to trust, to have faith in",信じる,<ruby>信<rt>しん</rt></ruby>じる
 "something, some",何か,<ruby>何<rt>なに</rt></ruby>か
-camera,カメラ,カメラ
+camera,カメラ,カメラ,Vocab 60
 "to lower, to turn down",下げる,<ruby>下<rt>さ</rt></ruby>げる
 studying abroad,留学,<ruby>留学<rt>りゅうがく</rt></ruby>
 "unreasonable, impossible, forced",無理,<ruby>無理<rt>むり</rt></ruby>
@@ -899,11 +895,11 @@ horse,馬,<ruby>馬<rt>うま</rt></ruby>
 eldest son,長男,<ruby>長男<rt>ちょうなん</rt></ruby>
 neighborhood,近所,<ruby>近所<rt>きんじょ</rt></ruby>
 mathematics,数学,<ruby>数学<rt>すうがく</rt></ruby>
-"enter a school, matriculate",入学,<ruby>入学<rt>にゅうがく</rt></ruby>,Vocab 61
+"enter a school, matriculate",入学,<ruby>入学<rt>にゅうがく</rt></ruby>
 "black, dark",黒い,<ruby>黒<rt>くろ</rt></ruby>い
 "to ask, to request",頼む,<ruby>頼<rt>たの</rt></ruby>む
 "to line up, to display, to set up",並べる,<ruby>並<rt>なら</rt></ruby>べる
-"to receive, to understand",受け取る,<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る
+"to receive, to understand",受け取る,<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る,Vocab 61
 sun,太陽,<ruby>太陽<rt>たいよう</rt></ruby>
 "old person, older councilor",年寄り,<ruby>年寄<rt>としよ</rt></ruby>り
 "taste, flavor",味,<ruby>味<rt>あじ</rt></ruby>
@@ -914,11 +910,11 @@ tear,涙,<ruby>涙<rt>なみだ</rt></ruby>
 "side, width across",横,<ruby>横<rt>よこ</rt></ruby>
 "hole, cavity",穴,<ruby>穴<rt>あな</rt></ruby>
 season,"季節, シーズン","<ruby>季節<rt>きせつ</rt></ruby>, シーズン"
-"beer, lager",ビール,ビール,Vocab 62
+"beer, lager",ビール,ビール
 "malfunction, fault, breakdown",故障,<ruby>故障<rt>こしょう</rt></ruby>
 "rear, reverse, inside",裏,<ruby>裏<rt>うら</rt></ruby>
 page,ページ,ページ
-"to welcome, to go out to meet, to invite",迎える,<ruby>迎<rt>むか</rt></ruby>える
+"to welcome, to go out to meet, to invite",迎える,<ruby>迎<rt>むか</rt></ruby>える,Vocab 62
 vegetable,野菜,<ruby>野菜<rt>やさい</rt></ruby>
 "to carry across, to hand over",渡す,<ruby>渡<rt>わた</rt></ruby>す
 "to offer, to give",贈る,<ruby>贈<rt>おく</rt></ruby>る
@@ -929,11 +925,11 @@ vegetable,野菜,<ruby>野菜<rt>やさい</rt></ruby>
 junior high school student,中学生,<ruby>中学生<rt>ちゅうがくせい</rt></ruby>
 "entrance, door",玄関,<ruby>玄関<rt>げんかん</rt></ruby>
 "to photograph, to shoot, to film",撮る,<ruby>撮<rt>と</rt></ruby>る
-summer vacation,夏休み,<ruby>夏休<rt>なつやす</rt></ruby>み,Vocab 63
+summer vacation,夏休み,<ruby>夏休<rt>なつやす</rt></ruby>み
 every year,毎年,<ruby>毎年<rt>まいとし／まいねん</rt></ruby>
 "map, atlas",地図,<ruby>地図<rt>ちず</rt></ruby>
 "seashore, coast",海岸,<ruby>海岸<rt>かいがん</rt></ruby>
-"suddenly, unexpectedly",急に,<ruby>急<rt>きゅう</rt></ruby>に
+"suddenly, unexpectedly",急に,<ruby>急<rt>きゅう</rt></ruby>に,Vocab 63
 "girl, daughter",女の子,<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>
 "post box, letter box",ポスト,ポスト
 "dark, dreary, shadowy",暗い,<ruby>暗<rt>くら</rt></ruby>い
@@ -944,11 +940,11 @@ both,両方,<ruby>両方<rt>りょうほう</rt></ruby>
 "test, exam",テスト,テスト
 all over,あちこち,あちこち
 "to run out, to expire, to can cut",切れる,<ruby>切<rt>き</rt></ruby>れる
-baseball,野球,<ruby>野球<rt>やきゅう</rt></ruby>,Vocab 64
+baseball,野球,<ruby>野球<rt>やきゅう</rt></ruby>
 "test, examination",試験,<ruby>試験<rt>しけん</rt></ruby>
 typhoon,台風,<ruby>台風<rt>たいふう</rt></ruby>
 "rule, regulation",規則,<ruby>規則<rt>きそく</rt></ruby>
-great distance,遠く,<ruby>遠<rt>とお</rt></ruby>く
+great distance,遠く,<ruby>遠<rt>とお</rt></ruby>く,Vocab 64
 golf,ゴルフ,ゴルフ
 female nurse,看護婦,<ruby>看護婦<rt>かんごふ</rt></ruby>
 radio,ラジオ,ラジオ
@@ -959,11 +955,11 @@ next month,来月,<ruby>来月<rt>らいげつ</rt></ruby>
 "urgent, dire, pressing",急,<ruby>急<rt>きゅう</rt></ruby>
 slowly,ゆっくり,ゆっくり
 sibling,兄弟,<ruby>兄弟<rt>きょうだい</rt></ruby>
-beef,牛肉,<ruby>牛肉<rt>ぎゅうにく</rt></ruby>,Vocab 65
+beef,牛肉,<ruby>牛肉<rt>ぎゅうにく</rt></ruby>
 "for sure, for certain",確か,<ruby>確<rt>たし</rt></ruby>か
 to grow accustomed to,慣れる,<ruby>慣<rt>な</rt></ruby>れる
 "thick, bulky",厚い,<ruby>厚<rt>あつ</rt></ruby>い
-"to return, to repay",返す,<ruby>返<rt>かえ</rt></ruby>す
+"to return, to repay",返す,<ruby>返<rt>かえ</rt></ruby>す,Vocab 65
 "thick woods, forest",森,<ruby>森<rt>もり</rt></ruby>
 "to get off, to land",降りる,<ruby>降<rt>お</rt></ruby>りる
 "song, melody, tune",曲,<ruby>曲<rt>きょく</rt></ruby>
@@ -974,11 +970,11 @@ to grow accustomed to,慣れる,<ruby>慣<rt>な</rt></ruby>れる
 restaurant,レストラン,レストラン
 doctor,"医者, お医者さん","<ruby>医者<rt>いしゃ</rt></ruby>, お<ruby>医者<rt>いしゃ</rt></ruby>さん"
 "card, credit card",カード,カード
-"to blow, to play on a wind instrument",吹く,<ruby>吹<rt>ふ</rt></ruby>く,Vocab 66
+"to blow, to play on a wind instrument",吹く,<ruby>吹<rt>ふ</rt></ruby>く
 "signal, traffic light",信号,<ruby>信号<rt>しんごう</rt></ruby>
 "picture, painting, drawing",絵,<ruby>絵<rt>え</rt></ruby>
 "repair, mending",修理,<ruby>修理<rt>しゅうり</rt></ruby>
-subway,地下鉄,<ruby>地下鉄<rt>ちかてつ</rt></ruby>
+subway,地下鉄,<ruby>地下鉄<rt>ちかてつ</rt></ruby>,Vocab 66
 baby,"赤ちゃん, 赤ん坊","<ruby>赤<rt>あか</rt></ruby>ちゃん, <ruby>赤<rt>あか</rt></ruby>ん<ruby>坊<rt>ぼう</rt></ruby>"
 "interesting, amusing",面白い,<ruby>面白<rt>おもしろ</rt></ruby>い
 divorce,離婚,<ruby>離婚<rt>りこん</rt></ruby>
@@ -989,11 +985,11 @@ divorce,離婚,<ruby>離婚<rt>りこん</rt></ruby>
 "shopping, purchase",買い物,<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>
 "stone, small rock",石,<ruby>石<rt>いし</rt></ruby>
 "drug, remedy, chemical",薬,<ruby>薬<rt>くすり</rt></ruby>
-"to turn, to rotate",回す,<ruby>回<rt>まわ</rt></ruby>す,Vocab 67
+"to turn, to rotate",回す,<ruby>回<rt>まわ</rt></ruby>す
 "copy, photocopy",コピー,コピー
 "to hit, to bump into",ぶつかる,ぶつかる
 driver,運転手,<ruby>運転手<rt>うんてんしゅ</rt></ruby>
-church,教会,<ruby>教会<rt>きょうかい</rt></ruby>
+church,教会,<ruby>教会<rt>きょうかい</rt></ruby>,Vocab 67
 film,フィルム,フィルム
 future,未来,<ruby>未来<rt>みらい</rt></ruby>
 "principal, schoolmaster",校長,<ruby>校長<rt>こうちょう</rt></ruby>
@@ -1004,11 +1000,11 @@ to see (someone) off,見送る,<ruby>見送<rt>みおく</rt></ruby>る
 "hair, hairstyle",髪,<ruby>髪<rt>かみ</rt></ruby>
 "box, case",箱,<ruby>箱<rt>はこ</rt></ruby>
 "recollections, memory",思い出,<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>
-bed,ベッド,ベッド,Vocab 68
+bed,ベッド,ベッド
 "Shinkansen, Bullet Train",新幹線,<ruby>新幹線<rt>しんかんせん</rt></ruby>
 to have children,生む,<ruby>生<rt>う</rt></ruby>む
 "married lady, your wife",奥さん,<ruby>奥<rt>おく</rt></ruby>さん
-"steps, flight of stairs",階段,<ruby>階段<rt>かいだん</rt></ruby>
+"steps, flight of stairs",階段,<ruby>階段<rt>かいだん</rt></ruby>,Vocab 68
 invitation,招待,<ruby>招待<rt>しょうたい</rt></ruby>
 "coat, jacket, court",コート,コート
 "to burn, to undergo combustion",燃える,<ruby>燃<rt>も</rt></ruby>える
@@ -1019,11 +1015,11 @@ ceiling,天井,<ruby>天井<rt>てんじょう</rt></ruby>
 "reservation, subscription",予約,<ruby>予約<rt>よやく</rt></ruby>
 the year before last,一昨年,<ruby>一昨年<rt>おととし／いっさくねん</rt></ruby>
 "holiday, day off",休日,<ruby>休日<rt>きゅうじつ</rt></ruby>
-"order, request",注文,<ruby>注文<rt>ちゅうもん</rt></ruby>,Vocab 69
+"order, request",注文,<ruby>注文<rt>ちゅうもん</rt></ruby>
 rent,家賃,<ruby>家賃<rt>やちん</rt></ruby>
 "walk, stroll",散歩,<ruby>散歩<rt>さんぽ</rt></ruby>
 "commuting, commutation",通勤,<ruby>通勤<rt>つうきん</rt></ruby>
-"note book, laptop",ノート,ノート
+"note book, laptop",ノート,ノート,Vocab 69
 "to resign, to retire",辞める,<ruby>辞<rt>や</rt></ruby>める
 "way, method",仕方,<ruby>仕方<rt>しかた</rt></ruby>
 kitchen,"台所, きっちん","<ruby>台所<rt>だいどころ</rt></ruby>, きっちん"
@@ -1034,11 +1030,11 @@ kitchen,"台所, きっちん","<ruby>台所<rt>だいどころ</rt></ruby>, き
 "practice, training","練習, 実習","<ruby>練習<rt>れんしゅう</rt></ruby>, <ruby>実習<rt>じっしゅう</rt></ruby>"
 after a long time,久しぶり,<ruby>久<rt>ひさ</rt></ruby>しぶり
 "going and returning, round trip",往復,<ruby>往復<rt>おうふく</rt></ruby>
-"large numbers, a lot of",大勢,<ruby>大勢<rt>おおぜい</rt></ruby>,Vocab 70
+"large numbers, a lot of",大勢,<ruby>大勢<rt>おおぜい</rt></ruby>
 "intimate, familiar",親しい,<ruby>親<rt>した</rt></ruby>しい
 "number, serial number",番号,<ruby>番号<rt>ばんごう</rt></ruby>
 wine,ワイン,ワイン
-"to roll up, to wind, to wrap",巻く,<ruby>巻<rt>ま</rt></ruby>く
+"to roll up, to wind, to wrap",巻く,<ruby>巻<rt>ま</rt></ruby>く,Vocab 70
 blue,青い,<ruby>青<rt>あお</rt></ruby>い
 "strange, peculiar, suspicious, funny, amusing, comical",おかしい,おかしい
 "to cross, to ford, to go across",渡る,<ruby>渡<rt>わた</rt></ruby>る
@@ -1049,11 +1045,11 @@ to wash,洗う,<ruby>洗<rt>あら</rt></ruby>う
 "to inquire, to search for",尋ねる,<ruby>尋<rt>たず</rt></ruby>ねる
 "to tap, to hit",叩く,<ruby>叩<rt>たた</rt></ruby>く
 "hallway, corridor",廊下,<ruby>廊下<rt>ろうか</rt></ruby>
-post office,郵便局,<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>,Vocab 71
+post office,郵便局,<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>
 "to divide, to crack, to split",割る,<ruby>割<rt>わ</rt></ruby>る
 entering a school of higher grade,進学,<ruby>進学<rt>しんがく</rt></ruby>
 toilet,トイレ,トイレ
-"to bloom, to blossom",咲く,<ruby>咲<rt>さ</rt></ruby>く
+"to bloom, to blossom",咲く,<ruby>咲<rt>さ</rt></ruby>く,Vocab 71
 parking area,駐車場,<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>
 "to cry, to weep",泣く,<ruby>泣<rt>な</rt></ruby>く
 roof,屋根,<ruby>屋根<rt>やね</rt></ruby>
@@ -1064,11 +1060,11 @@ roof,屋根,<ruby>屋根<rt>やね</rt></ruby>
 last month,先月,<ruby>先月<rt>せんげつ</rt></ruby>
 art museum,美術館,<ruby>美術館<rt>びじゅつかん</rt></ruby>
 "to tear, to break through, to breach",破る,<ruby>破<rt>やぶ</rt></ruby>る
-black,黒,<ruby>黒<rt>くろ</rt></ruby>,Vocab 72
+black,黒,<ruby>黒<rt>くろ</rt></ruby>
 "to refuse, to turn down",断る,<ruby>断<rt>ことわ</rt></ruby>る
 "article, thing",品物,<ruby>品物<rt>しなもの</rt></ruby>
 plastic,プラスチック,プラスチック
-"to lend, to lease",貸す,<ruby>貸<rt>か</rt></ruby>す
+"to lend, to lease",貸す,<ruby>貸<rt>か</rt></ruby>す,Vocab 72
 "to sink, to set",沈む,<ruby>沈<rt>しず</rt></ruby>む
 "to shine, to emit light",光る,<ruby>光<rt>ひか</rt></ruby>る
 right hand,右手,<ruby>右手<rt>みぎて</rt></ruby>
@@ -1079,11 +1075,11 @@ egg,卵,<ruby>卵<rt>たまご</rt></ruby>
 to swim,泳ぐ,<ruby>泳<rt>およ</rt></ruby>ぐ
 "inside, interior",内側,<ruby>内側<rt>うちがわ</rt></ruby>
 "custom, habit",習慣,<ruby>習慣<rt>しゅうかん</rt></ruby>
-"to throw, to abandon",投げる,<ruby>投<rt>な</rt></ruby>げる,Vocab 73
+"to throw, to abandon",投げる,<ruby>投<rt>な</rt></ruby>げる
 New Year,"正月, 新年","<ruby>正月<rt>しょうがつ</rt></ruby>, <ruby>新年<rt>しんねん</rt></ruby>"
 "hobby, interest",趣味,<ruby>趣味<rt>しゅみ</rt></ruby>
 "to steal, to rob",盗む,<ruby>盗<rt>ぬす</rt></ruby>む
-piano,ピアノ,ピアノ
+piano,ピアノ,ピアノ,Vocab 73
 pond,池,<ruby>池<rt>いけ</rt></ruby>
 graduate school,大学院,<ruby>大学院<rt>だいがくいん</rt></ruby>
 "how many degrees, how many times",何度,<ruby>何度<rt>なんど</rt></ruby>
@@ -1094,11 +1090,11 @@ discharge from a hospital,退院,<ruby>退院<rt>たいいん</rt></ruby>
 weight,"重さ, 重量","<ruby>重<rt>おも</rt></ruby>さ, <ruby>重量<rt>じゅうりょう</rt></ruby>"
 "commerce, trade",商業,<ruby>商業<rt>しょうぎょう</rt></ruby>
 "ski, skiing",スキー,スキー
-"to lay, to spread",敷く,<ruby>敷<rt>し</rt></ruby>く,Vocab 74
+"to lay, to spread",敷く,<ruby>敷<rt>し</rt></ruby>く
 "peace of mind, relief",安心,<ruby>安心<rt>あんしん</rt></ruby>
 "thread, yarn",糸,<ruby>糸<rt>いと</rt></ruby>
 "not at all, hardly",なかなか,なかなか
-doll,人形,<ruby>人形<rt>にんぎょう</rt></ruby>
+doll,人形,<ruby>人形<rt>にんぎょう</rt></ruby>,Vocab 74
 pool,プール,プール
 silver,銀,<ruby>銀<rt>ぎん</rt></ruby>
 "smell, odor",匂い,<ruby>匂<rt>にお</rt></ruby>い
@@ -1109,11 +1105,11 @@ traffic accident,交通事故,<ruby>交通事故<rt>こうつうじこ</rt></rub
 "shallow, superficial",浅い,<ruby>浅<rt>あさ</rt></ruby>い
 "observation tour, study tour, field trip",見学,<ruby>見学<rt>けんがく</rt></ruby>
 "thick, concentrated, dark-colored",濃い,<ruby>濃<rt>こ</rt></ruby>い
-"to break, to destroy, to smash",壊す,<ruby>壊<rt>こわ</rt></ruby>す,Vocab 75
+"to break, to destroy, to smash",壊す,<ruby>壊<rt>こわ</rt></ruby>す
 "to be in time, to answer the purpose, to can do without",間に合う,<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う
 "to deliver, to give notice",届ける,<ruby>届<rt>とど</rt></ruby>ける
 "leaf, needle",葉,<ruby>葉<rt>は</rt></ruby>
-elevator,エレベーター,エレベーター
+elevator,エレベーター,エレベーター,Vocab 75
 "memorandum, memo pad",メモ,メモ
 "fine, excellent",立派,<ruby>立派<rt>りっぱ</rt></ruby>
 Japanese inn,旅館,<ruby>旅館<rt>りょかん</rt></ruby>
@@ -1124,11 +1120,11 @@ to surprised,びっくりする,びっくりする
 sugar,砂糖,<ruby>砂糖<rt>さとう</rt></ruby>
 "rest, holiday, absence",休み,<ruby>休<rt>やす</rt></ruby>み
 sound recording,録音,<ruby>録音<rt>ろくおん</rt></ruby>
-"way of speaking, expression",言い方,<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>,Vocab 76
+"way of speaking, expression",言い方,<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>
 "return, going home",帰り,<ruby>帰<rt>かえ</rt></ruby>り
 weekend,"週末, 週休, ウィークエンド","<ruby>週末<rt>しゅうまつ</rt></ruby>, <ruby>週休<rt>しゅうきゅう</rt></ruby>, ウィークエンド"
 "trousers, pants",ズボン,ズボン
-"to suffice, to serve, to be satisfied",足りる,<ruby>足<rt>た</rt></ruby>りる
+"to suffice, to serve, to be satisfied",足りる,<ruby>足<rt>た</rt></ruby>りる,Vocab 76
 "to pick up, to find",拾う,<ruby>拾<rt>ひろ</rt></ruby>う
 festival,祭り,<ruby>祭<rt>まつ</rt></ruby>り
 museum,博物館,<ruby>博物館<rt>はくぶつかん</rt></ruby>
@@ -1139,11 +1135,11 @@ wealthy person,金持ち,<ruby>金持<rt>かねも</rt></ruby>ち
 "to persist, to be tenacious",頑張る,<ruby>頑張<rt>がんば</rt></ruby>る
 gram,グラム,グラム
 coffee,コーヒー,コーヒー
-"cherry tree, cherry blossom",桜,<ruby>桜<rt>さくら</rt></ruby>,Vocab 77
+"cherry tree, cherry blossom",桜,<ruby>桜<rt>さくら</rt></ruby>
 "to stab, to prick, to sting",刺す,<ruby>刺<rt>さ</rt></ruby>す
 tent,テント,テント
 boat,ボート,ボート
-"to meet with, to encounter",遭う,<ruby>遭<rt>あ</rt></ruby>う
+"to meet with, to encounter",遭う,<ruby>遭<rt>あ</rt></ruby>う,Vocab 77
 ball,ボール,ボール
 "motorbike, motorcycle",オートバイ,オートバイ
 "foreigner, alien",外人,<ruby>外人<rt>がいじん</rt></ruby>
@@ -1154,11 +1150,11 @@ ball,ボール,ボール
 "attending school, going to school",通学,<ruby>通学<rt>つうがく</rt></ruby>
 "to deposit, to entrust",預ける,<ruby>預<rt>あず</rt></ruby>ける
 "to attach, to set, to apply",付ける,<ruby>付<rt>つ</rt></ruby>ける
-"to learn, to practice",習う,<ruby>習<rt>なら</rt></ruby>う,Vocab 78
+"to learn, to practice",習う,<ruby>習<rt>なら</rt></ruby>う
 "to build, to set up, to construct",組み立てる,<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てる
 "to spread on, to paint",塗る,<ruby>塗<rt>ぬ</rt></ruby>る
 left hand,左手,<ruby>左手<rt>ひだりて</rt></ruby>
-"cruel, severe",ひどい,ひどい
+"cruel, severe",ひどい,ひどい,Vocab 78
 separately,別々,<ruby>別々<rt>べつべつ</rt></ruby>
 every week,毎週,<ruby>毎週<rt>まいしゅう</rt></ruby>
 to kick,蹴る,<ruby>蹴<rt>け</rt></ruby>る
@@ -1169,11 +1165,11 @@ milk,牛乳,<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>
 "one's dwelling, address",住所,<ruby>住所<rt>じゅうしょ</rt></ruby>
 last week,先週,<ruby>先週<rt>せんしゅう</rt></ruby>
 "airport, airfield",飛行場,<ruby>飛行場<rt>ひこうじょう</rt></ruby>
-ambulance,救急車,<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>,Vocab 79
+ambulance,救急車,<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>
 "to go down, to come down",下りる,<ruby>下<rt>お</rt></ruby>りる
 fruit,果物,<ruby>果物<rt>くだもの</rt></ruby>
 "mistake, error",間違い,<ruby>間違<rt>まちが</rt></ruby>い
-you,"あなた, 君","あなた, <ruby>君<rt>きみ</rt></ruby>"
+you,"あなた, 君","あなた, <ruby>君<rt>きみ</rt></ruby>",Vocab 79
 movie theater,映画館,<ruby>映画館<rt>えいがかん</rt></ruby>
 to dance,踊る,<ruby>踊<rt>おど</rt></ruby>る
 "fearful, be afraid",怖い,<ruby>怖<rt>こわ</rt></ruby>い
@@ -1184,11 +1180,11 @@ mirror,鏡,<ruby>鏡<rt>かがみ</rt></ruby>
 switch,スイッチ,スイッチ
 cleaning,掃除,<ruby>掃除<rt>そうじ</rt></ruby>
 "tatami, mat",畳,<ruby>畳<rt>たたみ</rt></ruby>
-speed,"速さ, スピード","<ruby>速<rt>はや</rt></ruby>さ, スピード",Vocab 80
+speed,"速さ, スピード","<ruby>速<rt>はや</rt></ruby>さ, スピード"
 "woods, grove",林,<ruby>林<rt>はやし</rt></ruby>
 "present, gift","プレゼント, 贈り物","プレゼント, <ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>"
 "box lunch, picnic lunch",弁当,<ruby>弁当<rt>べんとう</rt></ruby>
-"always, at all times",いつでも,いつでも
+"always, at all times",いつでも,いつでも,Vocab 80
 "lonely, desolate, sad",寂しい,<ruby>寂<rt>さび</rt></ruby>しい
 at all,少しも,<ruby>少<rt>すこ</rt></ruby>しも
 "respect, esteem, honor",尊敬,<ruby>尊敬<rt>そんけい</rt></ruby>
@@ -1199,10 +1195,11 @@ tennis,テニス,テニス
 "patience, self-restraint",我慢,<ruby>我慢<rt>がまん</rt></ruby>
 "nationality, citizenship",国籍,<ruby>国籍<rt>こくせき</rt></ruby>
 "here, this way",こちら,こちら
-"shy, ashamed, disgraceful",恥ずかしい,<ruby>恥<rt>は</rt></ruby>ずかしい,Vocab 81
+"shy, ashamed, disgraceful",恥ずかしい,<ruby>恥<rt>は</rt></ruby>ずかしい
 button,ボタン,ボタン
+clothes (western style),洋服,<ruby>洋服<rt>ようふく</rt></ruby>
 "oil, animal oil",油,<ruby>油<rt>あぶら</rt></ruby>
-"to remain over, to be in excess",余る,<ruby>余<rt>あま</rt></ruby>る
+"to remain over, to be in excess",余る,<ruby>余<rt>あま</rt></ruby>る,Vocab 81
 "honest, upright",正直,<ruby>正直<rt>しょうじき</rt></ruby>
 "drama, theater, soap opera",ドラマ,ドラマ
 visa,ビザ,ビザ
@@ -1214,10 +1211,10 @@ pocket,ポケット,ポケット
 "stiff, tight",固い,<ruby>固<rt>かた</rt></ruby>い
 "soon, quietly",そろそろ,そろそろ
 grapes,ぶどう,ぶどう
-"to be perplexed, to hesitate, to get lost",迷う,<ruby>迷<rt>まよ</rt></ruby>う,Vocab 82
+"to be perplexed, to hesitate, to get lost",迷う,<ruby>迷<rt>まよ</rt></ruby>う
 to hold down,押さえる,<ruby>押<rt>お</rt></ruby>さえる
 "sightseeing, visit",見物,<ruby>見物<rt>けんぶつ</rt></ruby>
-"to let know, to inform",知らせる,<ruby>知<rt>し</rt></ruby>らせる
+"to let know, to inform",知らせる,<ruby>知<rt>し</rt></ruby>らせる,Vocab 82
 Shinto shrine,神社,<ruby>神社<rt>じんじゃ</rt></ruby>
 "injection, shot",注射,<ruby>注射<rt>ちゅうしゃ</rt></ruby>
 rarely,めったに,めったに
@@ -1229,10 +1226,10 @@ rarely,めったに,めったに
 "to apply, to make a proposal",申し込む,<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む
 refrigerator,冷蔵庫,<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>
 "to like, to be pleased with",気に入る,<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>る
-Christmas,クリスマス,クリスマス,Vocab 83
+Christmas,クリスマス,クリスマス
 "tie, necktie",ネクタイ,ネクタイ
 thickness,厚さ,<ruby>厚<rt>あつ</rt></ruby>さ
-birthday,誕生日,<ruby>誕生日<rt>たんじょうび</rt></ruby>
+birthday,誕生日,<ruby>誕生日<rt>たんじょうび</rt></ruby>,Vocab 83
 "single life, celibacy",独身,<ruby>独身<rt>どくしん</rt></ruby>
 "bitter, sour",苦い,<ruby>苦<rt>にが</rt></ruby>い
 violin,バイオリン,バイオリン
@@ -1244,10 +1241,10 @@ elastic,ゴム,ゴム
 jet airplane,ジェット機,ジェット<ruby>機<rt>き</rt></ruby>
 "a little, a few",少々,<ruby>少々<rt>しょうしょう</rt></ruby>
 "extremely, considerably",随分,<ruby>随分<rt>ずいぶん</rt></ruby>
-"to pull, to drag",引っ張る,<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>る,Vocab 84
+"to pull, to drag",引っ張る,<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>る
 "cap, hat",帽子,<ruby>帽子<rt>ぼうし</rt></ruby>
 "to burn, to be scorched, to be baked",焼ける,<ruby>焼<rt>や</rt></ruby>ける
-pencil,鉛筆,<ruby>鉛筆<rt>えんぴつ</rt></ruby>
+pencil,鉛筆,<ruby>鉛筆<rt>えんぴつ</rt></ruby>,Vocab 84
 conversation,会話,<ruby>会話<rt>かいわ</rt></ruby>
 guitar,ギター,ギター
 tea (plain form),茶,<ruby>茶<rt>ちゃ</rt></ruby>
@@ -1259,10 +1256,10 @@ tea (polite),お茶,お<ruby>茶<rt>ちゃ</rt></ruby>
 second son,次男,<ruby>次男<rt>じなん</rt></ruby>
 "sweater, pullover",セーター,セーター
 "to move, to change quarters",引っ越す,<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す
-round,丸い,<ruby>丸<rt>まる</rt></ruby>い,Vocab 85
+round,丸い,<ruby>丸<rt>まる</rt></ruby>い
 "to be taken, to be seen through",写る,<ruby>写<rt>うつ</rt></ruby>る
 "coffee shop, tea house, café",喫茶店,<ruby>喫茶店<rt>きっさてん</rt></ruby>
-"wholly, at all",全然,<ruby>全然<rt>ぜんぜん</rt></ruby>
+"wholly, at all",全然,<ruby>全然<rt>ぜんぜん</rt></ruby>,Vocab 85
 "just as I thought, after all",やっぱり,やっぱり
 weekly magazine,週刊誌,<ruby>週刊誌<rt>しゅうかんし</rt></ruby>
 "cupboard, shelf, rack",棚,<ruby>棚<rt>たな</rt></ruby>
@@ -1274,10 +1271,10 @@ shirt,シャツ,シャツ
 knife,ナイフ,ナイフ
 "everybody, ladies and gentlemen",皆さん,<ruby>皆<rt>みな</rt></ruby>さん
 second daughter,次女,<ruby>次女<rt>じじょ</rt></ruby>
-"savings, deposit",貯金,<ruby>貯金<rt>ちょきん</rt></ruby>,Vocab 86
+"savings, deposit",貯金,<ruby>貯金<rt>ちょきん</rt></ruby>
 "motorbike, motor cycle",バイク,バイク
 "to receive on deposit, to take charge of",預かる,<ruby>預<rt>あず</rt></ruby>かる
-"some time, some day",いつか,いつか
+"some time, some day",いつか,いつか,Vocab 86
 orange,オレンジ,オレンジ
 "to bite, to chew",噛む,<ruby>噛<rt>か</rt></ruby>む
 "tight, difficult, severe, hard, strict",きつい,きつい
@@ -1289,10 +1286,10 @@ zoo,動物園,<ruby>動物園<rt>どうぶつえん</rt></ruby>
 envelope,封筒,<ruby>封筒<rt>ふうとう</rt></ruby>
 "dangerous, uncertain",危ない,<ruby>危<rt>あぶ</rt></ruby>ない
 "cute, charming, sweet",可愛い,<ruby>可愛<rt>かわい</rt></ruby>い
-"some time ago, only a moment ago",さっき,さっき,Vocab 87
+"some time ago, only a moment ago",さっき,さっき
 homework,宿題,<ruby>宿題<rt>しゅくだい</rt></ruby>
 "textbook, text, text file",テキスト,テキスト
-plastic bag,ビニール,ビニール
+plastic bag,ビニール,ビニール,Vocab 87
 apple,りんご,りんご
 album,アルバム,アルバム
 grandfather,"お祖父さん, 祖父","お<ruby>祖父<rt>じい</rt></ruby>さん, <ruby>祖父<rt>そふ</rt></ruby>"
@@ -1304,10 +1301,10 @@ skirt,スカート,スカート
 pen,ペン,ペン
 "thing, object",物,<ruby>物<rt>もの</rt></ruby>
 soft,柔らかい,<ruby>柔<rt>やわ</rt></ruby>らかい
-"mail service, postal matter",郵便,<ruby>郵便<rt>ゆうびん</rt></ruby>,Vocab 88
+"mail service, postal matter",郵便,<ruby>郵便<rt>ゆうびん</rt></ruby>
 "to crack, to be divided, to split",割れる,<ruby>割<rt>わ</rt></ruby>れる
 station employee,駅員,<ruby>駅員<rt>えきいん</rt></ruby>
-"chatter, talkative, idle talk",おしゃべり,おしゃべり
+"chatter, talkative, idle talk",おしゃべり,おしゃべり,Vocab 88
 postage stamp,切手,<ruby>切手<rt>きって</rt></ruby>
 green,"緑色, グリーン","<ruby>緑色<rt>みどりいろ</rt></ruby>, グリーン"
 every morning,毎朝,<ruby>毎朝<rt>まいあさ</rt></ruby>
@@ -1319,10 +1316,10 @@ underwear,下着,<ruby>下着<rt>したぎ</rt></ruby>
 "to grow fat, to fatten",太る,<ruby>太<rt>ふと</rt></ruby>る
 air conditioning,冷房,<ruby>冷房<rt>れいぼう</rt></ruby>
 "to separate, to part from",別れる,<ruby>別<rt>わか</rt></ruby>れる
-to become available or vacant,空く,<ruby>空<rt>あ</rt></ruby>く,Vocab 89
+to become available or vacant,空く,<ruby>空<rt>あ</rt></ruby>く
 "key, lock",鍵,<ruby>鍵<rt>かぎ</rt></ruby>
 "umbrella, parasol",傘,<ruby>傘<rt>かさ</rt></ruby>
-"to go out, to be about to go out",出掛ける,<ruby>出掛<rt>でか</rt></ruby>ける
+to go out (and do something),出掛ける,<ruby>出掛<rt>でか</rt></ruby>ける,Vocab 89
 every evening,毎晩,<ruby>毎晩<rt>まいばん</rt></ruby>
 ring,指輪,<ruby>指輪<rt>ゆびわ</rt></ruby>
 "how many, how old",幾つ,<ruby>幾<rt>いく</rt></ruby>つ
@@ -1334,10 +1331,10 @@ ice cream,アイスクリーム,アイスクリーム
 "dressing up smartly, trendy",おしゃれ,おしゃれ
 "rest, repose",休憩,<ruby>休憩<rt>きゅうけい</rt></ruby>
 tongue,舌,<ruby>舌<rt>した</rt></ruby>
-"juice, soft drink",ジュース,ジュース,Vocab 90
+"juice, soft drink",ジュース,ジュース
 "splendid, excellent",素晴らしい,<ruby>素晴<rt>すば</rt></ruby>らしい
 zero,ゼロ,ゼロ
-morning edition,朝刊,<ruby>朝刊<rt>ちょうかん</rt></ruby>
+morning edition,朝刊,<ruby>朝刊<rt>ちょうかん</rt></ruby>,Vocab 90
 "polite, courteous, careful",丁寧,<ruby>丁寧<rt>ていねい</rt></ruby>
 "person that is hard to deal with, weak point",苦手,<ruby>苦手<rt>にがて</rt></ruby>
 "sun, sunlight, day",日,<ruby>日<rt>ひ</rt></ruby>
@@ -1349,10 +1346,10 @@ evening edition,夕刊,<ruby>夕刊<rt>ゆうかん</rt></ruby>
 "the other day, recently",この間,この<ruby>間<rt>あいだ</rt></ruby>
 "to cool down, to feel chilly",冷える,<ruby>冷<rt>ひ</rt></ruby>える
 pink,ピンク,ピンク
-"hair, wool",毛,<ruby>毛<rt>け</rt></ruby>,Vocab 91
+"hair, wool",毛,<ruby>毛<rt>け</rt></ruby>
 blackboard,黒板,<ruby>黒板<rt>こくばん</rt></ruby>
 "to accumulate, to get accumulated",積もる,<ruby>積<rt>つ</rt></ruby>もる
-half a year,半年,<ruby>半年<rt>はんとし</rt></ruby>
+half a year,半年,<ruby>半年<rt>はんとし</rt></ruby>,Vocab 91
 "exit, exit ramp",出口,<ruby>出口<rt>でぐち</rt></ruby>
 "to climb, to mount, to go up",登る,<ruby>登<rt>のぼ</rt></ruby>る
 pure-white,真っ白,<ruby>真<rt>ま</rt></ruby>っ<ruby>白<rt>しろ</rt></ruby>
@@ -1364,10 +1361,10 @@ heating,暖房,<ruby>暖房<rt>だんぼう</rt></ruby>
 gloves,手袋,<ruby>手袋<rt>てぶくろ</rt></ruby>
 not at home,留守,<ruby>留守<rt>るす</rt></ruby>
 lie,嘘,<ruby>嘘<rt>うそ</rt></ruby>
-"reserve, hesitation, forethought",遠慮,<ruby>遠慮<rt>えんりょ</rt></ruby>,Vocab 92
+"reserve, hesitation, forethought",遠慮,<ruby>遠慮<rt>えんりょ</rt></ruby>
 "to break off, to fold, to bend",折る,<ruby>折<rt>お</rt></ruby>る
 "tonight, this evening",今夜,<ruby>今夜<rt>こんや</rt></ruby>
-"soup, broth",スープ,スープ
+"soup, broth",スープ,スープ,Vocab 92
 banana,バナナ,バナナ
 "noisy, annoying, pesky, bothersome",うるさい,うるさい
 "poor, pitiable",可哀相,<ruby>可哀相<rt>かわいそう</rt></ruby>
@@ -1379,10 +1376,10 @@ escalator,エスカレーター,エスカレーター
 towel,タオル,タオル
 "pocketbook, memo",手帳,<ruby>手帳<rt>てちょう</rt></ruby>
 "to change, to transfer",乗り換える,<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>える
-"booth, store",売店,<ruby>売店<rt>ばいてん</rt></ruby>,Vocab 93
+"booth, store",売店,<ruby>売店<rt>ばいてん</rt></ruby>
 pachinko (vertical pinball),パチンコ,パチンコ
 beautiful woman,美人,<ruby>美人<rt>びじん</rt></ruby>
-"bookstore, bookseller",本屋,<ruby>本屋<rt>ほんや</rt></ruby>
+"bookstore, bookseller",本屋,<ruby>本屋<rt>ほんや</rt></ruby>,Vocab 93
 "tangerine, mandarin orange",みかん,みかん
 to apologize,謝る,<ruby>謝<rt>あやま</rt></ruby>る
 cake,ケーキ,ケーキ
@@ -1394,10 +1391,10 @@ nylon,ナイロン,ナイロン
 "strange, weird, funny",変,<ruby>変<rt>へん</rt></ruby>
 next week,来週,<ruby>来週<rt>らいしゅう</rt></ruby>
 "for life, with all one's might",一生懸命,<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>
-"to dry, to run dry",乾く,<ruby>乾<rt>かわ</rt></ruby>く,Vocab 94
+"to dry, to run dry",乾く,<ruby>乾<rt>かわ</rt></ruby>く
 "plate, counter for plates or helpings",皿,<ruby>皿<rt>さら</rt></ruby>
 "to be mistaken, to be incorrect",間違う,<ruby>間違<rt>まちが</rt></ruby>う
-office,事務室,<ruby>事務室<rt>じむしつ</rt></ruby>
+office,事務室,<ruby>事務室<rt>じむしつ</rt></ruby>,Vocab 94
 fire engine,消防車,<ruby>消防車<rt>しょうぼうしゃ</rt></ruby>
 suit,スーツ,スーツ
 chocolate,チョコレート,チョコレート
@@ -1409,10 +1406,10 @@ New Year's card,年賀状,<ruby>年賀状<rt>ねんがじょう</rt></ruby>
 "to be useful, to be helpful",役に立つ,<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ
 "to tear, to rip open",破れる,<ruby>破<rt>やぶ</rt></ruby>れる
 "things to do, errand, business",用事,<ruby>用事<rt>ようじ</rt></ruby>
-"to copy, to photograph",写す,<ruby>写<rt>うつ</rt></ruby>す,Vocab 95
+"to copy, to photograph",写す,<ruby>写<rt>うつ</rt></ruby>す
 wrist watch,腕時計,<ruby>腕時計<rt>うでどけい</rt></ruby>
 channel,チャンネル,チャンネル
-"boring, dull",つまらない,つまらない
+"boring, dull",つまらない,つまらない,Vocab 95
 "match, matchbox",マッチ,マッチ
 cousin,従兄弟,<ruby>従兄弟<rt>いとこ</rt></ruby>
 "to cool, to chill",冷やす,<ruby>冷<rt>ひ</rt></ruby>やす
@@ -1424,10 +1421,10 @@ stoppage,停車,<ruby>停車<rt>ていしゃ</rt></ruby>
 gas station,ガソリンスタンド,ガソリンスタンド
 this morning,今朝,<ruby>今朝<rt>けさ</rt></ruby>
 police box,交番,<ruby>交番<rt>こうばん</rt></ruby>
-"very, greatly","大分, 大いに","<ruby>大分<rt>だいぶ</rt></ruby>, <ruby>大<rt>おお</rt></ruby>いに",Vocab 96
+"very, greatly","大分, 大いに","<ruby>大分<rt>だいぶ</rt></ruby>, <ruby>大<rt>おお</rt></ruby>いに"
 rainy season,梅雨,<ruby>梅雨<rt>つゆ</rt></ruby>
 date,"デート, 月日","デート, <ruby>月日<rt>がっぴ</rt></ruby>"
-"sliding door, fusuma",ふすま,ふすま
+"sliding door, fusuma",ふすま,ふすま,Vocab 96
 "dead straight, honestly",真っ直ぐ,<ruby>真<rt>ま</rt></ruby>っ<ruby>直<rt>す</rt></ruby>ぐ
 lemon,レモン,レモン
 "coat, jacket",上着,<ruby>上着<rt>うわぎ</rt></ruby>
@@ -1439,10 +1436,10 @@ railroad crossing,踏切,<ruby>踏切<rt>ふみきり</rt></ruby>
 racket,ラケット,ラケット
 "receptionist, information office",受付,<ruby>受付<rt>うけつけ</rt></ruby>
 "to get angry, to scold",怒る,<ruby>怒<rt>おこ</rt></ruby>る
-"make up, put on makeup",化粧,<ruby>化粧<rt>けしょう</rt></ruby>,Vocab 97
+"make up, put on makeup",化粧,<ruby>化粧<rt>けしょう</rt></ruby>
 sushi,寿司,<ruby>寿司<rt>すし</rt></ruby>
 flight attendant,スチュワーデス,スチュワーデス
-circumstances,都合,<ruby>都合<rt>つごう</rt></ruby>
+circumstances,都合,<ruby>都合<rt>つごう</rt></ruby>,Vocab 97
 "tape recorder, cassette recorder",テープレコーダー,テープレコーダー
 "moustache, beard",ひげ,ひげ
 bookshelf,本棚,<ruby>本棚<rt>ほんだな</rt></ruby>
@@ -1454,10 +1451,10 @@ leather,革,<ruby>革<rt>かわ</rt></ruby>
 soundly,ぐっすり,ぐっすり
 black tea,紅茶,<ruby>紅茶<rt>こうちゃ</rt></ruby>
 "disturbing, hindrance, obstruction",邪魔,<ruby>邪魔<rt>じゃま</rt></ruby>
-"sauce, Worcestershire sauce",ソース,ソース,Vocab 98
+"sauce, Worcestershire sauce",ソース,ソース
 typewriter,タイプライター,タイプライター
 "to add, to supplement",足す,<ruby>足<rt>た</rt></ruby>す
-tomato,トマト,トマト
+tomato,トマト,トマト,Vocab 98
 "to put on footwear, to wear",履く,<ruby>履<rt>は</rt></ruby>く
 butter,バター,バター
 "start, leave",発車,<ruby>発車<rt>はっしゃ</rt></ruby>
@@ -1469,10 +1466,10 @@ joke,冗談,<ruby>冗談<rt>じょうだん</rt></ruby>
 "to approach, to get acquainted",近付く,<ruby>近付<rt>ちかづ</rt></ruby>く
 telephone book,電話帳,<ruby>電話帳<rt>でんわちょう</rt></ruby>
 handbag,ハンドバッグ,ハンドバッグ
-bell,ベル,ベル,Vocab 99
+bell,ベル,ベル
 "to dry, to desiccate",干す,<ruby>干<rt>ほ</rt></ruby>す
 ink,インク,インク
-mosquito,蚊,<ruby>蚊<rt>か</rt></ruby>
+mosquito,蚊,<ruby>蚊<rt>か</rt></ruby>,Vocab 99
 "ticket barrier, wicket",改札口,<ruby>改札口<rt>かいさつぐち</rt></ruby>
 "to feel sad, to lament",悲しむ,<ruby>悲<rt>かな</rt></ruby>しむ
 "air conditioning, cooler",クーラー,クーラー
@@ -1484,10 +1481,10 @@ tofu,豆腐,<ruby>豆腐<rt>とうふ</rt></ruby>
 "siesta, nap",昼寝,<ruby>昼寝<rt>ひるね</rt></ruby>
 inconvenient,不便,<ruby>不便<rt>ふべん</rt></ruby>
 "milk, baby milk",ミルク,ミルク
-other side,向こう側,<ruby>向<rt>む</rt></ruby>こう<ruby>側<rt>がわ</rt></ruby>,Vocab 100
+other side,向こう側,<ruby>向<rt>む</rt></ruby>こう<ruby>側<rt>がわ</rt></ruby>
 hundred million,億,<ruby>億<rt>おく</rt></ruby>
 "thanks, reward, return present",お礼,お<ruby>礼<rt>れい</rt></ruby>
-"to dress, to put on clothes",着せる,<ruby>着<rt>き</rt></ruby>せる
+"to dress, to put on clothes",着せる,<ruby>着<rt>き</rt></ruby>せる,Vocab 100
 salad,サラダ,サラダ
 "vegetable store, greengrocer",八百屋,<ruby>八百屋<rt>やおや</rt></ruby>
 "uncle, Mister, middle-aged man",おじさん,おじさん
@@ -1499,10 +1496,10 @@ senior high school,高等学校,<ruby>高等学校<rt>こうとうがっこう</
 "noon recess, lunch break",昼休み,<ruby>昼休<rt>ひるやす</rt></ruby>み
 belt,ベルト,ベルト
 "deep-black, jet-black",真っ黒,<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>
-"everyone, ladies and gentlemen",皆様,<ruby>皆様<rt>みなさま</rt></ruby>,Vocab 101
+"everyone, ladies and gentlemen",皆様,<ruby>皆様<rt>みなさま</rt></ruby>
 ramen (Chinese noodles),ラーメン,ラーメン
 lighter,ライター,ライター
-"(business) shirt, (white) shirt",ワイシャツ,ワイシャツ
+"(business) shirt, (white) shirt",ワイシャツ,ワイシャツ,Vocab 101
 "to tumble down, to fall over",転ぶ,<ruby>転<rt>ころ</rt></ruby>ぶ
 "to cool off, to subside",冷める,<ruby>冷<rt>さ</rt></ruby>める
 shower,シャワー,シャワー
@@ -1514,10 +1511,10 @@ electric fan,扇風機,<ruby>扇風機<rt>せんぷうき</rt></ruby>
 "kana, Japanese syllabary",仮名,<ruby>仮名<rt>かな</rt></ruby>
 my wife,家内,<ruby>家内<rt>かない</rt></ruby>
 "memorial day, anniversary",記念日,<ruby>記念日<rt>きねんび</rt></ruby>
-"downhill, going down",下り,<ruby>下<rt>くだ</rt></ruby>り,Vocab 102
+"downhill, going down",下り,<ruby>下<rt>くだ</rt></ruby>り
 "notice board, bulletin board",掲示板,<ruby>掲示板<rt>けいじばん</rt></ruby>
 "to freeze, to congeal",凍る,<ruby>凍<rt>こお</rt></ruby>る
-"rubbish, trash",ごみ,ごみ
+"rubbish, trash",ごみ,ごみ,Vocab 102
 fire station,消防署,<ruby>消防署<rt>しょうぼうしょ</rt></ruby>
 supermarket,スーパーマーケット,スーパーマーケット
 handkerchief,ハンカチ,ハンカチ
@@ -1529,10 +1526,10 @@ cooking food for oneself,自炊,<ruby>自炊<rt>じすい</rt></ruby>
 "to stop, to turn off",止める,<ruby>止<rt>と</rt></ruby>める
 spoon,スプーン,スプーン
 "younger, junior",年下,<ruby>年下<rt>としした</rt></ruby>
-"to cure, to heal",治す,<ruby>治<rt>なお</rt></ruby>す,Vocab 103
+"to cure, to heal",治す,<ruby>治<rt>なお</rt></ruby>す
 chopsticks,箸,<ruby>箸<rt>はし</rt></ruby>
 flower viewing,花見,<ruby>花見<rt>はなみ</rt></ruby>
-"drawer, withdrawal",引き出し,<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>し
+"drawer, withdrawal",引き出し,<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>し,Vocab 103
 blouse,ブラウス,ブラウス
 "translation, rendering",訳,<ruby>訳<rt>やく</rt></ruby>
 ribbon,リボン,リボン
@@ -1544,10 +1541,10 @@ fast talking,早口,<ruby>早口<rt>はやくち</rt></ruby>
 fork,フォーク,フォーク
 "to turn over, to turn inside out",裏返す,<ruby>裏返<rt>うらがえ</rt></ruby>す
 aunt,おば,おば
-"corner, edge, angle",角,<ruby>角<rt>かど</rt></ruby>,Vocab 104
+"corner, edge, angle",角,<ruby>角<rt>かど</rt></ruby>
 "shining, sparkling",きらきら,きらきら
 triangle,"三角, 三角形","<ruby>三角<rt>さんかく</rt></ruby>, <ruby>三角形<rt>さんかくけい</rt></ruby>"
-please,どうぞ,どうぞ
+please,どうぞ,どうぞ,Vocab 104
 entrance ticket,入場券,<ruby>入場券<rt>にゅうじょうけん</rt></ruby>
 necklace,ネックレス,ネックレス
 pajamas,パジャマ,パジャマ
@@ -1559,10 +1556,10 @@ watermelon,すいか,すいか
 "there, that way",そちら,そちら
 "generally, mostly",大抵,<ruby>大抵<rt>たいてい</rt></ruby>
 super-express,特急,<ruby>特急<rt>とっきゅう</rt></ruby>
-"glue, starch",糊,<ruby>糊<rt>のり</rt></ruby>,Vocab 105
+"glue, starch",糊,<ruby>糊<rt>のり</rt></ruby>
 basketball,バスケットボール,バスケットボール
 "fine weather, clear sky",晴れ,<ruby>晴<rt>は</rt></ruby>れ
-"to desire, to wish for, to covet",欲しがる,<ruby>欲<rt>ほ</rt></ruby>しがる
+"to desire, to wish for, to covet",欲しがる,<ruby>欲<rt>ほ</rt></ruby>しがる,Vocab 105
 miso soup,味噌汁,<ruby>味噌汁<rt>みそしる</rt></ruby>
 "way of reading, reading",読み方,<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>
 "dislike, have a dislike for",嫌,<ruby>嫌<rt>いや</rt></ruby>
@@ -1574,10 +1571,10 @@ sandwich,サンドイッチ,サンドイッチ
 "square, quadrilateral",四角,<ruby>四角<rt>しかく</rt></ruby>
 "square, four-sided",四角い,<ruby>四角<rt>しかく</rt></ruby>い
 "to hit against, to come to the end of",突き当たる,<ruby>突<rt>つ</rt></ruby>き<ruby>当<rt>あ</rt></ruby>たる
-commuter's pass,定期券,<ruby>定期券<rt>ていきけん</rt></ruby>,Vocab 106
+commuter's pass,定期券,<ruby>定期券<rt>ていきけん</rt></ruby>
 smile,にこにこ,にこにこ
 "fool, nonsense",馬鹿,<ruby>馬鹿<rt>ばか</rt></ruby>
-"surname, family name","名字, 姓","<ruby>名字<rt>みょうじ</rt></ruby>, <ruby>姓<rt>せい</rt></ruby>"
+"surname, family name","名字, 姓","<ruby>名字<rt>みょうじ</rt></ruby>, <ruby>姓<rt>せい</rt></ruby>",Vocab 106
 "to go down, to go down or away from a central place",下る,<ruby>下<rt>くだ</rt></ruby>る
 wool,ウール,ウール
 "cola, coke",コーラ,コーラ
@@ -1589,10 +1586,10 @@ ashtray,灰皿,<ruby>灰皿<rt>はいざら</rt></ruby>
 bus stop,バス停,バス<ruby>停<rt>てい</rt></ruby>
 ham,ハム,ハム
 boyfriend,ボーイフレンド,ボーイフレンド
-floor,床,<ruby>床<rt>ゆか</rt></ruby>,Vocab 107
+floor,床,<ruby>床<rt>ゆか</rt></ruby>
 "illustrative sentence, example",例文,<ruby>例文<rt>れいぶん</rt></ruby>
 Roman alphabet,ローマ字,ローマ<ruby>字<rt>じ</rt></ruby>
-iron,アイロン,アイロン
+iron,アイロン,アイロン,Vocab 107
 strawberry,苺,<ruby>苺<rt>いちご</rt></ruby>
 curried rice,カレーライス,カレーライス
 cash card,キャッシュカード,キャッシュカード
@@ -1604,10 +1601,10 @@ salt,塩,<ruby>塩<rt>しお</rt></ruby>
 dentist,歯医者,<ruby>歯医者<rt>はいしゃ</rt></ruby>
 "toothpaste, brushing one's teeth",歯磨き,<ruby>歯磨<rt>はみが</rt></ruby>き
 early rising,早起き,<ruby>早起<rt>はやお</rt></ruby>き
-winter vacation,冬休み,<ruby>冬休<rt>ふゆやす</rt></ruby>み,Vocab 108
+winter vacation,冬休み,<ruby>冬休<rt>ふゆやす</rt></ruby>み
 to take,持って行く,<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く
 "evening meal, supper",夕飯,<ruby>夕飯<rt>ゆうはん</rt></ruby>
-"drunkard, boozer",酔っ払い,<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ぱら</rt></ruby>い
+"drunkard, boozer",酔っ払い,<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ぱら</rt></ruby>い,Vocab 108
 "example, precedent",例,<ruby>例<rt>れい</rt></ruby>
 earrings,イヤリング,イヤリング
 "pedestrian crossing, crosswalk",横断歩道,<ruby>横断歩道<rt>おうだんほどう</rt></ruby>
@@ -1619,10 +1616,10 @@ itchy,かゆい,かゆい
 to dry,乾かす,<ruby>乾<rt>かわ</rt></ruby>かす
 temporary closure of school,休校,<ruby>休校<rt>きゅうこう</rt></ruby>
 wobble,ぐらぐら,ぐらぐら
-airmail,"航空便, エアメール","<ruby>航空便<rt>こうくうびん</rt></ruby>, エアメール",Vocab 109
+airmail,"航空便, エアメール","<ruby>航空便<rt>こうくうびん</rt></ruby>, エアメール"
 jam,ジャム,ジャム
 slippers,スリッパ,スリッパ
-hate,大嫌い,<ruby>大嫌<rt>だいきら</rt></ruby>い
+hate,大嫌い,<ruby>大嫌<rt>だいきら</rt></ruby>い,Vocab 109
 "to fold, to shut",畳む,<ruby>畳<rt>たた</rt></ruby>む
 "(a pack of) cards, (playing) cards",トランプ,トランプ
 Banzai! Hurrah! Long live...!,万歳,<ruby>万歳<rt>ばんざい</rt></ruby>
@@ -1634,10 +1631,10 @@ license,免許証,<ruby>免許証<rt>めんきょしょう</rt></ruby>
 to translate,訳す,<ruby>訳<rt>やく</rt></ruby>す
 all right,よろしい,よろしい
 rush hour,ラッシュアワー,ラッシュアワー
-"money changing, exchange of money",両替,<ruby>両替<rt>りょうがえ</rt></ruby>,Vocab 110
+"money changing, exchange of money",両替,<ruby>両替<rt>りょうがえ</rt></ruby>
 tomorrow,明日,<ruby>明日<rt>あした／あす</rt></ruby>
 kana suffix,送り仮名,<ruby>送<rt>おく</rt></ruby>り<ruby>仮名<rt>がな</rt></ruby>
-"to be put in order, to be settled",片付く,<ruby>片付<rt>かたづ</rt></ruby>く
+"to be put in order, to be settled",片付く,<ruby>片付<rt>かたづ</rt></ruby>く,Vocab 110
 cup,カップ,カップ
 eraser,消しゴム,<ruby>消<rt>け</rt></ruby>しゴム
 "master, husband",主人,<ruby>主人<rt>しゅじん</rt></ruby>
@@ -1649,10 +1646,10 @@ eraser,消しゴム,<ruby>消<rt>け</rt></ruby>しゴム
 "second floor, upstairs",二階,<ruby>二階<rt>にかい</rt></ruby>
 "late riser, oversleeping",寝坊,<ruby>寝坊<rt>ねぼう</rt></ruby>
 "scissors, pincers, tongs",鋏,<ruby>鋏<rt>はさみ</rt></ruby>
-"field, vegetable garden",畑,<ruby>畑<rt>はたけ</rt></ruby>,Vocab 111
+"field, vegetable garden",畑,<ruby>畑<rt>はたけ</rt></ruby>
 picnic,ピクニック,ピクニック
 "deep-blue, pale (skin)",真っ青,<ruby>真<rt>ま</rt></ruby>っ<ruby>青<rt>さお</rt></ruby>
-"to make dirty, to soil",汚す,<ruby>汚<rt>よご</rt></ruby>す
+"to make dirty, to soil",汚す,<ruby>汚<rt>よご</rt></ruby>す,Vocab 111
 to get drunk,酔っ払う,<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ぱら</rt></ruby>う
 "something left behind, lost item",忘れ物,<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>
 way over there,あちら,あちら
@@ -1664,10 +1661,10 @@ end of a street,突き当たり,<ruby>突<rt>つ</rt></ruby>き<ruby>当<rt>あ<
 "to lose, to get rid of",無くす,<ruby>無<rt>な</rt></ruby>くす
 natto (fermented soybeans),納豆,<ruby>納豆<rt>なっとう</rt></ruby>
 20 years old,二十歳,<ruby>二十歳<rt>はたち</rt></ruby>
-"east, eastern",東,<ruby>東<rt>ひがし</rt></ruby>,Vocab 112
+"east, eastern",東,<ruby>東<rt>ひがし</rt></ruby>
 "OK, not bad, average",まあまあ,まあまあ
 "scarf, muffler",マフラー,マフラー
-"peach, peach tree",桃,<ruby>桃<rt>もも</rt></ruby>
+"peach, peach tree",桃,<ruby>桃<rt>もも</rt></ruby>,Vocab 112
 "accessories, jewelry",アクセサリー,アクセサリー
 yawn,あくび,あくび
 "candy, sweets",飴,<ruby>飴<rt>あめ</rt></ruby>
@@ -1679,9 +1676,10 @@ policeman,お巡りさん,お<ruby>巡<rt>まわ</rt></ruby>りさん
 "tooth, cog",歯,<ruby>歯<rt>は</rt></ruby>
 subtraction,引き算,<ruby>引<rt>ひ</rt></ruby>き<ruby>算<rt>ざん</rt></ruby>
 "in the morning, before noon",昼前,<ruby>昼前<rt>ひるまえ</rt></ruby>
-alarm clock,目覚まし時計,<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>どけい</rt></ruby>,Vocab 113
+"dizzy, unsteady, for no particular reason",ふらふら,ふらふら
+alarm clock,目覚まし時計,<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>どけい</rt></ruby>
 "preparation, previewing (a lesson)",予習,<ruby>予習<rt>よしゅう</rt></ruby>
-to spill,こぼす,こぼす
+to spill,こぼす,こぼす,Vocab 113
 lunch,"ランチ, 昼食","ランチ, <ruby>昼食<rt>ちゅうしょく</rt></ruby>"
 receipt,"レシート, 受け取り","レシート, <ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り"
 to bring,持って来る,<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>く</rt></ruby>る
@@ -1694,9 +1692,9 @@ chalk,チョーク,チョーク
 "to wrap, to pack",包む,<ruby>包<rt>つつ</rt></ruby>む
 tissue,ティッシュ,ティッシュ
 "to come to a stop, to cease",止まる,<ruby>止<rt>と</rt></ruby>まる
-"to disappear, to run short, to get lost",無くなる,<ruby>無<rt>な</rt></ruby>くなる,Vocab 114
+"to disappear, to run short, to get lost",無くなる,<ruby>無<rt>な</rt></ruby>くなる
 "west, western",西,<ruby>西<rt>にし</rt></ruby>
-toothbrush,歯ブラシ,<ruby>歯<rt>は</rt></ruby>ブラシ
+toothbrush,歯ブラシ,<ruby>歯<rt>は</rt></ruby>ブラシ,Vocab 114
 "free time, spare time",暇,<ruby>暇<rt>ひま</rt></ruby>
 "pig, pork",豚,<ruby>豚<rt>ぶた</rt></ruby>
 two persons,二人,<ruby>二人<rt>ふたり</rt></ruby>
@@ -1709,9 +1707,9 @@ day after tomorrow,明後日,<ruby>明後日<rt>あさって</rt></ruby>
 "how much, no matter how much",幾ら,<ruby>幾<rt>いく</rt></ruby>ら
 picture postcard,絵葉書,<ruby>絵葉書<rt>えはがき</rt></ruby>
 "to warm, to warm up, to heat up",暖める,<ruby>暖<rt>あたた</rt></ruby>める
-day before yesterday,一昨日,<ruby>一昨日<rt>おととい</rt></ruby>,Vocab 115
+day before yesterday,一昨日,<ruby>一昨日<rt>おととい</rt></ruby>
 "to exchange, to convert",換える,<ruby>換<rt>か</rt></ruby>える
-registered mail,書留,<ruby>書留<rt>かきとめ</rt></ruby>
+registered mail,書留,<ruby>書留<rt>かきとめ</rt></ruby>,Vocab 115
 "empty, gargle",がらがら,がらがら
 "canned goods, cooping-up",缶詰,<ruby>缶詰<rt>かんづめ</rt></ruby>
 "dazzling, glaring, blinding",ぎらぎら,ぎらぎら
@@ -1724,9 +1722,9 @@ postcard,葉書,<ruby>葉書<rt>はがき</rt></ruby>
 "to sweep, to brush",掃く,<ruby>掃<rt>は</rt></ruby>く
 "daytime, day",昼間,<ruby>昼間<rt>ひるま</rt></ruby>
 "table tennis, ping pong",ピンポン,ピンポン
-"depth, profundity",深さ,<ruby>深<rt>ふか</rt></ruby>さ,Vocab 116
+"depth, profundity",深さ,<ruby>深<rt>ふか</rt></ruby>さ
 "unkind, inattentive",不親切,<ruby>不親切<rt>ふしんせつ</rt></ruby>
-"hungry, starving",ぺこぺこ,ぺこぺこ
+"hungry, starving",ぺこぺこ,ぺこぺこ,Vocab 116
 fluently,ぺらぺら,ぺらぺら
 horizontal writing,横書き,<ruby>横書<rt>よこが</rt></ruby>き
 raincoat,レインコート,レインコート
@@ -1739,9 +1737,9 @@ mechanical pencil,シャープペンシル,シャープペンシル
 "exterior, outside",外側,<ruby>外側<rt>そとがわ</rt></ruby>
 soba restaurant,そば屋,そば<ruby>屋<rt>や</rt></ruby>
 "cigarette shop, tobacco store",たばこ屋,たばこ<ruby>屋<rt>や</rt></ruby>
-"garden, court",庭,<ruby>庭<rt>にわ</rt></ruby>,Vocab 117
+"garden, court",庭,<ruby>庭<rt>にわ</rt></ruby>
 "to be in fashion, to be popular",流行る,<ruby>流行<rt>はや</rt></ruby>る
-left side,左側,<ruby>左側<rt>ひだりがわ</rt></ruby>
+left side,左側,<ruby>左側<rt>ひだりがわ</rt></ruby>,Vocab 117
 "bag, sack",袋,<ruby>袋<rt>ふくろ</rt></ruby>
 "bathhouse, public bath",風呂屋,<ruby>風呂屋<rt>ふろや</rt></ruby>
 "bone, frame, spirit",骨,<ruby>骨<rt>ほね</rt></ruby>
@@ -1754,9 +1752,9 @@ iced coffee,アイスコーヒー,アイスコーヒー
 interval,間,<ruby>間<rt>あいだ</rt></ruby>
 "jaw, chin",顎,<ruby>顎<rt>あご</rt></ruby>
 breakfast,"朝御飯, 朝食","<ruby>朝御飯<rt>あさごはん</rt></ruby>, <ruby>朝食<rt>ちょうしょく</rt></ruby>"
-to get warm,暖まる,<ruby>暖<rt>あたた</rt></ruby>まる,Vocab 118
+to get warm,暖まる,<ruby>暖<rt>あたた</rt></ruby>まる
 "other side, there",あっち,あっち
-"that, so","あんなに, そんなに","あんなに, そんなに"
+"that, so","あんなに, そんなに","あんなに, そんなに",Vocab 118
 going,行き,<ruby>行<rt>い／ゆ</rt></ruby>き
 "mischief, prank",いたずら,いたずら
 waitress,ウェートレス,ウェートレス
@@ -1769,9 +1767,9 @@ souvenir,お土産,お<ruby>土産<rt>みやげ</rt></ruby>
 "front side, face, outside",表,<ruby>表<rt>おもて</rt></ruby>
 "to write down, to note down",書き取る,<ruby>書<rt>か</rt></ruby>き<ruby>取<rt>と</rt></ruby>る
 "to lodge, to give shelter",泊める,<ruby>泊<rt>と</rt></ruby>める
-singer,歌手,<ruby>歌手<rt>かしゅ</rt></ruby>,Vocab 119
+singer,歌手,<ruby>歌手<rt>かしゅ</rt></ruby>
 remedy for a cold,風邪薬,<ruby>風邪薬<rt>かぜぐすり</rt></ruby>
-person　（polite form),方,<ruby>方<rt>かた</rt></ruby>
+person　（polite form),方,<ruby>方<rt>かた</rt></ruby>,Vocab 119
 "shape, form",形,<ruby>形<rt>かたち</rt></ruby>
 "bag, handbag, briefcase",鞄,<ruby>鞄<rt>かばん</rt></ruby>
 "thunder, lightning",雷,<ruby>雷<rt>かみなり</rt></ruby>
@@ -1784,9 +1782,9 @@ to change clothes,着替える,<ruby>着替<rt>きが</rt></ruby>える
 "gold, sum of money, Friday",金,<ruby>金<rt>きん</rt></ruby>
 comb,くし,くし
 cloud,雲,<ruby>雲<rt>くも</rt></ruby>
-"cleaning, laundry",クリーニング,クリーニング,Vocab 120
+"cleaning, laundry",クリーニング,クリーニング
 "scenery, landscape",景色,<ruby>景色<rt>けしき</rt></ruby>
-"fight, quarrel, argument",喧嘩,<ruby>喧嘩<rt>けんか</rt></ruby>
+"fight, quarrel, argument",喧嘩,<ruby>喧嘩<rt>けんか</rt></ruby>,Vocab 120
 "answer, solution",答え,<ruby>答<rt>こた</rt></ruby>え
 "feast, treat",ごちそう,ごちそう
 to treat,"ごちそうする, おごる","ごちそうする, おごる"
@@ -1799,9 +1797,9 @@ the month after next,再来月,<ruby>再来月<rt>さらいげつ</rt></ruby>
 the week after next,再来週,<ruby>再来週<rt>さらいしゅう</rt></ruby>
 "to make a racket, to mess around, to make a fuss",騒ぐ,<ruby>騒<rt>さわ</rt></ruby>ぐ
 "regretful, disappointing",残念,<ruby>残念<rt>ざんねん</rt></ruby>
-"to scold, to tell off, to reprimand",叱る,<ruby>叱<rt>しか</rt></ruby>る,Vocab 121
+"to scold, to tell off, to reprimand",叱る,<ruby>叱<rt>しか</rt></ruby>る
 to put away,仕舞う,<ruby>仕舞<rt>しま</rt></ruby>う
-potato,ジャガイモ,ジャガイモ
+potato,ジャガイモ,ジャガイモ,Vocab 121
 "road, roadway",車道,<ruby>車道<rt>しゃどう</rt></ruby>
 "healthy, stout",丈夫,<ruby>丈夫<rt>じょうぶ</rt></ruby>
 soy sauce,醤油,<ruby>醤油<rt>しょうゆ</rt></ruby>
@@ -1814,9 +1812,9 @@ sleeve,袖,<ruby>袖<rt>そで</rt></ruby>
 "outside, open air",外,<ruby>外<rt>そと</rt></ruby>
 "sofa, sofa bed",ソファー,ソファー
 "sky, weather",空,<ruby>空<rt>そら</rt></ruby>
-to shave,剃る,<ruby>剃<rt>そ</rt></ruby>る,Vocab 122
+to shave,剃る,<ruby>剃<rt>そ</rt></ruby>る
 "stand, platform",台,<ruby>台<rt>だい</rt></ruby>
-importance,大事,<ruby>大事<rt>だいじ</rt></ruby>
+importance,大事,<ruby>大事<rt>だいじ</rt></ruby>,Vocab 122
 "important, valuable",大切,<ruby>大切<rt>たいせつ</rt></ruby>
 "to bring down, to overthrow, to defeat",倒す,<ruby>倒<rt>たお</rt></ruby>す
 "to help, to save",助ける,<ruby>助<rt>たす</rt></ruby>ける
@@ -1829,9 +1827,9 @@ eldest daughter,長女,<ruby>長女<rt>ちょうじょ</rt></ruby>
 "just a moment, just a little, easily",ちょっと,ちょっと
 "to be on, to switched on",つく,つく
 "desk, table",机,<ruby>机<rt>つくえ</rt></ruby>
-"to serve, to hold a job",勤める,<ruby>勤<rt>つと</rt></ruby>める,Vocab 123
+"to serve, to hold a job",勤める,<ruby>勤<rt>つと</rt></ruby>める
 "nail, claw",爪,<ruby>爪<rt>つめ</rt></ruby>
-buddhist temple,寺,<ruby>寺<rt>てら</rt></ruby>
+buddhist temple,寺,<ruby>寺<rt>てら</rt></ruby>,Vocab 123
 "tempura, Japanese deep-fried breaded food",てんぷら,てんぷら
 "older, senior",年上,<ruby>年上<rt>としうえ</rt></ruby>
 "bird, poultry",鳥,<ruby>鳥<rt>とり</rt></ruby>
@@ -1844,9 +1842,9 @@ eggplant,茄子,<ruby>茄子<rt>なす</rt></ruby>
 "popularity, temperament of the people, business conditions",人気,<ruby>人気<rt>にんき</rt></ruby>
 "human being, people",人間,<ruby>人間<rt>にんげん</rt></ruby>
 carrot,にんじん,にんじん
-"tepid, lukewarm",ぬるい,ぬるい,Vocab 124
+"tepid, lukewarm",ぬるい,ぬるい
 to get wet,濡れる,<ruby>濡<rt>ぬ</rt></ruby>れる
-"older sister, girl, miss",姉さん,<ruby>姉<rt>ねえ</rt></ruby>さん
+"older sister, girl, miss",姉さん,<ruby>姉<rt>ねえ</rt></ruby>さん,Vocab 124
 sleepy,眠い,<ruby>眠<rt>ねむ</rt></ruby>い
 to sleep,眠る,<ruby>眠<rt>ねむ</rt></ruby>る
 "going up, ascent",上り,<ruby>上<rt>のぼ</rt></ruby>り
@@ -1859,9 +1857,9 @@ bridge,橋,<ruby>橋<rt>はし</rt></ruby>
 "flag, banner",旗,<ruby>旗<rt>はた</rt></ruby>
 "to stick, to paste",貼る,<ruby>貼<rt>は</rt></ruby>る
 short-sleeved shirt,半袖,<ruby>半袖<rt>はんそで</rt></ruby>
-half a month,半月,<ruby>半月<rt>はんつき</rt></ruby>,Vocab 125
+half a month,半月,<ruby>半月<rt>はんつき</rt></ruby>
 half a day,半日,<ruby>半日<rt>はんにち</rt></ruby>
-to play on,弾く,<ruby>弾<rt>ひ</rt></ruby>く
+to play on,弾く,<ruby>弾<rt>ひ</rt></ruby>く,Vocab 125
 knee,ひざ,ひざ
 elbow,ひじ,ひじ
 people,"人々, 方々","<ruby>人々<rt>ひとびと</rt></ruby>, <ruby>方々<rt>かたがた</rt></ruby>"
@@ -1874,9 +1872,9 @@ review,復習,<ruby>復習<rt>ふくしゅう</rt></ruby>
 "pork, hog meat",豚肉,<ruby>豚肉<rt>ぶたにく</rt></ruby>
 "surface mail, shipping service",船便,<ruby>船便<rt>ふなびん</rt></ruby>
 "ship, boat, vessel",船,<ruby>船<rt>ふね</rt></ruby>
-"to fall, to come down",降る,<ruby>降<rt>ふ</rt></ruby>る,Vocab 126
+"to fall, to come down",降る,<ruby>降<rt>ふ</rt></ruby>る
 bath,風呂,<ruby>風呂<rt>ふろ</rt></ruby>
-Heisei era,平成,<ruby>平成<rt>へいせい</rt></ruby>
+Heisei era,平成,<ruby>平成<rt>へいせい</rt></ruby>,Vocab 126
 not good at,下手,<ruby>下手<rt>へた</rt></ruby>
 "answer, reply",返事,<ruby>返事<rt>へんじ</rt></ruby>
 "lavatory, bathroom",便所,<ruby>便所<rt>べんじょ</rt></ruby>
@@ -1889,9 +1887,9 @@ grandchild,孫,<ruby>孫<rt>まご</rt></ruby>
 "again, also, or",又,<ruby>又<rt>また</rt></ruby>
 "town, machi, city quarter",町,<ruby>町<rt>まち</rt></ruby>
 "circle or sphere, wholeness",丸,<ruby>丸<rt>まる</rt></ruby>
-"port, harbor",港,<ruby>港<rt>みなと</rt></ruby>,Vocab 127
+"port, harbor",港,<ruby>港<rt>みなと</rt></ruby>
 south,南,<ruby>南<rt>みなみ</rt></ruby>
-purple,紫,<ruby>紫<rt>むらさき</rt></ruby>
+purple,紫,<ruby>紫<rt>むらさき</rt></ruby>,Vocab 127
 niece,姪,<ruby>姪<rt>めい</rt></ruby>
 cotton,木綿,<ruby>木綿<rt>もめん</rt></ruby>
 kettle,やかん,やかん
@@ -1904,9 +1902,9 @@ supper,夕食,<ruby>夕食<rt>ゆうしょく</rt></ruby>
 "finger, toe",指,<ruby>指<rt>ゆび</rt></ruby>
 "slack, loose",緩い,<ruby>緩<rt>ゆる</rt></ruby>い
 "good, suitable, preferable",良い,<ruby>良<rt>よ</rt></ruby>い
-welcome,"ようこそ, 歓迎","ようこそ, <ruby>歓迎<rt>かんげい</rt></ruby>",Vocab 128
+welcome,"ようこそ, 歓迎","ようこそ, <ruby>歓迎<rt>かんげい</rt></ruby>"
 "to become dirty, to become defiled",汚れる,<ruby>汚<rt>よご</rt></ruby>れる
-"street corner, intersection",四つ角,<ruby>四<rt>よ</rt></ruby>つ<ruby>角<rt>かど</rt></ruby>
+"street corner, intersection",四つ角,<ruby>四<rt>よ</rt></ruby>つ<ruby>角<rt>かど</rt></ruby>,Vocab 128
 "midnight, dead of night",夜中,<ruby>夜中<rt>よなか</rt></ruby>
 parents,両親,<ruby>両親<rt>りょうしん</rt></ruby>
 "zero, naught",零,<ruby>零<rt>れい</rt></ruby>
@@ -1919,9 +1917,9 @@ to bring (a person),連れて来る,<ruby>連<rt>つ</rt></ruby>れて<ruby>来<
 "in the beginning, early in",始めに,<ruby>始<rt>はじ</rt></ruby>めに
 by oneself,一人で,<ruby>一人<rt>ひとり</rt></ruby>で
 "real estate agent, realtor",不動産屋,<ruby>不動産屋<rt>ふどうさんや</rt></ruby>
-mailman,郵便屋さん,<ruby>郵便屋<rt>ゆうびんや</rt></ruby>さん,Vocab 129
+mailman,郵便屋さん,<ruby>郵便屋<rt>ゆうびんや</rt></ruby>さん
 "permitted, OK",可,<ruby>可<rt>か</rt></ruby>
-"industry, business world",業界,<ruby>業界<rt>ぎょうかい</rt></ruby>
+"industry, business world",業界,<ruby>業界<rt>ぎょうかい</rt></ruby>,Vocab 129
 "maintenance, servicing",整備,<ruby>整備<rt>せいび</rt></ruby>
 appreciation of the yen,円高,<ruby>円高<rt>えんだか</rt></ruby>
 "collection of data, gathering of news",取材,<ruby>取材<rt>しゅざい</rt></ruby>
@@ -1934,9 +1932,9 @@ executive,"幹部, 重役","<ruby>幹部<rt>かんぶ</rt></ruby>, <ruby>重役<
 "inauguration, appointment",就任,<ruby>就任<rt>しゅうにん</rt></ruby>
 establishment,"設置, 確立","<ruby>設置<rt>せっち</rt></ruby>, <ruby>確立<rt>かくりつ</rt></ruby>"
 "assembly, council",議会,<ruby>議会<rt>ぎかい</rt></ruby>
-growth,成長,<ruby>成長<rt>せいちょう</rt></ruby>,Vocab 130
+growth,成長,<ruby>成長<rt>せいちょう</rt></ruby>
 "consciousness, awareness",意識,<ruby>意識<rt>いしき</rt></ruby>
-"new, fresh",新た,<ruby>新<rt>あら</rt></ruby>た
+"newly, freshly",新たに,<ruby>新<rt>あら</rt></ruby>たに,Vocab 130
 advancement,"進出, 進行, 前進","<ruby>進出<rt>しんしゅつ</rt></ruby>, <ruby>進行<rt>しんこう</rt></ruby>, <ruby>前進<rt>ぜんしん</rt></ruby>"
 "perfect, complete",完全,<ruby>完全<rt>かんぜん</rt></ruby>
 "conference, deliberation",協議,<ruby>協議<rt>きょうぎ</rt></ruby>
@@ -1949,9 +1947,9 @@ Minister of Foreign Affairs,外相,<ruby>外相<rt>がいしょう</rt></ruby>
 "movement, shift",移動,<ruby>移動<rt>いどう</rt></ruby>
 "connection, joining",接続,<ruby>接続<rt>せつぞく</rt></ruby>
 manufactured goods,製品,<ruby>製品<rt>せいひん</rt></ruby>
-"petroleum, oil",石油,<ruby>石油<rt>せきゆ</rt></ruby>,Vocab 131
+"petroleum, oil",石油,<ruby>石油<rt>せきゆ</rt></ruby>
 finance,金融,<ruby>金融<rt>きんゆう</rt></ruby>
-"to avoid, to evade",避ける,<ruby>避<rt>さ</rt></ruby>ける
+"to avoid, to evade",避ける,<ruby>避<rt>さ</rt></ruby>ける,Vocab 131
 self,自身,<ruby>自身<rt>じしん</rt></ruby>
 "staff, employee",職員,<ruby>職員<rt>しょくいん</rt></ruby>
 "support, backing",支援,<ruby>支援<rt>しえん</rt></ruby>
@@ -1964,9 +1962,9 @@ output,出力,<ruby>出力<rt>しゅつりょく</rt></ruby>
 in the city,市内,<ruby>市内<rt>しない</rt></ruby>
 picture frame,額,<ruby>額<rt>がく</rt></ruby>
 improvement,向上,<ruby>向上<rt>こうじょう</rt></ruby>
-"to answer, to comply with",応じる,<ruby>応<rt>おう</rt></ruby>じる,Vocab 132
+"to answer, to comply with",応じる,<ruby>応<rt>おう</rt></ruby>じる
 "interest, interest rate",金利,<ruby>金利<rt>きんり</rt></ruby>
-present condition,現状,<ruby>現状<rt>げんじょう</rt></ruby>
+present condition,現状,<ruby>現状<rt>げんじょう</rt></ruby>,Vocab 132
 "deliberation, consideration",審議,<ruby>審議<rt>しんぎ</rt></ruby>
 "actuality, reality",現実,<ruby>現実<rt>げんじつ</rt></ruby>
 "action, conduct",行動,<ruby>行動<rt>こうどう</rt></ruby>
@@ -1979,9 +1977,9 @@ Europe and America,欧米,<ruby>欧米<rt>おうべい</rt></ruby>
 "business, sales",営業,<ruby>営業<rt>えいぎょう</rt></ruby>
 economic climate,景気,<ruby>景気<rt>けいき</rt></ruby>
 resignation,辞任,<ruby>辞任<rt>じにん</rt></ruby>
-"level, standard",水準,<ruby>水準<rt>すいじゅん</rt></ruby>,Vocab 133
+"level, standard",水準,<ruby>水準<rt>すいじゅん</rt></ruby>
 "state, country",国家,<ruby>国家<rt>こっか</rt></ruby>
-"plan, proposal",案,<ruby>案<rt>あん</rt></ruby>
+"plan, proposal",案,<ruby>案<rt>あん</rt></ruby>,Vocab 133
 "doctor, physician",医師,<ruby>医師<rt>いし</rt></ruby>
 "opportunity, occasion",機会,<ruby>機会<rt>きかい</rt></ruby>
 Ministry of Finance,大蔵省,<ruby>大蔵省<rt>おおくらしょう</rt></ruby>
@@ -1994,9 +1992,9 @@ Ministry of Finance,大蔵省,<ruby>大蔵省<rt>おおくらしょう</rt></rub
 "joint, commonality",共同,<ruby>共同<rt>きょうどう</rt></ruby>
 death,"死亡, 死","<ruby>死亡<rt>しぼう</rt></ruby>, <ruby>死<rt>し</rt></ruby>"
 "to accept, to accommodate",受け入れる,<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れる
-"to happen, to cause",生じる,<ruby>生<rt>しょう</rt></ruby>じる,Vocab 134
+"to happen, to cause",生じる,<ruby>生<rt>しょう</rt></ruby>じる
 "performance, capacity",性能,<ruby>性能<rt>せいのう</rt></ruby>
-to join in,加わる,<ruby>加<rt>くわ</rt></ruby>わる
+to join in,加わる,<ruby>加<rt>くわ</rt></ruby>わる,Vocab 134
 "to reach to, to come up to",及ぶ,<ruby>及<rt>およ</rt></ruby>ぶ
 stock,株式,<ruby>株式<rt>かぶしき</rt></ruby>
 "venue, meeting place",会場,<ruby>会場<rt>かいじょう</rt></ruby>
@@ -2009,9 +2007,9 @@ stock,株式,<ruby>株式<rt>かぶしき</rt></ruby>
 "materials, data",資料,<ruby>資料<rt>しりょう</rt></ruby>
 "base, military base",基地,<ruby>基地<rt>きち</rt></ruby>
 "before, ago",以前,<ruby>以前<rt>いぜん</rt></ruby>
-small-sized,小型,<ruby>小型<rt>こがた</rt></ruby>,Vocab 135
+small-sized,小型,<ruby>小型<rt>こがた</rt></ruby>
 "consumption, spending",消費,<ruby>消費<rt>しょうひ</rt></ruby>
-"to hide, to conceal",隠す,<ruby>隠<rt>かく</rt></ruby>す
+"to hide, to conceal",隠す,<ruby>隠<rt>かく</rt></ruby>す,Vocab 135
 "importance, value",重視,<ruby>重視<rt>じゅうし</rt></ruby>
 "failure, mistake",失敗,<ruby>失敗<rt>しっぱい</rt></ruby>
 "state of things, situation",情勢,<ruby>情勢<rt>じょうせい</rt></ruby>
@@ -2024,9 +2022,9 @@ commonality,共通,<ruby>共通<rt>きょうつう</rt></ruby>
 "before and after, order",前後,<ruby>前後<rt>ぜんご</rt></ruby>
 "organization, formation",結成,<ruby>結成<rt>けっせい</rt></ruby>
 total,計,<ruby>計<rt>けい</rt></ruby>
-to hold in one's arms,抱える,<ruby>抱<rt>かか</rt></ruby>える,Vocab 136
+to hold in one's arms,抱える,<ruby>抱<rt>かか</rt></ruby>える
 "to follow, to obey",従う,<ruby>従<rt>したが</rt></ruby>う
-postwar period,戦後,<ruby>戦後<rt>せんご</rt></ruby>
+postwar period,戦後,<ruby>戦後<rt>せんご</rt></ruby>,Vocab 136
 "means, way",手段,<ruby>手段<rt>しゅだん</rt></ruby>
 "regulation, provision",規定,<ruby>規定<rt>きてい</rt></ruby>
 pressure,圧力,<ruby>圧力<rt>あつりょく</rt></ruby>
@@ -2039,9 +2037,9 @@ description,記述,<ruby>記述<rt>きじゅつ</rt></ruby>
 "extremely, very",極めて,<ruby>極<rt>きわ</rt></ruby>めて
 "achievement, performance","実績, 業績","<ruby>実績<rt>じっせき</rt></ruby>, <ruby>業績<rt>ぎょうせき</rt></ruby>"
 "nature, property",性質,<ruby>性質<rt>せいしつ</rt></ruby>
-Japan National Railways,国鉄,<ruby>国鉄<rt>こくてつ</rt></ruby>,Vocab 137
+Japan National Railways,国鉄,<ruby>国鉄<rt>こくてつ</rt></ruby>
 "future, in the future",将来,<ruby>将来<rt>しょうらい</rt></ruby>
-"article, story",記事,<ruby>記事<rt>きじ</rt></ruby>
+"article, story",記事,<ruby>記事<rt>きじ</rt></ruby>,Vocab 137
 "prohibition, forbiddance",禁止,<ruby>禁止<rt>きんし</rt></ruby>
 "control, command",制御,<ruby>制御<rt>せいぎょ</rt></ruby>
 "construction, architecture",建築,<ruby>建築<rt>けんちく</rt></ruby>
@@ -2054,9 +2052,9 @@ Japan National Railways,国鉄,<ruby>国鉄<rt>こくてつ</rt></ruby>,Vocab 13
 below,以下,<ruby>以下<rt>いか</rt></ruby>
 metal,金属,<ruby>金属<rt>きんぞく</rt></ruby>
 take an examination,受験,<ruby>受験<rt>じゅけん</rt></ruby>
-"process, course",過程,<ruby>過程<rt>かてい</rt></ruby>,Vocab 138
+"process, course",過程,<ruby>過程<rt>かてい</rt></ruby>
 actually,実は,<ruby>実<rt>じつ</rt></ruby>は
-"regulation, control",規制,<ruby>規制<rt>きせい</rt></ruby>
+"regulation, control",規制,<ruby>規制<rt>きせい</rt></ruby>,Vocab 138
 "shipping, dispatch",出荷,<ruby>出荷<rt>しゅっか</rt></ruby>
 "hope, wish",希望,<ruby>希望<rt>きぼう</rt></ruby>
 "formal, regular",正式,<ruby>正式<rt>せいしき</rt></ruby>
@@ -2069,9 +2067,9 @@ circuit,回路,<ruby>回路<rt>かいろ</rt></ruby>
 "human affairs, personnel affairs",人事,<ruby>人事<rt>じんじ</rt></ruby>
 "character, personality","性格, 人格","<ruby>性格<rt>せいかく</rt></ruby>, <ruby>人格<rt>じんかく</rt></ruby>"
 "present age, modern times",現代,<ruby>現代<rt>げんだい</rt></ruby>
-"principle, general rule",原則,<ruby>原則<rt>げんそく</rt></ruby>,Vocab 139
+"principle, general rule",原則,<ruby>原則<rt>げんそく</rt></ruby>
 "improvement, amelioration",改善,<ruby>改善<rt>かいぜん</rt></ruby>
-"accord, agreement",一致,<ruby>一致<rt>いっち</rt></ruby>
+"accord, agreement",一致,<ruby>一致<rt>いっち</rt></ruby>,Vocab 139
 "fixing, stability",固定,<ruby>固定<rt>こてい</rt></ruby>
 "the actual situation, the realities",実態,<ruby>実態<rt>じったい</rt></ruby>
 "to go away, to leave",去る,<ruby>去<rt>さ</rt></ruby>る
@@ -2084,9 +2082,9 @@ persuasion,説得,<ruby>説得<rt>せっとく</rt></ruby>
 "to end, to finish",終える,<ruby>終<rt>お</rt></ruby>える
 "core, atomic nucleus",核,<ruby>核<rt>かく</rt></ruby>
 "never, by no means",決して,<ruby>決<rt>けっ</rt></ruby>して
-"result, fruit",成果,<ruby>成果<rt>せいか</rt></ruby>,Vocab 140
+"result, fruit",成果,<ruby>成果<rt>せいか</rt></ruby>
 "training, drill",訓練,<ruby>訓練<rt>くんれん</rt></ruby>
-"income, earnings","収入, 所得","<ruby>収入<rt>しゅうにゅう</rt></ruby>, <ruby>所得<rt>しょとく</rt></ruby>"
+"income, earnings","収入, 所得","<ruby>収入<rt>しゅうにゅう</rt></ruby>, <ruby>所得<rt>しょとく</rt></ruby>",Vocab 140
 generation,世代,<ruby>世代<rt>せだい</rt></ruby>
 "to come to, to reach",至る,<ruby>至<rt>いた</rt></ruby>る
 "to chase, to pursue",追う,<ruby>追<rt>お</rt></ruby>う
@@ -2099,9 +2097,9 @@ securement,確保,<ruby>確保<rt>かくほ</rt></ruby>
 "contrivance, scheme",工夫,<ruby>工夫<rt>くふう</rt></ruby>
 "exchange, bartering",交換,<ruby>交換<rt>こうかん</rt></ruby>
 "medical service, healthcare",医療,<ruby>医療<rt>いりょう</rt></ruby>
-promotion,推進,<ruby>推進<rt>すいしん</rt></ruby>,Vocab 141
+promotion,推進,<ruby>推進<rt>すいしん</rt></ruby>
 "influence, power",勢力,<ruby>勢力<rt>せいりょく</rt></ruby>
-aviation,航空,<ruby>航空<rt>こうくう</rt></ruby>
+aviation,航空,<ruby>航空<rt>こうくう</rt></ruby>,Vocab 141
 treaty,条約,<ruby>条約<rt>じょうやく</rt></ruby>
 administration,行政,<ruby>行政<rt>ぎょうせい</rt></ruby>
 "limit, as far as possible",限り,<ruby>限<rt>かぎ</rt></ruby>り
@@ -2114,9 +2112,9 @@ to float,"浮かぶ, 浮く","<ruby>浮<rt>う</rt></ruby>かぶ, <ruby>浮<rt>�
 "crisis, emergency",危機,<ruby>危機<rt>きき</rt></ruby>
 "to be superior to, to be fine",優れる,<ruby>優<rt>すぐ</rt></ruby>れる
 "intention, inclination",意向,<ruby>意向<rt>いこう</rt></ruby>
-"more, even more",一層,<ruby>一層<rt>いっそう</rt></ruby>,Vocab 142
+"more, even more",一層,<ruby>一層<rt>いっそう</rt></ruby>
 "fear, risk",恐れ,<ruby>恐<rt>おそ</rt></ruby>れ
-"feeling, impression",感じ,<ruby>感<rt>かん</rt></ruby>じ
+"feeling, impression",感じ,<ruby>感<rt>かん</rt></ruby>じ,Vocab 142
 "speech, address",演説,<ruby>演説<rt>えんぜつ</rt></ruby>
 "all, entirely",全て,<ruby>全<rt>すべ</rt></ruby>て
 at least,"少なくとも, せめて","<ruby>少<rt>すく</rt></ruby>なくとも, せめて"
@@ -2129,9 +2127,9 @@ state,州,<ruby>州<rt>しゅう</rt></ruby>
 "early days, initial",初期,<ruby>初期<rt>しょき</rt></ruby>
 "denial, rejection",拒否,<ruby>拒否<rt>きょひ</rt></ruby>
 "obstacle, disorder",障害,<ruby>障害<rt>しょうがい</rt></ruby>
-"main, principal",主要,<ruby>主要<rt>しゅよう</rt></ruby>,Vocab 143
+"main, principal",主要,<ruby>主要<rt>しゅよう</rt></ruby>
 "serious, grave",深刻,<ruby>深刻<rt>しんこく</rt></ruby>
-efficiency,効率,<ruby>効率<rt>こうりつ</rt></ruby>
+efficiency,効率,<ruby>効率<rt>こうりつ</rt></ruby>,Vocab 143
 "activity, action",活躍,<ruby>活躍<rt>かつやく</rt></ruby>
 "oneself, self",自己,<ruby>自己<rt>じこ</rt></ruby>
 acquisition,獲得,<ruby>獲得<rt>かくとく</rt></ruby>
@@ -2144,9 +2142,9 @@ acquisition,獲得,<ruby>獲得<rt>かくとく</rt></ruby>
 hereafter,以降,<ruby>以降<rt>いこう</rt></ruby>
 "property, assets",資産,<ruby>資産<rt>しさん</rt></ruby>
 "tension, strain",緊張,<ruby>緊張<rt>きんちょう</rt></ruby>
-"public notice, advertisement",広告,<ruby>広告<rt>こうこく</rt></ruby>,Vocab 144
+"public notice, advertisement",広告,<ruby>広告<rt>こうこく</rt></ruby>
 "restriction, limit",制限,<ruby>制限<rt>せいげん</rt></ruby>
-"place of work, office",職場,<ruby>職場<rt>しょくば</rt></ruby>
+"place of work, office",職場,<ruby>職場<rt>しょくば</rt></ruby>,Vocab 144
 sudden increase,急増,<ruby>急増<rt>きゅうぞう</rt></ruby>
 case,ケース,ケース
 image,イメージ,イメージ
@@ -2159,9 +2157,9 @@ engine,エンジン,エンジン
 "prudence, discretion",慎重,<ruby>慎重<rt>しんちょう</rt></ruby>
 "to handle, to deal with",扱う,<ruby>扱<rt>あつか</rt></ruby>う
 "generally, in general",一般に,<ruby>一般<rt>いっぱん</rt></ruby>に
-"study, learning",学習,<ruby>学習<rt>がくしゅう</rt></ruby>,Vocab 145
+"study, learning",学習,<ruby>学習<rt>がくしゅう</rt></ruby>
 United Nations,国連,<ruby>国連<rt>こくれん</rt></ruby>
-"act, conduct",行為,<ruby>行為<rt>こうい</rt></ruby>
+"act, conduct",行為,<ruby>行為<rt>こうい</rt></ruby>,Vocab 145
 "proof, evidence","証明, 証拠","<ruby>証明<rt>しょうめい</rt></ruby>, <ruby>証拠<rt>しょうこ</rt></ruby>"
 "reliance, confidence",信頼,<ruby>信頼<rt>しんらい</rt></ruby>
 sightseeing,観光,<ruby>観光<rt>かんこう</rt></ruby>
@@ -2174,9 +2172,9 @@ automatic operation,自動,<ruby>自動<rt>じどう</rt></ruby>
 "photographing, shoot",撮影,<ruby>撮影<rt>さつえい</rt></ruby>
 branch,支店,<ruby>支店<rt>してん</rt></ruby>
 "committee member, delegate",委員,<ruby>委員<rt>いいん</rt></ruby>
-"today, these days",今日,<ruby>今日<rt>こんにち</rt></ruby>,Vocab 146
+"today, these days",今日,<ruby>今日<rt>こんにち</rt></ruby>
 "favorable condition, smooth progress",順調,<ruby>順調<rt>じゅんちょう</rt></ruby>
-"transfer, change of address",移転,<ruby>移転<rt>いてん</rt></ruby>
+"transfer, change of address",移転,<ruby>移転<rt>いてん</rt></ruby>,Vocab 146
 observation,観測,<ruby>観測<rt>かんそく</rt></ruby>
 interest,興味,<ruby>興味<rt>きょうみ</rt></ruby>
 "match, game",試合,<ruby>試合<rt>しあい</rt></ruby>
@@ -2189,9 +2187,9 @@ section chief,課長,<ruby>課長<rt>かちょう</rt></ruby>
 "disorder, confusion",混乱,<ruby>混乱<rt>こんらん</rt></ruby>
 "application, petition",申請,<ruby>申請<rt>しんせい</rt></ruby>
 "boundary, limit",限界,<ruby>限界<rt>げんかい</rt></ruby>
-"come from, origin",出身,<ruby>出身<rt>しゅっしん</rt></ruby>,Vocab 147
+"come from, origin",出身,<ruby>出身<rt>しゅっしん</rt></ruby>
 end of the month,"下旬, 月末","<ruby>下旬<rt>げじゅん</rt></ruby>, <ruby>月末<rt>げつまつ</rt></ruby>"
-mayor,市長,<ruby>市長<rt>しちょう</rt></ruby>
+mayor,市長,<ruby>市長<rt>しちょう</rt></ruby>,Vocab 147
 "huge, gigantic",巨大,<ruby>巨大<rt>きょだい</rt></ruby>
 high degree,高度,<ruby>高度<rt>こうど</rt></ruby>
 "positive, active",積極的,<ruby>積極的<rt>せっきょくてき</rt></ruby>
@@ -2204,9 +2202,9 @@ housewife,主婦,<ruby>主婦<rt>しゅふ</rt></ruby>
 "construction, arrangement",仕組み,<ruby>仕組<rt>しく</rt></ruby>み
 "symbol, symbolize",象徴,<ruby>象徴<rt>しょうちょう</rt></ruby>
 since,以来,<ruby>以来<rt>いらい</rt></ruby>
-"interaction, contact",交流,<ruby>交流<rt>こうりゅう</rt></ruby>,Vocab 148
+"interaction, contact",交流,<ruby>交流<rt>こうりゅう</rt></ruby>
 "consideration, deliberation",考慮,<ruby>考慮<rt>こうりょ</rt></ruby>
-"trial, judgment",裁判,<ruby>裁判<rt>さいばん</rt></ruby>
+"trial, judgment",裁判,<ruby>裁判<rt>さいばん</rt></ruby>,Vocab 148
 impression,印象,<ruby>印象<rt>いんしょう</rt></ruby>
 "to raid, to attack",襲う,<ruby>襲<rt>おそ</rt></ruby>う
 "feeling, emotion",感情,<ruby>感情<rt>かんじょう</rt></ruby>
@@ -2219,9 +2217,9 @@ expense,経費,<ruby>経費<rt>けいひ</rt></ruby>
 tax,税金,<ruby>税金<rt>ぜいきん</rt></ruby>
 "manufacture, production","製作, 作製","<ruby>製作<rt>せいさく</rt></ruby>, <ruby>作製<rt>さくせい</rt></ruby>"
 "tactic, strategy",作戦,<ruby>作戦<rt>さくせん</rt></ruby>
-"publishing, publication",出版,<ruby>出版<rt>しゅっぱん</rt></ruby>,Vocab 149
+"publishing, publication",出版,<ruby>出版<rt>しゅっぱん</rt></ruby>
 internationalization,国際化,<ruby>国際化<rt>こくさいか</rt></ruby>
-trading firm,商社,<ruby>商社<rt>しょうしゃ</rt></ruby>
+trading firm,商社,<ruby>商社<rt>しょうしゃ</rt></ruby>,Vocab 149
 "right, privilege",権利,<ruby>権利<rt>けんり</rt></ruby>
 "revolution, rotation",回転,<ruby>回転<rt>かいてん</rt></ruby>
 "to enclose, to encircle",囲む,<ruby>囲<rt>かこ</rt></ruby>む
@@ -2234,9 +2232,9 @@ trading firm,商社,<ruby>商社<rt>しょうしゃ</rt></ruby>
 "progress, advancement",進歩,<ruby>進歩<rt>しんぽ</rt></ruby>
 coal,石炭,<ruby>石炭<rt>せきたん</rt></ruby>
 "to embrace, to hug",抱く,<ruby>抱<rt>いだ</rt></ruby>く
-"household, family",一家,<ruby>一家<rt>いっか</rt></ruby>,Vocab 150
+"household, family",一家,<ruby>一家<rt>いっか</rt></ruby>
 "once, for a while",一旦,<ruby>一旦<rt>いったん</rt></ruby>
-"volition, motivation",意欲,<ruby>意欲<rt>いよく</rt></ruby>
+"volition, motivation",意欲,<ruby>意欲<rt>いよく</rt></ruby>,Vocab 150
 "question, doubt",疑問,<ruby>疑問<rt>ぎもん</rt></ruby>
 "value, merit",価値,<ruby>価値<rt>かち</rt></ruby>
 "reopening, restart",再開,<ruby>再開<rt>さいかい</rt></ruby>
@@ -2249,9 +2247,9 @@ poetry,詩,<ruby>詩<rt>し</rt></ruby>
 "power, authority",権力,<ruby>権力<rt>けんりょく</rt></ruby>
 "suburbs, outskirts","郊外, 近郊","<ruby>郊外<rt>こうがい</rt></ruby>, <ruby>近郊<rt>きんこう</rt></ruby>"
 "to rob, to take by force",奪う,<ruby>奪<rt>うば</rt></ruby>う
-"improvement, reform",改良,<ruby>改良<rt>かいりょう</rt></ruby>,Vocab 151
+"improvement, reform",改良,<ruby>改良<rt>かいりょう</rt></ruby>
 the latter,後者,<ruby>後者<rt>こうしゃ</rt></ruby>
-"formal, official",公式,<ruby>公式<rt>こうしき</rt></ruby>
+"formal, official",公式,<ruby>公式<rt>こうしき</rt></ruby>,Vocab 151
 "author, writer",作者,<ruby>作者<rt>さくしゃ</rt></ruby>
 "reverse, inverse",逆,<ruby>逆<rt>ぎゃく</rt></ruby>
 "living, livelihood",暮らし,<ruby>暮<rt>く</rt></ruby>らし
@@ -2264,9 +2262,9 @@ heart,心臓,<ruby>心臓<rt>しんぞう</rt></ruby>
 "to pile up, to repeat",重ねる,<ruby>重<rt>かさ</rt></ruby>ねる
 "art, arts and crafts",芸術,<ruby>芸術<rt>げいじゅつ</rt></ruby>
 "expansion, extension",拡張,<ruby>拡張<rt>かくちょう</rt></ruby>
-"opinion, view",見解,<ruby>見解<rt>けんかい</rt></ruby>,Vocab 152
+"opinion, view",見解,<ruby>見解<rt>けんかい</rt></ruby>
 "stimulus, stimulation",刺激,<ruby>刺激<rt>しげき</rt></ruby>
-"recommendation, nomination",推薦,<ruby>推薦<rt>すいせん</rt></ruby>
+"recommendation, nomination",推薦,<ruby>推薦<rt>すいせん</rt></ruby>,Vocab 152
 "feeling, mood",気分,<ruby>気分<rt>きぶん</rt></ruby>
 "corpse, body",死体,<ruby>死体<rt>したい</rt></ruby>
 "collision, conflict",衝突,<ruby>衝突<rt>しょうとつ</rt></ruby>
@@ -2279,9 +2277,9 @@ heart,心臓,<ruby>心臓<rt>しんぞう</rt></ruby>
 "request, commission",依頼,<ruby>依頼<rt>いらい</rt></ruby>
 "disposition, arrangement",整理,<ruby>整理<rt>せいり</rt></ruby>
 public performance,公演,<ruby>公演<rt>こうえん</rt></ruby>
-"all together, all at once",一斉に,<ruby>一斉<rt>いっせい</rt></ruby>に,Vocab 153
+"all together, all at once",一斉に,<ruby>一斉<rt>いっせい</rt></ruby>に
 "support, maintenance",支持,<ruby>支持<rt>しじ</rt></ruby>
-"gradually, by degrees",次第に,<ruby>次第<rt>しだい</rt></ruby>に
+"gradually, by degrees",次第に,<ruby>次第<rt>しだい</rt></ruby>に,Vocab 153
 "mainly, mostly",主に,<ruby>主<rt>おも</rt></ruby>に
 "precious, valuable",貴重,<ruby>貴重<rt>きちょう</rt></ruby>
 "to cite, to give (an example)",挙げる,<ruby>挙<rt>あ</rt></ruby>げる
@@ -2294,13 +2292,13 @@ sum total,合計,<ruby>合計<rt>ごうけい</rt></ruby>
 religion,宗教,<ruby>宗教<rt>しゅうきょう</rt></ruby>
 affiliation,系列,<ruby>系列<rt>けいれつ</rt></ruby>
 "group, mass",集団,<ruby>集団<rt>しゅうだん</rt></ruby>
-school class,組,<ruby>組<rt>くみ</rt></ruby>,Vocab 154
+school class,組,<ruby>組<rt>くみ</rt></ruby>
 "vigilance, precaution",警戒,<ruby>警戒<rt>けいかい</rt></ruby>
-"correction, revision",修正,<ruby>修正<rt>しゅうせい</rt></ruby>
+"correction, revision",修正,<ruby>修正<rt>しゅうせい</rt></ruby>,Vocab 154
 "duty, service",勤務,<ruby>勤務<rt>きんむ</rt></ruby>
 "to pair up, to partner with",組む,<ruby>組<rt>く</rt></ruby>む
 "error, mistake",誤り,<ruby>誤<rt>あやま</rt></ruby>り
-"area, vicinity",一帯,<ruby>一帯<rt>いったい</rt></ruby>
+"whole area, stretch of land",一帯,<ruby>一帯<rt>いったい</rt></ruby>
 favorable condition,好調,<ruby>好調<rt>こうちょう</rt></ruby>
 usage,使用,<ruby>使用<rt>しよう</rt></ruby>
 the former,前者,<ruby>前者<rt>ぜんしゃ</rt></ruby>
@@ -2309,9 +2307,9 @@ the former,前者,<ruby>前者<rt>ぜんしゃ</rt></ruby>
 "already, previously",既に,<ruby>既<rt>すで</rt></ruby>に
 "event, function",行事,<ruby>行事<rt>ぎょうじ</rt></ruby>
 "to try, to attempt",試みる,<ruby>試<rt>こころ</rt></ruby>みる
-domestically produced,国産,<ruby>国産<rt>こくさん</rt></ruby>,Vocab 155
+domestically produced,国産,<ruby>国産<rt>こくさん</rt></ruby>
 "to calm down, to settle in",落ち着く,<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>く
-"protest, remonstrance",抗議,<ruby>抗議<rt>こうぎ</rt></ruby>
+"protest, remonstrance",抗議,<ruby>抗議<rt>こうぎ</rt></ruby>,Vocab 155
 "action, effect",作用,<ruby>作用<rt>さよう</rt></ruby>
 "not at all, not one bit",一切,<ruby>一切<rt>いっさい</rt></ruby>
 "gap, disparity",格差,<ruby>格差<rt>かくさ</rt></ruby>
@@ -2324,9 +2322,9 @@ resources,資源,<ruby>資源<rt>しげん</rt></ruby>
 "certain, secure",確実,<ruby>確実<rt>かくじつ</rt></ruby>
 "drying up, desiccation",乾燥,<ruby>乾燥<rt>かんそう</rt></ruby>
 human rights,人権,<ruby>人権<rt>じんけん</rt></ruby>
-high temperature,高温,<ruby>高温<rt>こうおん</rt></ruby>,Vocab 156
+high temperature,高温,<ruby>高温<rt>こうおん</rt></ruby>
 "serious, sincere",真剣,<ruby>真剣<rt>しんけん</rt></ruby>
-"resolution, determination",決意,<ruby>決意<rt>けつい</rt></ruby>
+"resolution, determination",決意,<ruby>決意<rt>けつい</rt></ruby>,Vocab 156
 "sponsorship, promotion",主催,<ruby>主催<rt>しゅさい</rt></ruby>
 "intention, aim",意図,<ruby>意図<rt>いと</rt></ruby>
 playback,再生,<ruby>再生<rt>さいせい</rt></ruby>
@@ -2339,9 +2337,9 @@ axis,軸,<ruby>軸<rt>じく</rt></ruby>
 "to fear, to apprehend",恐れる,<ruby>恐<rt>おそ</rt></ruby>れる
 "to harden, to solidify",固まる,<ruby>固<rt>かた</rt></ruby>まる
 substitution,代わり,<ruby>代<rt>か</rt></ruby>わり
-"to eat, to live on",食う,<ruby>食<rt>く</rt></ruby>う,Vocab 157
+"to eat, to live on",食う,<ruby>食<rt>く</rt></ruby>う
 "details, particulars",詳細,<ruby>詳細<rt>しょうさい</rt></ruby>
-"birth, origin",生まれ,<ruby>生<rt>う</rt></ruby>まれ
+"birth, origin",生まれ,<ruby>生<rt>う</rt></ruby>まれ,Vocab 157
 "learning, scholarship",学問,<ruby>学問<rt>がくもん</rt></ruby>
 indoors,室内,<ruby>室内<rt>しつない</rt></ruby>
 lowest,最低,<ruby>最低<rt>さいてい</rt></ruby>
@@ -2354,9 +2352,9 @@ one's own country,自国,<ruby>自国<rt>じこく</rt></ruby>
 "important point, emphasis",重点,<ruby>重点<rt>じゅうてん</rt></ruby>
 "forest, woodland",森林,<ruby>森林<rt>しんりん</rt></ruby>
 parent and child,親子,<ruby>親子<rt>おやこ</rt></ruby>
-"world, the public",世間,<ruby>世間<rt>せけん</rt></ruby>,Vocab 158
+"world, the public",世間,<ruby>世間<rt>せけん</rt></ruby>
 "instant, moment","一瞬, 瞬間","<ruby>一瞬<rt>いっしゅん</rt></ruby>, <ruby>瞬間<rt>しゅんかん</rt></ruby>"
-"public society, community",公共,<ruby>公共<rt>こうきょう</rt></ruby>
+"public society, community",公共,<ruby>公共<rt>こうきょう</rt></ruby>,Vocab 158
 "thing, incident",事,<ruby>事<rt>こと</rt></ruby>
 Self Defense Forces,自衛隊,<ruby>自衛隊<rt>じえいたい</rt></ruby>
 "thought, conception",思想,<ruby>思想<rt>しそう</rt></ruby>
@@ -2369,9 +2367,9 @@ passenger fare,運賃,<ruby>運賃<rt>うんちん</rt></ruby>
 "liquid, fluid","液体, 液","<ruby>液体<rt>えきたい</rt></ruby>, <ruby>液<rt>えき</rt></ruby>"
 order,順序,<ruby>順序<rt>じゅんじょ</rt></ruby>
 "expenditure, disbursement",支出,<ruby>支出<rt>ししゅつ</rt></ruby>
-a lifetime,一生,<ruby>一生<rt>いっしょう</rt></ruby>,Vocab 159
+a lifetime,一生,<ruby>一生<rt>いっしょう</rt></ruby>
 "to hasten, to urge",促す,<ruby>促<rt>うなが</rt></ruby>す
-offshore,沖,<ruby>沖<rt>おき</rt></ruby>
+offshore,沖,<ruby>沖<rt>おき</rt></ruby>,Vocab 159
 "absorption, merger",吸収,<ruby>吸収<rt>きゅうしゅう</rt></ruby>
 ward,区,<ruby>区<rt>く</rt></ruby>
 oxygen,酸素,<ruby>酸素<rt>さんそ</rt></ruby>
@@ -2384,9 +2382,9 @@ energy,エネルギー,エネルギー
 concrete,コンクリート,コンクリート
 "finally, any moment",いよいよ,いよいよ
 the Olympics,オリンピック,オリンピック
-stop,ストップ,ストップ,Vocab 160
+stop,ストップ,ストップ
 "properly, neatly",きちんと,きちんと
-club,クラブ,クラブ
+club,クラブ,クラブ,Vocab 160
 "without moving, still",じっと,じっと
 concert,コンサート,コンサート
 "wrong, must not",いけない,いけない
@@ -2399,9 +2397,9 @@ breath,息,<ruby>息<rt>いき</rt></ruby>
 crystallization,結晶,<ruby>結晶<rt>けっしょう</rt></ruby>
 "weak point, defect",欠点,<ruby>欠点<rt>けってん</rt></ruby>
 "to express, to represent",表す,<ruby>表<rt>あらわ</rt></ruby>す
-"medical science, medicine",医学,<ruby>医学<rt>いがく</rt></ruby>,Vocab 161
+"medical science, medicine",医学,<ruby>医学<rt>いがく</rt></ruby>
 "vigor, momentum",勢い,<ruby>勢<rt>いきお</rt></ruby>い
-"aid, assistance",援助,<ruby>援助<rt>えんじょ</rt></ruby>
+"aid, assistance",援助,<ruby>援助<rt>えんじょ</rt></ruby>,Vocab 161
 "to crumble, to collapse",崩れる,<ruby>崩<rt>くず</rt></ruby>れる
 seat,座席,<ruby>座席<rt>ざせき</rt></ruby>
 "illumination, lighting",照明,<ruby>照明<rt>しょうめい</rt></ruby>
@@ -2414,9 +2412,9 @@ journalist,ジャーナリスト,ジャーナリスト
 style,スタイル,スタイル
 interview,インタビュー,インタビュー
 individuality,個性,<ruby>個性<rt>こせい</rt></ruby>
-"calamity, disaster",災害,<ruby>災害<rt>さいがい</rt></ruby>,Vocab 162
+"calamity, disaster",災害,<ruby>災害<rt>さいがい</rt></ruby>
 tentatively,一応,<ruby>一応<rt>いちおう</rt></ruby>
-screen,画面,<ruby>画面<rt>がめん</rt></ruby>
+screen,画面,<ruby>画面<rt>がめん</rt></ruby>,Vocab 162
 "dusk, the end (of a season or a year)",暮れ,<ruby>暮<rt>く</rt></ruby>れ
 environmental pollution,公害,<ruby>公害<rt>こうがい</rt></ruby>
 "reference, consultation",参考,<ruby>参考<rt>さんこう</rt></ruby>
@@ -2429,9 +2427,9 @@ life,"生命, 命, 生","<ruby>生命<rt>せいめい</rt></ruby>, <ruby>命<rt>
 "support, cheering",応援,<ruby>応援<rt>おうえん</rt></ruby>
 "to be chipped, to be missing",欠ける,<ruby>欠<rt>か</rt></ruby>ける
 "freeway, highway",高速道路,<ruby>高速道路<rt>こうそくどうろ</rt></ruby>
-"unemployment, loss of job",失業,<ruby>失業<rt>しつぎょう</rt></ruby>,Vocab 163
+"unemployment, loss of job",失業,<ruby>失業<rt>しつぎょう</rt></ruby>
 "supposing that, even if",仮に,<ruby>仮<rt>かり</rt></ruby>に
-modern times,近代,<ruby>近代<rt>きんだい</rt></ruby>
+modern times,近代,<ruby>近代<rt>きんだい</rt></ruby>,Vocab 163
 "speaker, lecturer",講師,<ruby>講師<rt>こうし</rt></ruby>
 viewpoint,視点,<ruby>視点<rt>してん</rt></ruby>
 symptom,症状,<ruby>症状<rt>しょうじょう</rt></ruby>
@@ -2444,9 +2442,9 @@ symptom,症状,<ruby>症状<rt>しょうじょう</rt></ruby>
 "smiling face, smile",笑顔,<ruby>笑顔<rt>えがお</rt></ruby>
 "shadow, shade",影,<ruby>影<rt>かげ</rt></ruby>
 "bureau, public service office",局,<ruby>局<rt>きょく</rt></ruby>
-extreme,極端,<ruby>極端<rt>きょくたん</rt></ruby>,Vocab 164
+extreme,極端,<ruby>極端<rt>きょくたん</rt></ruby>
 "warning, admonition",警告,<ruby>警告<rt>けいこく</rt></ruby>
-theater,劇場,<ruby>劇場<rt>げきじょう</rt></ruby>
+theater,劇場,<ruby>劇場<rt>げきじょう</rt></ruby>,Vocab 164
 "atomic energy, nuclear power",原子力,<ruby>原子力<rt>げんしりょく</rt></ruby>
 "murder, homicide",殺人,<ruby>殺人<rt>さつじん</rt></ruby>
 "figure, map",図,<ruby>図<rt>ず</rt></ruby>
@@ -2459,14 +2457,14 @@ discrimination,差別,<ruby>差別<rt>さべつ</rt></ruby>
 courthouse,裁判所,<ruby>裁判所<rt>さいばんしょ</rt></ruby>
 "belonging, attachment",所属,<ruby>所属<rt>しょぞく</rt></ruby>
 sweat,汗,<ruby>汗<rt>あせ</rt></ruby>
-"to generate, to produce",生み出す,<ruby>生<rt>う</rt></ruby>み<ruby>出<rt>だ</rt></ruby>す,Vocab 165
+"to generate, to produce",生み出す,<ruby>生<rt>う</rt></ruby>み<ruby>出<rt>だ</rt></ruby>す
 "noise, interference",雑音,<ruby>雑音<rt>ざつおん</rt></ruby>
-"vicinity, around",辺り,<ruby>辺<rt>あた</rt></ruby>り
+"vicinity, around",辺り,<ruby>辺<rt>あた</rt></ruby>り,Vocab 165
 "to earn, to make money",稼ぐ,<ruby>稼<rt>かせ</rt></ruby>ぐ
 "inspection, examination",検査,<ruby>検査<rt>けんさ</rt></ruby>
 "cultivation, raising",栽培,<ruby>栽培<rt>さいばい</rt></ruby>
 "to catch, to receive",受け止める,<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>める
-"I, me",俺,<ruby>俺<rt>おれ</rt></ruby>
+"I, me (masculine, informal)",俺,<ruby>俺<rt>おれ</rt></ruby>
 scientist,科学者,<ruby>科学者<rt>かがくしゃ</rt></ruby>
 "fire, conflagration",火災,<ruby>火災<rt>かさい</rt></ruby>
 "grounds, basis",根拠,<ruby>根拠<rt>こんきょ</rt></ruby>
@@ -2474,9 +2472,9 @@ scientist,科学者,<ruby>科学者<rt>かがくしゃ</rt></ruby>
 seawater,海水,<ruby>海水<rt>かいすい</rt></ruby>
 "condition, health",具合,<ruby>具合<rt>ぐあい</rt></ruby>
 match,勝負,<ruby>勝負<rt>しょうぶ</rt></ruby>
-"unexpected, unforeseen",意外,<ruby>意外<rt>いがい</rt></ruby>,Vocab 166
+"unexpected, unforeseen",意外,<ruby>意外<rt>いがい</rt></ruby>
 zone,区域,<ruby>区域<rt>くいき</rt></ruby>
-to make a mistake,誤る,<ruby>誤<rt>あやま</rt></ruby>る
+to make a mistake,誤る,<ruby>誤<rt>あやま</rt></ruby>る,Vocab 166
 "to raise, to keep",飼う,<ruby>飼<rt>か</rt></ruby>う
 "academic association, academic conference",学会,<ruby>学会<rt>がっかい</rt></ruby>
 "office duty, clerical work",事務,<ruby>事務<rt>じむ</rt></ruby>
@@ -2489,9 +2487,9 @@ printing,印刷,<ruby>印刷<rt>いんさつ</rt></ruby>
 "to like, to be fond of",好む,<ruby>好<rt>この</rt></ruby>む
 "order, sequence",順,<ruby>順<rt>じゅん</rt></ruby>
 "important, serious",重大,<ruby>重大<rt>じゅうだい</rt></ruby>
-"way of life, lifestyle",生き方,<ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>,Vocab 167
+"way of life, lifestyle",生き方,<ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>
 king,"王, 王様","<ruby>王<rt>おう</rt></ruby>, <ruby>王様<rt>おうさま</rt></ruby>"
-to set up (shop),構える,<ruby>構<rt>かま</rt></ruby>える
+to set up (shop),構える,<ruby>構<rt>かま</rt></ruby>える,Vocab 167
 "wound, scar",傷,<ruby>傷<rt>きず</rt></ruby>
 "to prohibit, to forbid",禁じる,<ruby>禁<rt>きん</rt></ruby>じる
 "to be settled, to complete",済む,<ruby>済<rt>す</rt></ruby>む
@@ -2504,9 +2502,9 @@ foreign currency,外貨,<ruby>外貨<rt>がいか</rt></ruby>
 "to supplement, to replenish",補う,<ruby>補<rt>おぎな</rt></ruby>う
 angle,角度,<ruby>角度<rt>かくど</rt></ruby>
 volcano,火山,<ruby>火山<rt>かざん</rt></ruby>
-"public officer, government worker",公務員,<ruby>公務員<rt>こうむいん</rt></ruby>,Vocab 168
+"public officer, government worker",公務員,<ruby>公務員<rt>こうむいん</rt></ruby>
 "release, setting free",解放,<ruby>解放<rt>かいほう</rt></ruby>
-"to bet, to stake",賭ける,<ruby>賭<rt>か</rt></ruby>ける
+"to bet, to stake",賭ける,<ruby>賭<rt>か</rt></ruby>ける,Vocab 168
 "nations, countries",国々,<ruby>国々<rt>くにぐに</rt></ruby>
 optimum,最適,<ruby>最適<rt>さいてき</rt></ruby>
 "real ability, capability",実力,<ruby>実力<rt>じつりょく</rt></ruby>
@@ -2519,9 +2517,9 @@ at a glance,一見,<ruby>一見<rt>いっけん</rt></ruby>
 "composition, synthesis",合成,<ruby>合成<rt>ごうせい</rt></ruby>
 "fortune, asset",財産,<ruby>財産<rt>ざいさん</rt></ruby>
 "child, juvenile",児童,<ruby>児童<rt>じどう</rt></ruby>
-the whole body,全身,<ruby>全身<rt>ぜんしん</rt></ruby>,Vocab 169
+the whole body,全身,<ruby>全身<rt>ぜんしん</rt></ruby>
 "to guess, to hit the jackpot",当てる,<ruby>当<rt>あ</rt></ruby>てる
-"all of a sudden, without warning",いきなり,いきなり
+"all of a sudden, without warning",いきなり,いきなり,Vocab 169
 "to be reflected, to appear",映る,<ruby>映<rt>うつ</rt></ruby>る
 once again,改めて,<ruby>改<rt>あらた</rt></ruby>めて
 "to notice, to become aware of",気付く,<ruby>気付<rt>きづ</rt></ruby>く
@@ -2534,9 +2532,9 @@ back,背中,<ruby>背中<rt>せなか</rt></ruby>
 "to destroy, to break",崩す,<ruby>崩<rt>くず</rt></ruby>す
 "via, through",経由,<ruby>経由<rt>けいゆ</rt></ruby>
 "before, ahead",先に,<ruby>先<rt>さき</rt></ruby>に
-"agent, main constituent",主体,<ruby>主体<rt>しゅたい</rt></ruby>,Vocab 170
+"agent, main constituent",主体,<ruby>主体<rt>しゅたい</rt></ruby>
 "subject, theme",主題,<ruby>主題<rt>しゅだい</rt></ruby>
-forever,いつまでも,いつまでも
+forever,いつまでも,いつまでも,Vocab 170
 "to fire, to shoot",撃つ,<ruby>撃<rt>う</rt></ruby>つ
 "artist, painter",画家,<ruby>画家<rt>がか</rt></ruby>
 to dislike,嫌う,<ruby>嫌<rt>きら</rt></ruby>う
@@ -2549,9 +2547,9 @@ government office,官庁,<ruby>官庁<rt>かんちょう</rt></ruby>
 "gas, vapor",気体,<ruby>気体<rt>きたい</rt></ruby>
 "phrase, clause",句,<ruby>句<rt>く</rt></ruby>
 fresh,新鮮,<ruby>新鮮<rt>しんせん</rt></ruby>
-last time,前回,<ruby>前回<rt>ぜんかい</rt></ruby>,Vocab 171
+last time,前回,<ruby>前回<rt>ぜんかい</rt></ruby>
 "coast, shore",沿岸,<ruby>沿岸<rt>えんがん</rt></ruby>
-"readiness, resolution",覚悟,<ruby>覚悟<rt>かくご</rt></ruby>
+"readiness, resolution",覚悟,<ruby>覚悟<rt>かくご</rt></ruby>,Vocab 171
 business trip,出張,<ruby>出張<rt>しゅっちょう</rt></ruby>
 "gratitude, thanks",感謝,<ruby>感謝<rt>かんしゃ</rt></ruby>
 "country, countryside",田舎,<ruby>田舎<rt>いなか</rt></ruby>
@@ -2564,9 +2562,9 @@ to get acquainted with,知り合う,<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>
 return home,帰宅,<ruby>帰宅<rt>きたく</rt></ruby>
 "limit, bounds",限度,<ruby>限度<rt>げんど</rt></ruby>
 high-priced,高価,<ruby>高価<rt>こうか</rt></ruby>
-"to save, to relieve",救う,<ruby>救<rt>すく</rt></ruby>う,Vocab 172
+"to save, to relieve",救う,<ruby>救<rt>すく</rt></ruby>う
 "battlefield, front",戦場,<ruby>戦場<rt>せんじょう</rt></ruby>
-"as usual, as before",相変わらず,<ruby>相変<rt>あいか</rt></ruby>わらず
+"as usual, as before",相変わらず,<ruby>相変<rt>あいか</rt></ruby>わらず,Vocab 172
 "chance, accident",偶然,<ruby>偶然<rt>ぐうぜん</rt></ruby>
 "true sense, realization",実感,<ruby>実感<rt>じっかん</rt></ruby>
 "front, face",正面,<ruby>正面<rt>しょうめん</rt></ruby>
@@ -2579,9 +2577,9 @@ inside a vehicle,車内,<ruby>車内<rt>しゃない</rt></ruby>
 "unintentionally, unconsciously",思わず,<ruby>思<rt>おも</rt></ruby>わず
 printed type,活字,<ruby>活字<rt>かつじ</rt></ruby>
 school building,校舎,<ruby>校舎<rt>こうしゃ</rt></ruby>
-"harvest, harvesting",収穫,<ruby>収穫<rt>しゅうかく</rt></ruby>,Vocab 173
+"harvest, harvesting",収穫,<ruby>収穫<rt>しゅうかく</rt></ruby>
 prewar period,戦前,<ruby>戦前<rt>せんぜん</rt></ruby>
-questionnaire,アンケート,アンケート
+questionnaire,アンケート,アンケート,Vocab 173
 in front of the station,駅前,<ruby>駅前<rt>えきまえ</rt></ruby>
 "compulsion, force",強制,<ruby>強制<rt>きょうせい</rt></ruby>
 "combination, joint",合同,<ruby>合同<rt>ごうどう</rt></ruby>
@@ -2594,9 +2592,9 @@ poet,詩人,<ruby>詩人<rt>しじん</rt></ruby>
 "postponement, deferment",延期,<ruby>延期<rt>えんき</rt></ruby>
 to pay a tax or fee,納める,<ruby>納<rt>おさ</rt></ruby>める
 "talent, ability",才能,<ruby>才能<rt>さいのう</rt></ruby>
-surface of the water,水面,<ruby>水面<rt>すいめん</rt></ruby>,Vocab 174
+surface of the water,水面,<ruby>水面<rt>すいめん</rt></ruby>
 schedule,スケジュール,スケジュール
-uniform,制服,<ruby>制服<rt>せいふく</rt></ruby>
+uniform,制服,<ruby>制服<rt>せいふく</rt></ruby>,Vocab 174
 musical instrument,楽器,<ruby>楽器<rt>がっき</rt></ruby>
 desert,砂漠,<ruby>砂漠<rt>さばく</rt></ruby>
 "assistant, helper",助手,<ruby>助手<rt>じょしゅ</rt></ruby>
@@ -2609,9 +2607,9 @@ desert,砂漠,<ruby>砂漠<rt>さばく</rt></ruby>
 "advanced age, elderly",高齢,<ruby>高齢<rt>こうれい</rt></ruby>
 reunion,再会,<ruby>再会<rt>さいかい</rt></ruby>
 life span,寿命,<ruby>寿命<rt>じゅみょう</rt></ruby>
-newspaper office,新聞社,<ruby>新聞社<rt>しんぶんしゃ</rt></ruby>,Vocab 175
+newspaper office,新聞社,<ruby>新聞社<rt>しんぶんしゃ</rt></ruby>
 "will, volition",意志,<ruby>意志<rt>いし</rt></ruby>
-"to doubt, to be suspicious",疑う,<ruby>疑<rt>うたが</rt></ruby>う
+"to doubt, to be suspicious",疑う,<ruby>疑<rt>うたが</rt></ruby>う,Vocab 175
 gasoline,ガソリン,ガソリン
 "matter, affair",事柄,<ruby>事柄<rt>ことがら</rt></ruby>
 "existence, survival",生存,<ruby>生存<rt>せいぞん</rt></ruby>
@@ -2624,9 +2622,9 @@ index,索引,<ruby>索引<rt>さくいん</rt></ruby>
 "market, marketplace",市場,<ruby>市場<rt>いちば</rt></ruby>
 climate,気候,<ruby>気候<rt>きこう</rt></ruby>
 "to put in, to concentrate on",込める,<ruby>込<rt>こ</rt></ruby>める
-production center,産地,<ruby>産地<rt>さんち</rt></ruby>,Vocab 176
+production center,産地,<ruby>産地<rt>さんち</rt></ruby>
 "noon, noontime",正午,<ruby>正午<rt>しょうご</rt></ruby>
-completion,"完了, 修了","<ruby>完了<rt>かんりょう</rt></ruby>, <ruby>修了<rt>しゅうりょう</rt></ruby>"
+completion,"完了, 修了","<ruby>完了<rt>かんりょう</rt></ruby>, <ruby>修了<rt>しゅうりょう</rt></ruby>",Vocab 176
 "match, sporting event",競技,<ruby>競技<rt>きょうぎ</rt></ruby>
 private railway,私鉄,<ruby>私鉄<rt>してつ</rt></ruby>
 residential district,住宅地,<ruby>住宅地<rt>じゅうたくち</rt></ruby>
@@ -2639,9 +2637,9 @@ race,人種,<ruby>人種<rt>じんしゅ</rt></ruby>
 "fate, fortune",運命,<ruby>運命<rt>うんめい</rt></ruby>
 "complaint, grievance",苦情,<ruby>苦情<rt>くじょう</rt></ruby>
 "speech, discussion",言論,<ruby>言論<rt>げんろん</rt></ruby>
-business suit,背広,<ruby>背広<rt>せびろ</rt></ruby>,Vocab 177
+business suit,背広,<ruby>背広<rt>せびろ</rt></ruby>
 "to appear, to emerge",現れる,<ruby>現<rt>あらわ</rt></ruby>れる
-to shoot up,打ち上げる,<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる
+to shoot up,打ち上げる,<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる,Vocab 177
 "authority, power",権威,<ruby>権威<rt>けんい</rt></ruby>
 subject,科目,<ruby>科目<rt>かもく</rt></ruby>
 recruiting,求人,<ruby>求人<rt>きゅうじん</rt></ruby>
@@ -2654,9 +2652,9 @@ to cut fine,刻む,<ruby>刻<rt>きざ</rt></ruby>む
 "system, lineage",系統,<ruby>系統<rt>けいとう</rt></ruby>
 "to become known, to be found out",知れる,<ruby>知<rt>し</rt></ruby>れる
 "mental state, psychology",心理,<ruby>心理<rt>しんり</rt></ruby>
-"passion, enthusiasm",情熱,<ruby>情熱<rt>じょうねつ</rt></ruby>,Vocab 178
+"passion, enthusiasm",情熱,<ruby>情熱<rt>じょうねつ</rt></ruby>
 vivid,鮮やか,<ruby>鮮<rt>あざ</rt></ruby>やか
-"photographer, cameraman",カメラマン,カメラマン
+"photographer, cameraman",カメラマン,カメラマン,Vocab 178
 "grade, class",級,<ruby>級<rt>きゅう</rt></ruby>
 "flood, inundation","洪水, 大水","<ruby>洪水<rt>こうずい</rt></ruby>, <ruby>大水<rt>おおみず</rt></ruby>"
 the worst,最悪,<ruby>最悪<rt>さいあく</rt></ruby>
@@ -2669,9 +2667,9 @@ the worst,最悪,<ruby>最悪<rt>さいあく</rt></ruby>
 musical performance,演奏,<ruby>演奏<rt>えんそう</rt></ruby>
 "in the air, in the sky",空中,<ruby>空中<rt>くうちゅう</rt></ruby>
 prison,刑務所,<ruby>刑務所<rt>けいむしょ</rt></ruby>
-"determination, resolve",決心,<ruby>決心<rt>けっしん</rt></ruby>,Vocab 179
+"determination, resolve",決心,<ruby>決心<rt>けっしん</rt></ruby>
 "individually, one at a time",個々,<ruby>個々<rt>ここ</rt></ruby>
-"to get close to, to get familiar with",親しむ,<ruby>親<rt>した</rt></ruby>しむ
+"to get close to, to get familiar with",親しむ,<ruby>親<rt>した</rt></ruby>しむ,Vocab 179
 "nutrition, nourishment",栄養,<ruby>栄養<rt>えいよう</rt></ruby>
 loud voice,大声,<ruby>大声<rt>おおごえ</rt></ruby>
 "holiday, vacation",休暇,<ruby>休暇<rt>きゅうか</rt></ruby>
@@ -2684,9 +2682,9 @@ to be effective,効く,<ruby>効<rt>き</rt></ruby>く
 "the West, the Occident",西洋,<ruby>西洋<rt>せいよう</rt></ruby>
 "to celebrate, to congratulate",祝う,<ruby>祝<rt>いわ</rt></ruby>う
 detective,刑事,<ruby>刑事<rt>けいじ</rt></ruby>
-showing off,自慢,<ruby>自慢<rt>じまん</rt></ruby>,Vocab 180
+showing off,自慢,<ruby>自慢<rt>じまん</rt></ruby>
 publishing company,出版社,<ruby>出版社<rt>しゅっぱんしゃ</rt></ruby>
-"negative, passive",消極的,<ruby>消極的<rt>しょうきょくてき</rt></ruby>
+"negative, passive",消極的,<ruby>消極的<rt>しょうきょくてき</rt></ruby>,Vocab 180
 "colony, settlement",植民地,<ruby>植民地<rt>しょくみんち</rt></ruby>
 actress,女優,<ruby>女優<rt>じょゆう</rt></ruby>
 "stature, height",身長,<ruby>身長<rt>しんちょう</rt></ruby>
@@ -2699,9 +2697,9 @@ fishing industry,漁業,<ruby>漁業<rt>ぎょぎょう</rt></ruby>
 "bill, paper money",札,<ruby>札<rt>さつ</rt></ruby>
 earnings and expenses,収支,<ruby>収支<rt>しゅうし</rt></ruby>
 vibration,振動,<ruby>振動<rt>しんどう</rt></ruby>
-"belief, conviction",信念,<ruby>信念<rt>しんねん</rt></ruby>,Vocab 181
+"belief, conviction",信念,<ruby>信念<rt>しんねん</rt></ruby>
 "surprise, amazement",驚き,<ruby>驚<rt>おどろ</rt></ruby>き
-"school year, grade",学年,<ruby>学年<rt>がくねん</rt></ruby>
+"school year, grade",学年,<ruby>学年<rt>がくねん</rt></ruby>,Vocab 181
 family finances,家計,<ruby>家計<rt>かけい</rt></ruby>
 "pipe, tube",管,<ruby>管<rt>かん</rt></ruby>
 weather condition,気象,<ruby>気象<rt>きしょう</rt></ruby>
@@ -2714,9 +2712,9 @@ wheat,小麦,<ruby>小麦<rt>こむぎ</rt></ruby>
 "all directions, far and wide",四方,<ruby>四方<rt>しほう</rt></ruby>
 boss,上司,<ruby>上司<rt>じょうし</rt></ruby>
 dining table,食卓,<ruby>食卓<rt>しょくたく</rt></ruby>
-"first day, opening day",初日,<ruby>初日<rt>しょにち</rt></ruby>,Vocab 182
+"first day, opening day",初日,<ruby>初日<rt>しょにち</rt></ruby>
 "nest, den",巣,<ruby>巣<rt>す</rt></ruby>
-"conjecture, guess",推測,<ruby>推測<rt>すいそく</rt></ruby>
+"conjecture, guess",推測,<ruby>推測<rt>すいそく</rt></ruby>,Vocab 182
 living room,居間,<ruby>居間<rt>いま</rt></ruby>
 inside,内,<ruby>内<rt>うち</rt></ruby>
 "lawsuit, appeal",訴え,<ruby>訴<rt>うった</rt></ruby>え
@@ -2729,9 +2727,9 @@ weak point,弱点,<ruby>弱点<rt>じゃくてん</rt></ruby>
 "housework, domestic duties",家事,<ruby>家事<rt>かじ</rt></ruby>
 engineering,工学,<ruby>工学<rt>こうがく</rt></ruby>
 "completion, finishing",仕上げ,<ruby>仕上<rt>しあ</rt></ruby>げ
-bookstore,書店,<ruby>書店<rt>しょてん</rt></ruby>,Vocab 183
+bookstore,書店,<ruby>書店<rt>しょてん</rt></ruby>
 to to dawn,明ける,<ruby>明<rt>あ</rt></ruby>ける
-"house, building",家屋,<ruby>家屋<rt>かおく</rt></ruby>
+"house, building",家屋,<ruby>家屋<rt>かおく</rt></ruby>,Vocab 183
 to lack,欠く,<ruby>欠<rt>か</rt></ruby>く
 college president,学長,<ruby>学長<rt>がくちょう</rt></ruby>
 "observation, supervision",観察,<ruby>観察<rt>かんさつ</rt></ruby>
@@ -2744,9 +2742,9 @@ stress,ストレス,ストレス
 cord,コード,コード
 "to look for, to search for",捜す,<ruby>捜<rt>さが</rt></ruby>す
 "the other day, a few days ago",先日,<ruby>先日<rt>せんじつ</rt></ruby>
-probably,恐らく,<ruby>恐<rt>おそ</rt></ruby>らく,Vocab 184
+probably,恐らく,<ruby>恐<rt>おそ</rt></ruby>らく
 educational history,学歴,<ruby>学歴<rt>がくれき</rt></ruby>
-"consent, knowledge",承知,<ruby>承知<rt>しょうち</rt></ruby>
+"consent, knowledge",承知,<ruby>承知<rt>しょうち</rt></ruby>,Vocab 184
 "documents, papers",書類,<ruby>書類<rt>しょるい</rt></ruby>
 "weight, importance",重み,<ruby>重<rt>おも</rt></ruby>み
 "opening of a store, setting up",開店,<ruby>開店<rt>かいてん</rt></ruby>
@@ -2759,9 +2757,9 @@ classics,古典,<ruby>古典<rt>こてん</rt></ruby>
 "article, item",品,<ruby>品<rt>しな</rt></ruby>
 small quantity,少量,<ruby>少量<rt>しょうりょう</rt></ruby>
 "of course, obvious",当たり前,<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>
-"to be wild, to run waste",荒れる,<ruby>荒<rt>あ</rt></ruby>れる,Vocab 185
+"to be wild, to run waste",荒れる,<ruby>荒<rt>あ</rt></ruby>れる
 "account, finance",会計,<ruby>会計<rt>かいけい</rt></ruby>
-admiration,感心,<ruby>感心<rt>かんしん</rt></ruby>
+admiration,感心,<ruby>感心<rt>かんしん</rt></ruby>,Vocab 185
 "signboard, sign",看板,<ruby>看板<rt>かんばん</rt></ruby>
 "order, turn",順番,<ruby>順番<rt>じゅんばん</rt></ruby>
 "scholarship, fellowship",奨学金,<ruby>奨学金<rt>しょうがくきん</rt></ruby>
@@ -2774,9 +2772,9 @@ one's junior,後輩,<ruby>後輩<rt>こうはい</rt></ruby>
 "diplomatic relations, national friendship",国交,<ruby>国交<rt>こっこう</rt></ruby>
 "frequently, repeatedly","頻りに, しょっちゅう","<ruby>頻<rt>しき</rt></ruby>りに, しょっちゅう"
 speed per hour,時速,<ruby>時速<rt>じそく</rt></ruby>
-hydrogen,水素,<ruby>水素<rt>すいそ</rt></ruby>,Vocab 186
+hydrogen,水素,<ruby>水素<rt>すいそ</rt></ruby>
 "row, line",整列,<ruby>整列<rt>せいれつ</rt></ruby>
-"at a time, at once",一度に,<ruby>一度<rt>いちど</rt></ruby>に
+"at a time, at once",一度に,<ruby>一度<rt>いちど</rt></ruby>に,Vocab 186
 smoking,喫煙,<ruby>喫煙<rt>きつえん</rt></ruby>
 "healthy, sound",健全,<ruby>健全<rt>けんぜん</rt></ruby>
 "association, friendship",交際,<ruby>交際<rt>こうさい</rt></ruby>
@@ -2789,9 +2787,9 @@ acquaintance,知り合い,<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></
 to set afloat,浮かべる,<ruby>浮<rt>う</rt></ruby>かべる
 "vital, essential",肝心,<ruby>肝心<rt>かんじん</rt></ruby>
 "pains, efforts",苦心,<ruby>苦心<rt>くしん</rt></ruby>
-formal,形式的,<ruby>形式的<rt>けいしきてき</rt></ruby>,Vocab 187
+formal,形式的,<ruby>形式的<rt>けいしきてき</rt></ruby>
 "voucher, ticket",券,<ruby>券<rt>けん</rt></ruby>
-"strict, secure",厳重,<ruby>厳重<rt>げんじゅう</rt></ruby>
+"strict, secure",厳重,<ruby>厳重<rt>げんじゅう</rt></ruby>,Vocab 187
 developing a film,現像,<ruby>現像<rt>げんぞう</rt></ruby>
 national highway,国道,<ruby>国道<rt>こくどう</rt></ruby>
 "the streets, downtown",市街,<ruby>市街<rt>しがい</rt></ruby>
@@ -2804,9 +2802,9 @@ language study,語学,<ruby>語学<rt>ごがく</rt></ruby>
 new building,新築,<ruby>新築<rt>しんちく</rt></ruby>
 "dwelling, residence",住まい,<ruby>住<rt>す</rt></ruby>まい
 "to grudge, to regret",惜しむ,<ruby>惜<rt>お</rt></ruby>しむ
-"subject, department",学科,<ruby>学科<rt>がっか</rt></ruby>,Vocab 188
+"subject, department",学科,<ruby>学科<rt>がっか</rt></ruby>
 school term,学期,<ruby>学期<rt>がっき</rt></ruby>
-"muscle, sinews",筋肉,<ruby>筋肉<rt>きんにく</rt></ruby>
+"muscle, sinews",筋肉,<ruby>筋肉<rt>きんにく</rt></ruby>,Vocab 188
 "steep, craggy",険しい,<ruby>険<rt>けわ</rt></ruby>しい
 coach,コーチ,コーチ
 capitalism,資本主義,<ruby>資本主義<rt>しほんしゅぎ</rt></ruby>
@@ -2819,9 +2817,9 @@ advice,アドバイス,アドバイス
 aluminum,アルミニウム,アルミニウム
 "orchestra, orchestral music",オーケストラ,オーケストラ
 "viewing, enjoyment (of art)",鑑賞,<ruby>鑑賞<rt>かんしょう</rt></ruby>
-atmospheric pressure,気圧,<ruby>気圧<rt>きあつ</rt></ruby>,Vocab 189
+atmospheric pressure,気圧,<ruby>気圧<rt>きあつ</rt></ruby>
 "to become insane, to get out of order",狂う,<ruby>狂<rt>くる</rt></ruby>う
-"distress, suffering",苦しみ,<ruby>苦<rt>くる</rt></ruby>しみ
+"distress, suffering",苦しみ,<ruby>苦<rt>くる</rt></ruby>しみ,Vocab 189
 latter period,後期,<ruby>後期<rt>こうき</rt></ruby>
 "march, parade",行進,<ruby>行進<rt>こうしん</rt></ruby>
 "contest, competition",コンクール,コンクール
@@ -2834,9 +2832,9 @@ latter period,後期,<ruby>後期<rt>こうき</rt></ruby>
 "command, initiative",指揮,<ruby>指揮<rt>しき</rt></ruby>
 "pure, unmixed",純粋,<ruby>純粋<rt>じゅんすい</rt></ruby>
 "particle, postposition",助詞,<ruby>助詞<rt>じょし</rt></ruby>
-curiosity,好奇心,<ruby>好奇心<rt>こうきしん</rt></ruby>,Vocab 190
+curiosity,好奇心,<ruby>好奇心<rt>こうきしん</rt></ruby>
 "delay, traffic jam",渋滞,<ruby>渋滞<rt>じゅうたい</rt></ruby>
-"item, event",種目,<ruby>種目<rt>しゅもく</rt></ruby>
+"item, event",種目,<ruby>種目<rt>しゅもく</rt></ruby>,Vocab 190
 "trade, business",商売,<ruby>商売<rt>しょうばい</rt></ruby>
 close friend,親友,<ruby>親友<rt>しんゆう</rt></ruby>
 "major, specialization",専攻,<ruby>専攻<rt>せんこう</rt></ruby>
@@ -2849,9 +2847,9 @@ one hand,片手,<ruby>片手<rt>かたて</rt></ruby>
 "to clear, to become clear",澄む,<ruby>澄<rt>す</rt></ruby>む
 "previous term, last semester",前期,<ruby>前期<rt>ぜんき</rt></ruby>
 "bad, malignant",悪質,<ruby>悪質<rt>あくしつ</rt></ruby>
-"wild, reckless, harsh, rough",荒い,<ruby>荒<rt>あら</rt></ruby>い,Vocab 191
+"wild, reckless, harsh, rough",荒い,<ruby>荒<rt>あら</rt></ruby>い
 to have charge of,受け持つ,<ruby>受<rt>う</rt></ruby>け<ruby>持<rt>も</rt></ruby>つ
-to devote oneself,打ち込む,<ruby>打<rt>う</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>む
+to devote oneself,打ち込む,<ruby>打<rt>う</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>む,Vocab 191
 "chimney, smokestack",煙突,<ruby>煙突<rt>えんとつ</rt></ruby>
 outing,外出,<ruby>外出<rt>がいしゅつ</rt></ruby>
 kabuki,歌舞伎,<ruby>歌舞伎<rt>かぶき</rt></ruby>
@@ -2864,9 +2862,9 @@ practical,実用的,<ruby>実用的<rt>じつようてき</rt></ruby>
 "Islam, Muslim religion",イスラム教,イスラム<ruby>教<rt>きょう</rt></ruby>
 "quotation, citation",引用,<ruby>引用<rt>いんよう</rt></ruby>
 "rabbit, hare",ウサギ,ウサギ
-"to be taught, to learn",教わる,<ruby>教<rt>おそ</rt></ruby>わる,Vocab 192
+"to be taught, to learn",教わる,<ruby>教<rt>おそ</rt></ruby>わる
 external appearance,外観,<ruby>外観<rt>がいかん</rt></ruby>
-"interval, space",間隔,<ruby>間隔<rt>かんかく</rt></ruby>
+"interval, space",間隔,<ruby>間隔<rt>かんかく</rt></ruby>,Vocab 192
 "shore, bank",岸,<ruby>岸<rt>きし</rt></ruby>
 sports field,グラウンド,グラウンド
 "lodging, boarding house",下宿,<ruby>下宿<rt>げしゅく</rt></ruby>
@@ -2879,9 +2877,9 @@ blue sky,青空,<ruby>青空<rt>あおぞら</rt></ruby>
 to betray,裏切る,<ruby>裏切<rt>うらぎ</rt></ruby>る
 "English, English writing",英文,<ruby>英文<rt>えいぶん</rt></ruby>
 downstream,下流,<ruby>下流<rt>かりゅう</rt></ruby>
-"engineer, technician",技師,<ruby>技師<rt>ぎし</rt></ruby>,Vocab 193
+"engineer, technician",技師,<ruby>技師<rt>ぎし</rt></ruby>
 "culture, education",教養,<ruby>教養<rt>きょうよう</rt></ruby>
-"money, cash",金銭,<ruby>金銭<rt>きんせん</rt></ruby>
+"money, cash",金銭,<ruby>金銭<rt>きんせん</rt></ruby>,Vocab 193
 fur,毛皮,<ruby>毛皮<rt>けがわ</rt></ruby>
 "cutting edge, forefront",最先端,<ruby>最先端<rt>さいせんたん</rt></ruby>
 "completely, not at all",さっぱり,さっぱり
@@ -2894,9 +2892,9 @@ speaker,スピーカー,スピーカー
 "footprint, footmark",足跡,<ruby>足跡<rt>あしあと</rt></ruby>
 heavy rain,大雨,<ruby>大雨<rt>おおあめ</rt></ruby>
 "river mouth, estuary",河口,<ruby>河口<rt>かこう</rt></ruby>
-"originally, essentially",元来,<ruby>元来<rt>がんらい</rt></ruby>,Vocab 194
+"originally, essentially",元来,<ruby>元来<rt>がんらい</rt></ruby>
 "lighthearted, easy",気軽,<ruby>気軽<rt>きがる</rt></ruby>
-"to punctuate, to divide",区切る,<ruby>区切<rt>くぎ</rt></ruby>る
+"to punctuate, to divide",区切る,<ruby>区切<rt>くぎ</rt></ruby>る,Vocab 194
 "combination, assortment",組み合わせ,<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせ
 "lawn, turf",芝生,<ruby>芝生<rt>しばふ</rt></ruby>
 "deadline, time limit",締め切り,<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>り
@@ -2909,9 +2907,9 @@ karaoke,カラオケ,カラオケ
 "stealthily, secretly",こっそり,こっそり
 jogging,ジョギング,ジョギング
 "this and that, one thing or another",あれこれ,あれこれ
-"to reflect, to project",映す,<ruby>映<rt>うつ</rt></ruby>す,Vocab 195
+"to reflect, to project",映す,<ruby>映<rt>うつ</rt></ruby>す
 just about,およそ,およそ
-"plateau, highland",高原,<ruby>高原<rt>こうげん</rt></ruby>
+"plateau, highland",高原,<ruby>高原<rt>こうげん</rt></ruby>,Vocab 195
 "pocket money, spending money",小遣い,<ruby>小遣<rt>こづか</rt></ruby>い
 "circle, club",サークル,サークル
 "member of society, working person",社会人,<ruby>社会人<rt>しゃかいじん</rt></ruby>
@@ -2924,9 +2922,9 @@ just about,およそ,およそ
 "Christ, Christianity",キリスト,キリスト
 "lip, lips",唇,<ruby>唇<rt>くちびる</rt></ruby>
 monthly salary,月給,<ruby>月給<rt>げっきゅう</rt></ruby>
-composition,作曲,<ruby>作曲<rt>さっきょく</rt></ruby>,Vocab 196
+composition,作曲,<ruby>作曲<rt>さっきょく</rt></ruby>
 overtime,残業,<ruby>残業<rt>ざんぎょう</rt></ruby>
-"plainly, matter-of-factly",あっさり,あっさり
+"plainly, matter-of-factly",あっさり,あっさり,Vocab 196
 "meeting, arrangement",打ち合わせ,<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ
 "to weaken, to decline",衰える,<ruby>衰<rt>おとろ</rt></ruby>える
 "unexpected, accidental",思いがけない,<ruby>思<rt>おも</rt></ruby>いがけない
@@ -2939,9 +2937,9 @@ as soon as,次第,<ruby>次第<rt>しだい</rt></ruby>
 "to finish off, to get done with",済ませる,<ruby>済<rt>す</rt></ruby>ませる
 "hard, diligently",せっせと,せっせと
 busy,慌ただしい,<ruby>慌<rt>あわ</rt></ruby>ただしい
-"gloomy, dim",薄暗い,<ruby>薄暗<rt>うすぐら</rt></ruby>い,Vocab 197
+"gloomy, dim",薄暗い,<ruby>薄暗<rt>うすぐら</rt></ruby>い
 catalogue,カタログ,カタログ
-objective,客観的,<ruby>客観的<rt>きゃっかんてき</rt></ruby>
+objective,客観的,<ruby>客観的<rt>きゃっかんてき</rt></ruby>,Vocab 197
 "energy, vitality",気力,<ruby>気力<rt>きりょく</rt></ruby>
 county,郡,<ruby>郡<rt>ぐん</rt></ruby>
 old part of town,下町,<ruby>下町<rt>したまち</rt></ruby>
@@ -2954,9 +2952,9 @@ department of engineering,工学部,<ruby>工学部<rt>こうがくぶ</rt></rub
 "signature, autograph",サイン,サイン
 wheel,車輪,<ruby>車輪<rt>しゃりん</rt></ruby>
 "tableware, dinner set",食器,<ruby>食器<rt>しょっき</rt></ruby>
-"municipal, city",市立,<ruby>市立<rt>しりつ</rt></ruby>,Vocab 198
+"municipal, city",市立,<ruby>市立<rt>しりつ</rt></ruby>
 "to be worth, to deserve",値する,<ruby>値<rt>あたい</rt></ruby>する
-"great, mighty",偉大,<ruby>偉大<rt>いだい</rt></ruby>
+"great, mighty",偉大,<ruby>偉大<rt>いだい</rt></ruby>,Vocab 198
 "dropping out, renouncing rights",棄権,<ruby>棄権<rt>きけん</rt></ruby>
 surgery,外科,<ruby>外科<rt>げか</rt></ruby>
 "final, final game",決勝,<ruby>決勝<rt>けっしょう</rt></ruby>
@@ -2969,9 +2967,9 @@ intelligent,インテリ,インテリ
 "to assume, to believe",思い込む,<ruby>思<rt>おも</rt></ruby>い<ruby>込<rt>こ</rt></ruby>む
 "shellfish, shell",貝,<ruby>貝<rt>かい</rt></ruby>
 "fantasy, daydreams",空想,<ruby>空想<rt>くうそう</rt></ruby>
-"slope, incline",坂,<ruby>坂<rt>さか</rt></ruby>,Vocab 199
+"slope, incline",坂,<ruby>坂<rt>さか</rt></ruby>
 "to close, to fix a deadline",締め切る,<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>る
-"appearance on stage, performance",出演,<ruby>出演<rt>しゅつえん</rt></ruby>
+"appearance on stage, performance",出演,<ruby>出演<rt>しゅつえん</rt></ruby>,Vocab 199
 "to attack, to take the offensive",攻める,<ruby>攻<rt>せ</rt></ruby>める
 "one by one, in detail",いちいち,いちいち
 "part, portion",一部分,<ruby>一部分<rt>いちぶぶん</rt></ruby>
@@ -2984,9 +2982,9 @@ picture book,絵本,<ruby>絵本<rt>えほん</rt></ruby>
 application form,願書,<ruby>願書<rt>がんしょ</rt></ruby>
 "good fortune, good luck",幸運,<ruby>幸運<rt>こううん</rt></ruby>
 "marking, grading",採点,<ruby>採点<rt>さいてん</rt></ruby>
-"drawing room, Japanese-style room",座敷,<ruby>座敷<rt>ざしき</rt></ruby>,Vocab 200
+"drawing room, Japanese-style room",座敷,<ruby>座敷<rt>ざしき</rt></ruby>
 "master of ceremonies, host",司会,<ruby>司会<rt>しかい</rt></ruby>
-editorial,社説,<ruby>社説<rt>しゃせつ</rt></ruby>
+editorial,社説,<ruby>社説<rt>しゃせつ</rt></ruby>,Vocab 200
 medical examination,診察,<ruby>診察<rt>しんさつ</rt></ruby>
 strike,ストライキ,ストライキ
 to knit,編む,<ruby>編<rt>あ</rt></ruby>む
@@ -2999,9 +2997,9 @@ to knit,編む,<ruby>編<rt>あ</rt></ruby>む
 "refreshing, clear",爽やか,<ruby>爽<rt>さわ</rt></ruby>やか
 "example, instance",実例,<ruby>実例<rt>じつれい</rt></ruby>
 paper sliding-door,障子,<ruby>障子<rt>しょうじ</rt></ruby>
-"childcare, child-raising",育児,<ruby>育児<rt>いくじ</rt></ruby>,Vocab 201
+"childcare, child-raising",育児,<ruby>育児<rt>いくじ</rt></ruby>
 "to confide in, to reveal",打ち明ける,<ruby>打<rt>う</rt></ruby>ち<ruby>明<rt>あ</rt></ruby>ける
-"envious, envy",羨ましい,<ruby>羨<rt>うらや</rt></ruby>ましい
+"envious, envy",羨ましい,<ruby>羨<rt>うらや</rt></ruby>ましい,Vocab 201
 "fortune, fate",運,<ruby>運<rt>うん</rt></ruby>
 "presence of mind, composure",落ち着き,<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>き
 "fee, membership fee",会費,<ruby>会費<rt>かいひ</rt></ruby>
@@ -3014,9 +3012,9 @@ adjective,形容詞,<ruby>形容詞<rt>けいようし</rt></ruby>
 "autumn leaves, crimson foliage",紅葉,<ruby>紅葉<rt>こうよう</rt></ruby>
 "fire fighting, fire prevention",消防,<ruby>消防<rt>しょうぼう</rt></ruby>
 appetite,食欲,<ruby>食欲<rt>しょくよく</rt></ruby>
-gentleman,紳士,<ruby>紳士<rt>しんし</rt></ruby>,Vocab 202
+gentleman,紳士,<ruby>紳士<rt>しんし</rt></ruby>
 "sandy beach, sands",砂浜,<ruby>砂浜<rt>すなはま</rt></ruby>
-"abuse, misuse",悪用,<ruby>悪用<rt>あくよう</rt></ruby>
+"abuse, misuse",悪用,<ruby>悪用<rt>あくよう</rt></ruby>,Vocab 202
 "game of ""go""",囲碁,<ruby>囲碁<rt>いご</rt></ruby>
 "to surprise, to amaze",驚かす,<ruby>驚<rt>おどろ</rt></ruby>かす
 thumb,親指,<ruby>親指<rt>おやゆび</rt></ruby>
@@ -3029,9 +3027,9 @@ frog,かえる,かえる
 "to work, to function",利く,<ruby>利<rt>き</rt></ruby>く
 "date, due date",期日,<ruby>期日<rt>きじつ</rt></ruby>
 Communism,共産主義,<ruby>共産主義<rt>きょうさんしゅぎ</rt></ruby>
-"to torment, to trouble",苦しめる,<ruby>苦<rt>くる</rt></ruby>しめる,Vocab 203
+"to torment, to trouble",苦しめる,<ruby>苦<rt>くる</rt></ruby>しめる
 prefectural,県立,<ruby>県立<rt>けんりつ</rt></ruby>
-"fracture, broken bone",骨折,<ruby>骨折<rt>こっせつ</rt></ruby>
+"fracture, broken bone",骨折,<ruby>骨折<rt>こっせつ</rt></ruby>,Vocab 203
 "to roll over, to tumble",転がる,<ruby>転<rt>ころ</rt></ruby>がる
 attendance at school,在学,<ruby>在学<rt>ざいがく</rt></ruby>
 humidity,湿度,<ruby>湿度<rt>しつど</rt></ruby>
@@ -3044,9 +3042,9 @@ to be fed up,飽きる,<ruby>飽<rt>あ</rt></ruby>きる
 "to feel pain, to hurt",痛む,<ruby>痛<rt>いた</rt></ruby>む
 about this time,今ごろ,<ruby>今<rt>いま</rt></ruby>ごろ
 "hygiene, sanitation",衛生,<ruby>衛生<rt>えいせい</rt></ruby>
-indirect,間接,<ruby>間接<rt>かんせつ</rt></ruby>,Vocab 204
+indirect,間接,<ruby>間接<rt>かんせつ</rt></ruby>
 "to give, to favor with",下さる,<ruby>下<rt>くだ</rt></ruby>さる
-"love, romance",恋,<ruby>恋<rt>こい</rt></ruby>
+"love, romance",恋,<ruby>恋<rt>こい</rt></ruby>,Vocab 204
 "intimacy, familiarity",親しみ,<ruby>親<rt>した</rt></ruby>しみ
 "to off track, to out of line",ずれる,ずれる
 equator,赤道,<ruby>赤道<rt>せきどう</rt></ruby>
@@ -3059,9 +3057,9 @@ heavy snow,大雪,<ruby>大雪<rt>おおゆき</rt></ruby>
 "provisional, temporary",仮,<ruby>仮<rt>かり</rt></ruby>
 "to wither, to die",枯れる,<ruby>枯<rt>か</rt></ruby>れる
 prefectural office,県庁,<ruby>県庁<rt>けんちょう</rt></ruby>
-"defense, fielding",守備,<ruby>守備<rt>しゅび</rt></ruby>,Vocab 205
+"defense, fielding",守備,<ruby>守備<rt>しゅび</rt></ruby>
 early summer,初夏,<ruby>初夏<rt>しょか</rt></ruby>
-"justice, righteousness",正義,<ruby>正義<rt>せいぎ</rt></ruby>
+"justice, righteousness",正義,<ruby>正義<rt>せいぎ</rt></ruby>,Vocab 205
 "to stick, to cling",くっ付く,くっ<ruby>付<rt>つ</rt></ruby>く
 morning sun,朝日,<ruby>朝日<rt>あさひ</rt></ruby>
 "clothing, garments",衣料,<ruby>衣料<rt>いりょう</rt></ruby>
@@ -3074,9 +3072,9 @@ chrysanthemum,菊,<ruby>菊<rt>きく</rt></ruby>
 "habit, mannerism",癖,<ruby>癖<rt>くせ</rt></ruby>
 "to crush, to smash",砕く,<ruby>砕<rt>くだ</rt></ruby>く
 "to disobey, to go against",逆らう,<ruby>逆<rt>さか</rt></ruby>らう
-"fat, grease","脂肪, 脂","<ruby>脂肪<rt>しぼう</rt></ruby>, <ruby>脂<rt>あぶら</rt></ruby>",Vocab 206
+"fat, grease","脂肪, 脂","<ruby>脂肪<rt>しぼう</rt></ruby>, <ruby>脂<rt>あぶら</rt></ruby>"
 "table lamp, desk lamp",スタンド,スタンド
-eternity,永遠,<ruby>永遠<rt>えいえん</rt></ruby>
+eternity,永遠,<ruby>永遠<rt>えいえん</rt></ruby>,Vocab 206
 "ornament, decoration",飾り,<ruby>飾<rt>かざ</rt></ruby>り
 fluorescent lamp,蛍光灯,<ruby>蛍光灯<rt>けいこうとう</rt></ruby>
 diarrhea,下痢,<ruby>下痢<rt>げり</rt></ruby>
@@ -3089,24 +3087,24 @@ feel disappointed,がっかり,がっかり
 airplane captain,機長,<ruby>機長<rt>きちょう</rt></ruby>
 golden color,金色,<ruby>金色<rt>きんいろ</rt></ruby>
 wheelchair,車椅子,<ruby>車椅子<rt>くるまいす</rt></ruby>
-"estimate, aim",見当,<ruby>見当<rt>けんとう</rt></ruby>,Vocab 207
+"estimate, aim",見当,<ruby>見当<rt>けんとう</rt></ruby>
 affirmation,肯定,<ruby>肯定<rt>こうてい</rt></ruby>
-"effect, validity",効力,<ruby>効力<rt>こうりょく</rt></ruby>
+"effect, validity",効力,<ruby>効力<rt>こうりょく</rt></ruby>,Vocab 207
 "wording, language",言葉遣い,<ruby>言葉遣<rt>ことばづか</rt></ruby>い
 slide,スライド,スライド
 "sincerity, honesty",誠実,<ruby>誠実<rt>せいじつ</rt></ruby>
 "main gate, main entrance",正門,<ruby>正門<rt>せいもん</rt></ruby>
 "forefather, ancestor",先祖,<ruby>先祖<rt>せんぞ</rt></ruby>
 unexpectedly,案外,<ruby>案外<rt>あんがい</rt></ruby>
-to say,おっしゃる,おっしゃる
+"to utter, to express","おっしゃる, 言い表わす","おっしゃる, <ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あら</rt></ruby>わす"
 "classical music, the classics",クラシック,クラシック
 "sewerage, drainage",下水,<ruby>下水<rt>げすい</rt></ruby>
 "manuscript paper, writing pad",原稿用紙,<ruby>原稿用紙<rt>げんこうようし</rt></ruby>
 national expenditure,国費,<ruby>国費<rt>こくひ</rt></ruby>
 "amusement, pastime",娯楽,<ruby>娯楽<rt>ごらく</rt></ruby>
-"timber, wood",材木,<ruby>材木<rt>ざいもく</rt></ruby>,Vocab 208
+"timber, wood",材木,<ruby>材木<rt>ざいもく</rt></ruby>
 "quickly, suddenly",さっと,さっと
-next time,次回,<ruby>次回<rt>じかい</rt></ruby>
+next time,次回,<ruby>次回<rt>じかい</rt></ruby>,Vocab 208
 cough,咳,<ruby>咳<rt>せき</rt></ruby>
 sound of footsteps,足音,<ruby>足音<rt>あしおと</rt></ruby>
 "to be renewed, to change",改まる,<ruby>改<rt>あらた</rt></ruby>まる
@@ -3119,9 +3117,9 @@ tail,尾,<ruby>尾<rt>お</rt></ruby>
 "stubborn, obstinate",頑固,<ruby>頑固<rt>がんこ</rt></ruby>
 "silk, silk fabrics",絹,<ruby>絹<rt>きぬ</rt></ruby>
 stem,茎,<ruby>茎<rt>くき</rt></ruby>
-"light, cheerful",軽快,<ruby>軽快<rt>けいかい</rt></ruby>,Vocab 209
+"light, cheerful",軽快,<ruby>軽快<rt>けいかい</rt></ruby>
 "hell, inferno",地獄,<ruby>地獄<rt>じごく</rt></ruby>
-"bitter, astringent",渋い,<ruby>渋<rt>しぶ</rt></ruby>い
+"bitter, astringent",渋い,<ruby>渋<rt>しぶ</rt></ruby>い,Vocab 209
 "progress, proficiency",上達,<ruby>上達<rt>じょうたつ</rt></ruby>
 "disinfection, sterilization",消毒,<ruby>消毒<rt>しょうどく</rt></ruby>
 victory or defeat,勝敗,<ruby>勝敗<rt>しょうはい</rt></ruby>
@@ -3134,9 +3132,9 @@ cancellation,キャンセル,キャンセル
 perfume,香水,<ruby>香水<rt>こうすい</rt></ruby>
 sheet,シーツ,シーツ
 "car shed, garage",車庫,<ruby>車庫<rt>しゃこ</rt></ruby>
-"House of Representatives, Lower House",衆議院,<ruby>衆議院<rt>しゅうぎいん</rt></ruby>,Vocab 210
+"House of Representatives, Lower House",衆議院,<ruby>衆議院<rt>しゅうぎいん</rt></ruby>
 receiver,受話器,<ruby>受話器<rt>じゅわき</rt></ruby>
-"order, rank",順位,<ruby>順位<rt>じゅんい</rt></ruby>
+"order, rank",順位,<ruby>順位<rt>じゅんい</rt></ruby>,Vocab 210
 black ink,墨,<ruby>墨<rt>すみ</rt></ruby>
 "to depend on, to take advantage of",甘える,<ruby>甘<rt>あま</rt></ruby>える
 flower arrangement,生け花,<ruby>生<rt>い</rt></ruby>け<ruby>花<rt>ばな</rt></ruby>
@@ -3149,9 +3147,9 @@ north wind,北風,<ruby>北風<rt>きたかぜ</rt></ruby>
 "rest, recreation",休養,<ruby>休養<rt>きゅうよう</rt></ruby>
 "spectator, sightseer",見物人,<ruby>見物人<rt>けんぶつにん</rt></ruby>
 "cook, chef",コック,コック
-"chat, idle talk",雑談,<ruby>雑談<rt>ざつだん</rt></ruby>,Vocab 211
+"chat, idle talk",雑談,<ruby>雑談<rt>ざつだん</rt></ruby>
 chill,寒気,<ruby>寒気<rt>さむけ</rt></ruby>
-cooking,炊事,<ruby>炊事<rt>すいじ</rt></ruby>
+cooking,炊事,<ruby>炊事<rt>すいじ</rt></ruby>,Vocab 211
 "sleep, slumber",睡眠,<ruby>睡眠<rt>すいみん</rt></ruby>
 "dawn, near daybreak",明け方,<ruby>明<rt>あ</rt></ruby>け<ruby>方<rt>がた</rt></ruby>
 "to act violently, to rage about",暴れる,<ruby>暴<rt>あば</rt></ruby>れる
@@ -3164,9 +3162,9 @@ hardness,硬さ,<ruby>硬<rt>かた</rt></ruby>さ
 "pleasant, agreeable",快い,<ruby>快<rt>こころよ</rt></ruby>い
 "best, highest",最上,<ruby>最上<rt>さいじょう</rt></ruby>
 jeans,ジーパン,ジーパン
-"arrangement, preparation",支度,<ruby>支度<rt>したく</rt></ruby>,Vocab 212
+"arrangement, preparation",支度,<ruby>支度<rt>したく</rt></ruby>
 journalism,ジャーナリズム,ジャーナリズム
-"food expenses, board",食費,<ruby>食費<rt>しょくひ</rt></ruby>
+"food expenses, board",食費,<ruby>食費<rt>しょくひ</rt></ruby>,Vocab 212
 newlywed,新婚,<ruby>新婚<rt>しんこん</rt></ruby>
 speech,スピーチ,スピーチ
 "sex, gender",性別,<ruby>性別<rt>せいべつ</rt></ruby>
@@ -3179,9 +3177,9 @@ one side,"片側, 片方","<ruby>片側<rt>かたがわ</rt></ruby>, <ruby>片�
 "to shoulder, to carry",担ぐ,<ruby>担<rt>かつ</rt></ruby>ぐ
 "pattern, design",柄,<ruby>柄<rt>がら</rt></ruby>
 "nursing, nursing care",看病,<ruby>看病<rt>かんびょう</rt></ruby>
-"easygoing, comfortable",気楽,<ruby>気楽<rt>きらく</rt></ruby>,Vocab 213
+"easygoing, comfortable",気楽,<ruby>気楽<rt>きらく</rt></ruby>
 "labor, work",勤労,<ruby>勤労<rt>きんろう</rt></ruby>
-ward office,区役所,<ruby>区役所<rt>くやくしょ</rt></ruby>
+ward office,区役所,<ruby>区役所<rt>くやくしょ</rt></ruby>,Vocab 213
 "commercial, advertising",コマーシャル,コマーシャル
 "to stick, to be stuck",刺さる,<ruby>刺<rt>さ</rt></ruby>さる
 "city outskirts, suburbs",市外,<ruby>市外<rt>しがい</rt></ruby>
@@ -3194,9 +3192,9 @@ Japanese calligraphy,書道,<ruby>書道<rt>しょどう</rt></ruby>
 "to be flurried, to hurry",慌てる,<ruby>慌<rt>あわ</rt></ruby>てる
 "everybody, all",一同,<ruby>一同<rt>いちどう</rt></ruby>
 singing voice,歌声,<ruby>歌声<rt>うたごえ</rt></ruby>
-fallen leaves,落ち葉,<ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>ば</rt></ruby>,Vocab 214
+fallen leaves,落ち葉,<ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>ば</rt></ruby>
 "belt, sash",帯,<ruby>帯<rt>おび</rt></ruby>
-"boldly, decisively",思い切って,<ruby>思<rt>おも</rt></ruby>い<ruby>切<rt>き</rt></ruby>って
+"boldly, decisively",思い切って,<ruby>思<rt>おも</rt></ruby>い<ruby>切<rt>き</rt></ruby>って,Vocab 214
 "sense, intuition",勘,<ruby>勘<rt>かん</rt></ruby>
 "notice, bulletin",掲示,<ruby>掲示<rt>けいじ</rt></ruby>
 "woolen yarn, wool",毛糸,<ruby>毛糸<rt>けいと</rt></ruby>
@@ -3209,9 +3207,9 @@ train conductor,車掌,<ruby>車掌<rt>しゃしょう</rt></ruby>
 aquarium,水族館,<ruby>水族館<rt>すいぞくかん</rt></ruby>
 "method, logic",筋道,<ruby>筋道<rt>すじみち</rt></ruby>
 "lovely, nice",素敵,<ruby>素敵<rt>すてき</rt></ruby>
-"to settle, to complete",済ます,<ruby>済<rt>す</rt></ruby>ます,Vocab 215
+"to settle, to complete",済ます,<ruby>済<rt>す</rt></ruby>ます
 date of birth,生年月日,<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>
-"to express in different words, to paraphrase",言い換える,<ruby>言<rt>い</rt></ruby>い<ruby>換<rt>か</rt></ruby>える
+"to express in different words, to paraphrase",言い換える,<ruby>言<rt>い</rt></ruby>い<ruby>換<rt>か</rt></ruby>える,Vocab 215
 "irresponsible, half-baked",いい加減,いい<ruby>加減<rt>かげん</rt></ruby>
 "doubtful, questionable",疑わしい,<ruby>疑<rt>うたが</rt></ruby>わしい
 "vessel, dish",器,<ruby>器<rt>うつわ</rt></ruby>
@@ -3224,9 +3222,9 @@ cabbage,キャベツ,キャベツ
 plants and flowers,草花,<ruby>草花<rt>くさばな</rt></ruby>
 "by turns, alternatively",交互,<ruby>交互<rt>こうご</rt></ruby>
 "lecture hall, auditorium",講堂,<ruby>講堂<rt>こうどう</rt></ruby>
-flour,小麦粉,<ruby>小麦粉<rt>こむぎこ</rt></ruby>,Vocab 216
+flour,小麦粉,<ruby>小麦粉<rt>こむぎこ</rt></ruby>
 "dark blue, navy blue",紺,<ruby>紺<rt>こん</rt></ruby>
-dentistry,歯科,<ruby>歯科<rt>しか</rt></ruby>
+dentistry,歯科,<ruby>歯科<rt>しか</rt></ruby>,Vocab 216
 time difference,時差,<ruby>時差<rt>じさ</rt></ruby>
 "run out, sell out",品切れ,<ruby>品切<rt>しなぎ</rt></ruby>れ
 "prize, trophy",賞品,<ruby>賞品<rt>しょうひん</rt></ruby>
@@ -3239,9 +3237,9 @@ time difference,時差,<ruby>時差<rt>じさ</rt></ruby>
 "to make fun of, to tease",からかう,からかう
 change of clothes,着替え,<ruby>着替<rt>きが</rt></ruby>え
 "distance, journey",行程,<ruby>行程<rt>こうてい</rt></ruby>
-drizzle,小雨,<ruby>小雨<rt>こさめ</rt></ruby>,Vocab 217
+drizzle,小雨,<ruby>小雨<rt>こさめ</rt></ruby>
 know,ご存じ,ご<ruby>存<rt>ぞん</rt></ruby>じ
-"shout, cry",叫び,<ruby>叫<rt>さけ</rt></ruby>び
+"shout, cry",叫び,<ruby>叫<rt>さけ</rt></ruby>び,Vocab 217
 city,市,<ruby>市<rt>し</rt></ruby>
 private expense,私費,<ruby>私費<rt>しひ</rt></ruby>
 published weekly,週刊,<ruby>週刊<rt>しゅうかん</rt></ruby>
@@ -3254,9 +3252,9 @@ seismic intensity,震度,<ruby>震度<rt>しんど</rt></ruby>
 "as feared, sure enough",案の定,<ruby>案<rt>あん</rt></ruby>の<ruby>定<rt>じょう</rt></ruby>
 to pass,受かる,<ruby>受<rt>う</rt></ruby>かる
 facing backward,後ろ向き,<ruby>後<rt>うし</rt></ruby>ろ<ruby>向<rt>む</rt></ruby>き
-in a great hurry,大急ぎ,<ruby>大急<rt>おおいそ</rt></ruby>ぎ,Vocab 218
+in a great hurry,大急ぎ,<ruby>大急<rt>おおいそ</rt></ruby>ぎ
 "to get up, to rise",起き上がる,<ruby>起<rt>お</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がる
-"to send home, to see out",帰す,<ruby>帰<rt>かえ</rt></ruby>す
+"to send home, to see out",帰す,<ruby>帰<rt>かえ</rt></ruby>す,Vocab 218
 "loan, renting",貸し,<ruby>貸<rt>か</rt></ruby>し
 making money,金もうけ,<ruby>金<rt>かね</rt></ruby>もうけ
 joint,関節,<ruby>関節<rt>かんせつ</rt></ruby>
@@ -3269,9 +3267,9 @@ natural science,自然科学,<ruby>自然科学<rt>しぜんかがく</rt></ruby
 servant,使用人,<ruby>使用人<rt>しようにん</rt></ruby>
 pearl,真珠,<ruby>真珠<rt>しんじゅ</rt></ruby>
 youngest child,末っ子,<ruby>末<rt>すえ</rt></ruby>っ<ruby>子<rt>こ</rt></ruby>
-refreshed,すっきり,すっきり,Vocab 219
+refreshed,すっきり,すっきり
 "right answer, correct solution",正解,<ruby>正解<rt>せいかい</rt></ruby>
-"to narrow, to contract",狭める,<ruby>狭<rt>せば</rt></ruby>める
+"to narrow, to contract",狭める,<ruby>狭<rt>せば</rt></ruby>める,Vocab 219
 to deep-fry,揚げる,<ruby>揚<rt>あ</rt></ruby>げる
 "apology, excuse",言い訳,<ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>
 opposite sex,異性,<ruby>異性<rt>いせい</rt></ruby>
@@ -3284,9 +3282,9 @@ sea bathing,海水浴,<ruby>海水浴<rt>かいすいよく</rt></ruby>
 "effect, efficacy",効き目,<ruby>効<rt>き</rt></ruby>き<ruby>目<rt>め</rt></ruby>
 "mood, health",機嫌,<ruby>機嫌<rt>きげん</rt></ruby>
 "waste, scraps",屑,<ruby>屑<rt>くず</rt></ruby>
-"calendar, almanac",暦,<ruby>暦<rt>こよみ</rt></ruby>,Vocab 220
+"calendar, almanac",暦,<ruby>暦<rt>こよみ</rt></ruby>
 to open (an umbrella),差す,<ruby>差<rt>さ</rt></ruby>す
-lingering summer heat,残暑,<ruby>残暑<rt>ざんしょ</rt></ruby>
+lingering summer heat,残暑,<ruby>残暑<rt>ざんしょ</rt></ruby>,Vocab 220
 "railway ticket, bus ticket",乗車券,<ruby>乗車券<rt>じょうしゃけん</rt></ruby>
 "white hair, gray hair",白髪,<ruby>白髪<rt>しらが</rt></ruby>
 "settlement of accounts, adjustment",精算,<ruby>精算<rt>せいさん</rt></ruby>
@@ -3299,9 +3297,9 @@ to politely ask,伺う,<ruby>伺<rt>うかが</rt></ruby>う
 plum blossom,梅,<ruby>梅<rt>うめ</rt></ruby>
 "back door, kitchen door",裏口,<ruby>裏口<rt>うらぐち</rt></ruby>
 stationmaster,駅長,<ruby>駅長<rt>えきちょう</rt></ruby>
-New Year's gift,お年玉,お<ruby>年玉<rt>としだま</rt></ruby>,Vocab 221
+New Year's gift,お年玉,お<ruby>年玉<rt>としだま</rt></ruby>
 "harm, damage",害,<ruby>害<rt>がい</rt></ruby>
-"turtle, tortoise",亀,<ruby>亀<rt>かめ</rt></ruby>
+"turtle, tortoise",亀,<ruby>亀<rt>かめ</rt></ruby>,Vocab 221
 "sense of duty, justice",義理,<ruby>義理<rt>ぎり</rt></ruby>
 Japanese pronunciation,訓読み,<ruby>訓読<rt>くんよ</rt></ruby>み
 "contempt, disdain",軽蔑,<ruby>軽蔑<rt>けいべつ</rt></ruby>
@@ -3314,9 +3312,9 @@ jump,ジャンプ,ジャンプ
 "period, menstruation",生理,<ruby>生理<rt>せいり</rt></ruby>
 "pale, pallid",青白い,<ruby>青白<rt>あおじろ</rt></ruby>い
 "evil, badness",悪,<ruby>悪<rt>あく</rt></ruby>
-"all over, here and there",あちらこちら,あちらこちら,Vocab 222
+"all over, here and there",あちらこちら,あちらこちら
 "turning back, retreat",後戻り,<ruby>後戻<rt>あともど</rt></ruby>り
-clothing and food and housing,衣食住,<ruby>衣食住<rt>いしょくじゅう</rt></ruby>
+clothing and food and housing,衣食住,<ruby>衣食住<rt>いしょくじゅう</rt></ruby>,Vocab 222
 "to damage, to spoil",傷める,<ruby>傷<rt>いた</rt></ruby>める
 before it is noticed,いつのまにか,いつのまにか
 at any moment,今にも,<ruby>今<rt>いま</rt></ruby>にも
@@ -3329,9 +3327,9 @@ fair and clear weather,快晴,<ruby>快晴<rt>かいせい</rt></ruby>
 "persimmon, persimmon tree",柿,<ruby>柿<rt>かき</rt></ruby>
 "environment, surroundings",環境,<ruby>環境<rt>かんきょう</rt></ruby>
 "listening comprehension, dictation",聞き取り,<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>り
-"article of value, valuables",貴重品,<ruby>貴重品<rt>きちょうひん</rt></ruby>,Vocab 223
+"article of value, valuables",貴重品,<ruby>貴重品<rt>きちょうひん</rt></ruby>
 "tight, cramped",窮屈,<ruby>窮屈<rt>きゅうくつ</rt></ruby>
-"rest, break",休息,<ruby>休息<rt>きゅうそく</rt></ruby>
+"rest, break",休息,<ruby>休息<rt>きゅうそく</rt></ruby>,Vocab 223
 "to bear in mind, to try",心掛ける,<ruby>心掛<rt>こころが</rt></ruby>ける
 "helpless, lonely",心細い,<ruby>心細<rt>こころぼそ</rt></ruby>い
 rumble,ごろごろ,ごろごろ
@@ -3344,9 +3342,9 @@ to be transparent,透き通る,<ruby>透<rt>す</rt></ruby>き<ruby>通<rt>と�
 square,正方形,<ruby>正方形<rt>せいほうけい</rt></ruby>
 Westerner,西洋人,<ruby>西洋人<rt>せいようじん</rt></ruby>
 ankle,足首,<ruby>足首<rt>あしくび</rt></ruby>
-"to thin, to dilute",薄める,<ruby>薄<rt>うす</rt></ruby>める,Vocab 224
+"to thin, to dilute",薄める,<ruby>薄<rt>うす</rt></ruby>める
 "handle, grip",柄,<ruby>柄<rt>え</rt></ruby>
-"turn over, turn inside out",裏返し,<ruby>裏返<rt>うらがえ</rt></ruby>し
+"turn over, turn inside out",裏返し,<ruby>裏返<rt>うらがえ</rt></ruby>し,Vocab 224
 "helper, assistant",お手伝い,お<ruby>手伝<rt>てつだ</rt></ruby>い
 kiss,キス,キス
 "old, former",旧,<ruby>旧<rt>きゅう</rt></ruby>
@@ -3359,9 +3357,9 @@ kiss,キス,キス
 "to become quiet, to calm down",静まる,<ruby>静<rt>しず</rt></ruby>まる
 "clerk, clerical staff",事務員,<ruby>事務員<rt>じむいん</rt></ruby>
 "first-class, premium",上等,<ruby>上等<rt>じょうとう</rt></ruby>
-shopping,ショッピング,ショッピング,Vocab 225
+shopping,ショッピング,ショッピング
 Shinto,神道,<ruby>神道<rt>しんとう</rt></ruby>
-"flushing, washing",水洗,<ruby>水洗<rt>すいせん</rt></ruby>
+"flushing, washing",水洗,<ruby>水洗<rt>すいせん</rt></ruby>,Vocab 225
 "sophisticated, skillful",スマート,スマート
 line up neatly,ずらり,ずらり
 Milky Way,天の川,<ruby>天<rt>あま</rt></ruby>の<ruby>川<rt>がわ</rt></ruby>
@@ -3374,9 +3372,9 @@ guard rail,ガード,ガード
 cliff,崖,<ruby>崖<rt>がけ</rt></ruby>
 pumpkin,かぼちゃ,かぼちゃ
 empty,空っぽ,<ruby>空<rt>から</rt></ruby>っぽ
-"listener, audience",聞き手,<ruby>聞<rt>き</rt></ruby>き<ruby>手<rt>て</rt></ruby>,Vocab 226
+"listener, audience",聞き手,<ruby>聞<rt>き</rt></ruby>き<ruby>手<rt>て</rt></ruby>
 "miracle, wonder",奇跡,<ruby>奇跡<rt>きせき</rt></ruby>
-"nearsightedness, shortsightedness","近視, 近眼","<ruby>近視<rt>きんし</rt></ruby>, <ruby>近眼<rt>きんがん</rt></ruby>"
+"nearsightedness, shortsightedness","近視, 近眼","<ruby>近視<rt>きんし</rt></ruby>, <ruby>近眼<rt>きんがん</rt></ruby>",Vocab 226
 "quiz, quiz show",クイズ,クイズ
 cream,クリーム,クリーム
 round and round,ぐるぐる,ぐるぐる
@@ -3389,9 +3387,9 @@ sunglasses,サングラス,サングラス
 "from beginning to end, at all times",始終,<ruby>始終<rt>しじゅう</rt></ruby>
 fire extinguisher,消火器,<ruby>消火器<rt>しょうかき</rt></ruby>
 pediatrics,小児科,<ruby>小児科<rt>しょうにか</rt></ruby>
-humanities,人文科学,<ruby>人文科学<rt>じんぶんかがく</rt></ruby>,Vocab 227
+humanities,人文科学,<ruby>人文科学<rt>じんぶんかがく</rt></ruby>
 "deferment, postponement",後回し,<ruby>後回<rt>あとまわ</rt></ruby>し
-"to put on airs, to be arrogant",威張る,<ruby>威張<rt>いば</rt></ruby>る
+"to put on airs, to be arrogant",威張る,<ruby>威張<rt>いば</rt></ruby>る,Vocab 227
 barley,大麦,<ruby>大麦<rt>おおむぎ</rt></ruby>
 "to threaten, to intimidate",脅かす,<ruby>脅<rt>おど</rt></ruby>かす
 "you, darling",お前,お<ruby>前<rt>まえ</rt></ruby>
@@ -3404,9 +3402,9 @@ exactly,きっちり,きっちり
 cucumber,きゅうり,きゅうり
 "common language, lingua franca",共通語,<ruby>共通語<rt>きょうつうご</rt></ruby>
 plants and trees,草木,<ruby>草木<rt>くさき</rt></ruby>
-cold wintry wind,木枯らし,<ruby>木枯<rt>こが</rt></ruby>らし,Vocab 228
+cold wintry wind,木枯らし,<ruby>木枯<rt>こが</rt></ruby>らし
 to sit down,腰掛ける,<ruby>腰掛<rt>こしか</rt></ruby>ける
-"calamity, misfortune",災難,<ruby>災難<rt>さいなん</rt></ruby>
+"calamity, misfortune",災難,<ruby>災難<rt>さいなん</rt></ruby>,Vocab 228
 "reverse, inversion",逆さ,<ruby>逆<rt>さか</rt></ruby>さ
 mountain range,山脈,<ruby>山脈<rt>さんみゃく</rt></ruby>
 first departure,始発,<ruby>始発<rt>しはつ</rt></ruby>
@@ -3419,9 +3417,9 @@ to suspect,怪しむ,<ruby>怪<rt>あや</rt></ruby>しむ
 wander,うろうろ,うろうろ
 "compliment, flattery",お世辞,お<ruby>世辞<rt>せじ</rt></ruby>
 visiting a shrine or temple,お参り,お<ruby>参<rt>まい</rt></ruby>り
-free gift,おまけ,おまけ,Vocab 229
+free gift,おまけ,おまけ
 ticket gate,改札,<ruby>改札<rt>かいさつ</rt></ruby>
-ocean current,海流,<ruby>海流<rt>かいりゅう</rt></ruby>
+ocean current,海流,<ruby>海流<rt>かいりゅう</rt></ruby>,Vocab 229
 to scratch,掻く,<ruby>掻<rt>か</rt></ruby>く
 ophthalmology,眼科,<ruby>眼科<rt>がんか</rt></ruby>
 comedy,喜劇,<ruby>喜劇<rt>きげき</rt></ruby>
@@ -3434,9 +3432,9 @@ last train,終電,<ruby>終電<rt>しゅうでん</rt></ruby>
 slow speed,徐行,<ruby>徐行<rt>じょこう</rt></ruby>
 sparrow,雀,<ruby>雀<rt>すずめ</rt></ruby>
 "cunning, sneaky",ずるい,ずるい
-impatient,せっかち,せっかち,Vocab 230
+impatient,せっかち,せっかち
 autumn breeze,秋風,<ruby>秋風<rt>あきかぜ</rt></ruby>
-"welcome, grateful",有り難い,<ruby>有<rt>あ</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い
+"welcome, grateful",有り難い,<ruby>有<rt>あ</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い,Vocab 230
 stomach and intestines,胃腸,<ruby>胃腸<rt>いちょう</rt></ruby>
 "passiveness, passive voice",受け身,<ruby>受<rt>う</rt></ruby>け<ruby>身<rt>み</rt></ruby>
 round paper fan,うちわ,うちわ
@@ -3449,9 +3447,9 @@ sudden illness,急病,<ruby>急病<rt>きゅうびょう</rt></ruby>
 "rash, light-headed",軽率,<ruby>軽率<rt>けいそつ</rt></ruby>
 "humility, modesty",謙遜,<ruby>謙遜<rt>けんそん</rt></ruby>
 "excursion, outing",行楽,<ruby>行楽<rt>こうらく</rt></ruby>
-hourly wage,時給,<ruby>時給<rt>じきゅう</rt></ruby>,Vocab 231
+hourly wage,時給,<ruby>時給<rt>じきゅう</rt></ruby>
 crossroads,十字路,<ruby>十字路<rt>じゅうじろ</rt></ruby>
-"private business, private use",私用,<ruby>私用<rt>しよう</rt></ruby>
+"private business, private use",私用,<ruby>私用<rt>しよう</rt></ruby>,Vocab 231
 "first steps, beginning",初歩,<ruby>初歩<rt>しょほ</rt></ruby>
 vinegar,酢,<ruby>酢<rt>す</rt></ruby>
 "waterpower, hydraulic power",水力,<ruby>水力<rt>すいりょく</rt></ruby>
@@ -3464,9 +3462,9 @@ snoring,いびき,いびき
 "disgusting, nasty",いやらしい,いやらしい
 intonation,イントネーション,イントネーション
 "to arrange, to discuss",打ち合わせる,<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせる
-rainy weather,雨天,<ruby>雨天<rt>うてん</rt></ruby>,Vocab 232
+rainy weather,雨天,<ruby>雨天<rt>うてん</rt></ruby>
 "married woman, someone's wife",奥様,<ruby>奥様<rt>おくさま</rt></ruby>
-"gallop, run",駆け足,<ruby>駆<rt>か</rt></ruby>け<ruby>足<rt>あし</rt></ruby>
+"gallop, run",駆け足,<ruby>駆<rt>か</rt></ruby>け<ruby>足<rt>あし</rt></ruby>,Vocab 232
 rattle,がたがた,がたがた
 ornamental,観賞,<ruby>観賞<rt>かんしょう</rt></ruby>
 cheating,カンニング,カンニング
@@ -3479,9 +3477,9 @@ national,国立,<ruby>国立<rt>こくりつ</rt></ruby>
 cushion,座布団,<ruby>座布団<rt>ざぶとん</rt></ruby>
 broken heart,失恋,<ruby>失恋<rt>しつれん</rt></ruby>
 "damp, gloomy",湿っぽい,<ruby>湿<rt>しめ</rt></ruby>っぽい
-"subjectivity, subject",主観,<ruby>主観<rt>しゅかん</rt></ruby>,Vocab 233
+"subjectivity, subject",主観,<ruby>主観<rt>しゅかん</rt></ruby>
 subjective,主観的,<ruby>主観的<rt>しゅかんてき</rt></ruby>
-decimal,小数,<ruby>小数<rt>しょうすう</rt></ruby>
+decimal,小数,<ruby>小数<rt>しょうすう</rt></ruby>,Vocab 233
 horizon,水平線,<ruby>水平線<rt>すいへいせん</rt></ruby>
 sit cross legged,あぐら,あぐら
 morning glory,朝顔,<ruby>朝顔<rt>あさがお</rt></ruby>
@@ -3494,9 +3492,9 @@ the waist,ウエスト,ウエスト
 "collar, lapel",襟,<ruby>襟<rt>えり</rt></ruby>
 "to settle down, to be cured",治まる,<ruby>治<rt>おさ</rt></ruby>まる
 "organ, pipe organ",オルガン,オルガン
-temperate zone,温帯,<ruby>温帯<rt>おんたい</rt></ruby>,Vocab 234
+temperate zone,温帯,<ruby>温帯<rt>おんたい</rt></ruby>
 "warm, mild",温暖,<ruby>温暖<rt>おんだん</rt></ruby>
-written language,書き言葉,<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>
+written language,書き言葉,<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>,Vocab 234
 "shade, behind the scenes",陰,<ruby>陰<rt>かげ</rt></ruby>
 "kana orthography, use of kana",仮名遣い,<ruby>仮名遣<rt>かなづか</rt></ruby>い
 glass door,ガラス戸,ガラス<ruby>戸<rt>ど</rt></ruby>
@@ -3509,9 +3507,9 @@ top and bottom,上下,<ruby>上下<rt>じょうげ</rt></ruby>
 "chain, tether",鎖,<ruby>鎖<rt>くさり</rt></ruby>
 "messy, scrunch",くしゃくしゃ,くしゃくしゃ
 quarrel,口げんか,<ruby>口<rt>くち</rt></ruby>げんか
-"get off, stopover",下車,<ruby>下車<rt>げしゃ</rt></ruby>,Vocab 235
+"get off, stopover",下車,<ruby>下車<rt>げしゃ</rt></ruby>
 "stingy, miser",けち,けち
-present address,現住所,<ruby>現住所<rt>げんじゅうしょ</rt></ruby>
+present address,現住所,<ruby>現住所<rt>げんじゅうしょ</rt></ruby>,Vocab 235
 "to love, to fall in love with",恋する,<ruby>恋<rt>こい</rt></ruby>する
 "to roll, to roll over",転がす,<ruby>転<rt>ころ</rt></ruby>がす
 year end,歳末,<ruby>歳末<rt>さいまつ</rt></ruby>
@@ -3524,9 +3522,9 @@ chapter,章,<ruby>章<rt>しょう</rt></ruby>
 "urine, pee",小便,<ruby>小便<rt>しょうべん</rt></ruby>
 smog,スモッグ,スモッグ
 pickpocket,すり,すり
-back gate,裏門,<ruby>裏門<rt>うらもん</rt></ruby>,Vocab 236
+back gate,裏門,<ruby>裏門<rt>うらもん</rt></ruby>
 "sanitary, hygienic",衛生的,<ruby>衛生的<rt>えいせいてき</rt></ruby>
-"to chase, to run after",追い掛ける,<ruby>追<rt>お</rt></ruby>い<ruby>掛<rt>か</rt></ruby>ける
+"to chase, to run after",追い掛ける,<ruby>追<rt>お</rt></ruby>い<ruby>掛<rt>か</rt></ruby>ける,Vocab 236
 "to overtake, to catch up with",追い付く,<ruby>追<rt>お</rt></ruby>い<ruby>付<rt>つ</rt></ruby>く
 "manly, masculine",男らしい,<ruby>男<rt>おとこ</rt></ruby>らしい
 rice ball,おにぎり,おにぎり
@@ -3539,9 +3537,9 @@ razor,かみそり,かみそり
 chatter loudly,がやがや,がやがや
 "borrowing, debt",借り,<ruby>借<rt>か</rt></ruby>り
 thermometer,寒暖計,<ruby>寒暖計<rt>かんだんけい</rt></ruby>
-Chinese and Japanese,漢和,<ruby>漢和<rt>かんわ</rt></ruby>,Vocab 237
+Chinese and Japanese,漢和,<ruby>漢和<rt>かんわ</rt></ruby>
 urgent business,急用,<ruby>急用<rt>きゅうよう</rt></ruby>
-look around,きょろきょろ,きょろきょろ
+look around,きょろきょろ,きょろきょろ,Vocab 237
 sneeze,くしゃみ,くしゃみ
 "drag one's feet, waste time",ぐずぐず,ぐずぐず
 ticklish,くすぐったい,くすぐったい
@@ -3554,9 +3552,9 @@ third-rate,三流,<ruby>三流<rt>さんりゅう</rt></ruby>
 "otorhinology, ENT",耳鼻科,<ruby>耳鼻科<rt>じびか</rt></ruby>
 social sciences,社会科学,<ruby>社会科学<rt>しゃかいかがく</rt></ruby>
 girl,少女,<ruby>少女<rt>しょうじょ</rt></ruby>
-"bread, loaf of bread",食パン,<ruby>食<rt>しょく</rt></ruby>パン,Vocab 238
+"bread, loaf of bread",食パン,<ruby>食<rt>しょく</rt></ruby>パン
 botanical garden,植物園,<ruby>植物園<rt>しょくぶつえん</rt></ruby>
-"majority, adult",成年,<ruby>成年<rt>せいねん</rt></ruby>
+"majority, adult",成年,<ruby>成年<rt>せいねん</rt></ruby>,Vocab 238
 "postscript, afterword",後書き,<ruby>後書<rt>あとが</rt></ruby>き
 "to be indulgent to, to spoil",甘やかす,<ruby>甘<rt>あま</rt></ruby>やかす
 dishes to be washed,洗い物,<ruby>洗<rt>あら</rt></ruby>い<ruby>物<rt>もの</rt></ruby>
@@ -3569,9 +3567,9 @@ pickled plum,梅干,<ruby>梅干<rt>うめぼし</rt></ruby>
 etiquette,エチケット,エチケット
 nephew,甥,<ruby>甥<rt>おい</rt></ruby>
 "to think of, to hit upon",思い付く,<ruby>思<rt>おも</rt></ruby>い<ruby>付<rt>つ</rt></ruby>く
-"to smell, to sniff",嗅ぐ,<ruby>嗅<rt>か</rt></ruby>ぐ,Vocab 239
+"to smell, to sniff",嗅ぐ,<ruby>嗅<rt>か</rt></ruby>ぐ
 to stake,懸ける,<ruby>懸<rt>か</rt></ruby>ける
-"parentheses, brackets",括弧,<ruby>括弧<rt>かっこ</rt></ruby>
+"parentheses, brackets",括弧,<ruby>括弧<rt>かっこ</rt></ruby>,Vocab 239
 "lose one's temper, fly into a rage",かっと,かっと
 wastepaper,紙屑,<ruby>紙屑<rt>かみくず</rt></ruby>
 furious,かんかん,かんかん
@@ -3584,9 +3582,9 @@ furious,かんかん,かんかん
 summer greeting,暑中見舞い,<ruby>暑中見舞<rt>しょちゅうみま</rt></ruby>い
 stare,じろじろ,じろじろ
 full name,姓名,<ruby>姓名<rt>せいめい</rt></ruby>
-ant,あり,あり,Vocab 240
+ant,あり,あり
 student discount,学割,<ruby>学割<rt>がくわり</rt></ruby>
-"responsive sounds, chiming in",あいづち,あいづち
+"responsive sounds, chiming in",あいづち,あいづち,Vocab 240
 "step, under foot",足下,<ruby>足下<rt>あしもと</rt></ruby>
 heavy clothing,厚着,<ruby>厚着<rt>あつぎ</rt></ruby>
 "name of recipient, addressee",宛名,<ruby>宛名<rt>あてな</rt></ruby>
@@ -3599,9 +3597,9 @@ to stir-fry,炒める,<ruby>炒<rt>いた</rt></ruby>める
 "circle, around",一周,<ruby>一周<rt>いっしゅう</rt></ruby>
 "receptacle, container",入れ物,<ruby>入<rt>い</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>
 "negation, denial",打ち消し,<ruby>打<rt>う</rt></ruby>ち<ruby>消<rt>け</rt></ruby>し
-English-Japanese,英和,<ruby>英和<rt>えいわ</rt></ruby>,Vocab 241
+English-Japanese,英和,<ruby>英和<rt>えいわ</rt></ruby>
 "to delay, to put off",遅らす,<ruby>遅<rt>おく</rt></ruby>らす
-maritime,海上,<ruby>海上<rt>かいじょう</rt></ruby>
+maritime,海上,<ruby>海上<rt>かいじょう</rt></ruby>,Vocab 241
 dictation,書き取り,<ruby>書<rt>か</rt></ruby>き<ruby>取<rt>と</rt></ruby>り
 "to stir up, to agitate",掻き回す,<ruby>掻<rt>か</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>す
 "hard, solid",かちかち,かちかち
@@ -3614,9 +3612,9 @@ monthly fee,月謝,<ruby>月謝<rt>げっしゃ</rt></ruby>
 to row,漕ぐ,<ruby>漕<rt>こ</rt></ruby>ぐ
 pepper,こしょう,こしょう
 national border,国境,<ruby>国境<rt>こっきょう</rt></ruby>
-"upside-down, reverse",逆さま,<ruby>逆<rt>さか</rt></ruby>さま,Vocab 242
+"upside-down, reverse",逆さま,<ruby>逆<rt>さか</rt></ruby>さま
 to shine on,射す,<ruby>射<rt>さ</rt></ruby>す
-Mr.,氏,<ruby>氏<rt>し</rt></ruby>
+Mr.,氏,<ruby>氏<rt>し</rt></ruby>,Vocab 242
 "quality, nature",質,<ruby>質<rt>しつ</rt></ruby>
 local express,準急,<ruby>準急<rt>じゅんきゅう</rt></ruby>
 smooth,すべすべ,すべすべ
@@ -3629,9 +3627,9 @@ to be stunned in disappointment or disbelief,あきれる,あきれる
 "wicked woman, villainess",悪女,<ruby>悪女<rt>あくじょ</rt></ruby>
 "yearning, longing",憧れ,<ruby>憧<rt>あこが</rt></ruby>れ
 "to yearn after, to adore",憧れる,<ruby>憧<rt>あこが</rt></ruby>れる
-"warm, warmhearted",暖か,<ruby>暖<rt>あたた</rt></ruby>か,Vocab 243
+"warm, warmhearted",暖か,<ruby>暖<rt>あたた</rt></ruby>か
 nickname,あだな,あだな
-cleaning up,後片付け,<ruby>後片付<rt>あとかたづ</rt></ruby>け
+cleaning up,後片付け,<ruby>後片付<rt>あとかたづ</rt></ruby>け,Vocab 243
 "to over flow, to flood",あふれる,あふれる
 "rain gear, rainwear",雨具,<ruby>雨具<rt>あまぐ</rt></ruby>
 storm,嵐,<ruby>嵐<rt>あらし</rt></ruby>
@@ -3640,14 +3638,13 @@ storm,嵐,<ruby>嵐<rt>あらし</rt></ruby>
 "to compete, to fight",争う,<ruby>争<rt>あらそ</rt></ruby>う
 "to write, to compose",著す,<ruby>著<rt>あらわ</rt></ruby>す
 "as it is, unchanged",有りのまま,<ruby>有<rt>あ</rt></ruby>りのまま
-"to express, to say",言い表わす,<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あら</rt></ruby>わす
 to begin to speak,言い出す,<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>す
 squid,いか,いか
 "comings and goings, communication",行き来,<ruby>行<rt>い</rt></ruby>き<ruby>来<rt>き</rt></ruby>
-dead end,行き止まり,<ruby>行<rt>い</rt></ruby>き<ruby>止<rt>ど</rt></ruby>まり,Vocab 244
+dead end,行き止まり,<ruby>行<rt>い</rt></ruby>き<ruby>止<rt>ど</rt></ruby>まり
 "to ill-treat, to abuse",苛める,<ruby>苛<rt>いじ</rt></ruby>める
 temporarily,一時,<ruby>一時<rt>いちじ</rt></ruby>
-all at once,一遍に,<ruby>一遍<rt>いっぺん</rt></ruby>に
+all at once,一遍に,<ruby>一遍<rt>いっぺん</rt></ruby>に,Vocab 244
 rice plant,稲,<ruby>稲<rt>いね</rt></ruby>
 "doze, nap",居眠り,<ruby>居眠<rt>いねむ</rt></ruby>り
 inflation,インフレーション,インフレーション
@@ -3659,10 +3656,10 @@ liar,嘘つき,<ruby>嘘<rt>うそ</rt></ruby>つき
 to face downward,うつむく,うつむく
 to nod,うなずく,うなずく
 "inside-out, front and back",裏表,<ruby>裏表<rt>うらおもて</rt></ruby>
-"gossip, rumor",噂,<ruby>噂<rt>うわさ</rt></ruby>,Vocab 245
+"gossip, rumor",噂,<ruby>噂<rt>うわさ</rt></ruby>
 "bait, feed",餌,<ruby>餌<rt>えさ</rt></ruby>
 "branch, twig",枝,<ruby>枝<rt>えだ</rt></ruby>
-"to obtain, to gain",得る,<ruby>得<rt>え</rt></ruby>る
+"to obtain, to gain",得る,<ruby>得<rt>え</rt></ruby>る,Vocab 245
 "to cover, to hide",覆う,<ruby>覆<rt>おお</rt></ruby>う
 new year's eve,大晦日,<ruby>大晦日<rt>おおみそか</rt></ruby>
 "land, shore",陸,<ruby>陸<rt>おか</rt></ruby>
@@ -3674,10 +3671,10 @@ male,雄,<ruby>雄<rt>おす</rt></ruby>
 year-end gift,お歳暮,お<ruby>歳暮<rt>せいぼ</rt></ruby>
 to flatter,おだてる,おだてる
 lost property,落とし物,<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>
-"to drown, to be drowned",溺れる,<ruby>溺<rt>おぼ</rt></ruby>れる,Vocab 246
+"to drown, to be drowned",溺れる,<ruby>溺<rt>おぼ</rt></ruby>れる
 "to meet, to have the honor of seeing",お目に掛かる,お<ruby>目<rt>め</rt></ruby>に<ruby>掛<rt>か</rt></ruby>かる
 apologize,お詫び,お<ruby>詫<rt>わ</rt></ruby>び
-hot spring,温泉,<ruby>温泉<rt>おんせん</rt></ruby>
+hot spring,温泉,<ruby>温泉<rt>おんせん</rt></ruby>,Vocab 246
 "meeting, association",会,<ruby>会<rt>かい</rt></ruby>
 opening,開放,<ruby>開放<rt>かいほう</rt></ruby>
 "to be restored to, to return to",返る,<ruby>返<rt>かえ</rt></ruby>る
@@ -3689,10 +3686,10 @@ rustle,がさがさ,がさがさ
 "lump, ingot",塊,<ruby>塊<rt>かたまり</rt></ruby>
 "to decline, to go down",傾く,<ruby>傾<rt>かたむ</rt></ruby>く
 "to lean, to cock (one's head)",傾ける,<ruby>傾<rt>かたむ</rt></ruby>ける
-"shape, appearance",格好,<ruby>格好<rt>かっこう</rt></ruby>,Vocab 247
+"shape, appearance",格好,<ruby>格好<rt>かっこう</rt></ruby>
 (the sound of) guzzling,がぶがぶ,がぶがぶ
 to cover,被せる,<ruby>被<rt>かぶ</rt></ruby>せる
-"superiors, people in authority",上,<ruby>上<rt>かみ</rt></ruby>
+"superiors, people in authority",上,<ruby>上<rt>かみ</rt></ruby>,Vocab 247
 to bite at,噛み付く,<ruby>噛<rt>か</rt></ruby>み<ruby>付<rt>つ</rt></ruby>く
 "freight, cargo",貨物,<ruby>貨物<rt>かもつ</rt></ruby>
 "emptiness, hollow",空,<ruby>空<rt>から</rt></ruby>
@@ -3704,10 +3701,10 @@ cancer,がん,がん
 "audience, spectator",観客,<ruby>観客<rt>かんきゃく</rt></ruby>
 "engine, agency",機関,<ruby>機関<rt>きかん</rt></ruby>
 "to get injured, to be hurt",傷付く,<ruby>傷付<rt>きずつ</rt></ruby>く
-"to wound, to hurt",傷付ける,<ruby>傷付<rt>きずつ</rt></ruby>ける,Vocab 248
+"to wound, to hurt",傷付ける,<ruby>傷付<rt>きずつ</rt></ruby>ける
 sacrifice,犠牲,<ruby>犠牲<rt>ぎせい</rt></ruby>
 tightly,ぎっしり,ぎっしり
-"packed, crammed",ぎゅうぎゅう,ぎゅうぎゅう
+"packed, crammed",ぎゅうぎゅう,ぎゅうぎゅう,Vocab 248
 "line, row",行,<ruby>行<rt>ぎょう</rt></ruby>
 Chinese dumpling,ぎょうざ,ぎょうざ
 a cut of cloth,きれ,きれ
@@ -3719,10 +3716,10 @@ to tickle,くすぐる,くすぐる
 crowd,群集,<ruby>群集<rt>ぐんしゅう</rt></ruby>
 "the masses, multitude",群衆,<ruby>群衆<rt>ぐんしゅう</rt></ruby>
 "low class, inferiority, below",下,<ruby>下<rt>げ</rt></ruby>
-"practice, learning",稽古,<ruby>稽古<rt>けいこ</rt></ruby>,Vocab 249
+"practice, learning",稽古,<ruby>稽古<rt>けいこ</rt></ruby>
 "smoke, fumes",煙,<ruby>煙<rt>けむり</rt></ruby>
 out loud,げらげら,げらげら
-prefecture,県,<ruby>県<rt>けん</rt></ruby>
+prefecture,県,<ruby>県<rt>けん</rt></ruby>,Vocab 249
 airline ticket,航空券,<ruby>航空券<rt>こうくうけん</rt></ruby>
 "alternation, shift",交替,<ruby>交替<rt>こうたい</rt></ruby>
 robbery,強盗,<ruby>強盗<rt>ごうとう</rt></ruby>
@@ -3734,10 +3731,10 @@ beggar,乞食,<ruby>乞食<rt>こじき</rt></ruby>
 Japanese syllabary,五十音,<ruby>五十音<rt>ごじゅうおん</rt></ruby>
 "to rub, to strike",擦る,<ruby>擦<rt>こす</rt></ruby>る
 "kotatsu, heated table with a coverlet",こたつ,こたつ
-to leave a message,言付ける,<ruby>言付<rt>ことづ</rt></ruby>ける,Vocab 250
+to leave a message,言付ける,<ruby>言付<rt>ことづ</rt></ruby>ける
 "proverb, common saying",ことわざ,ことわざ
 "powder, flour",粉,<ruby>粉<rt>こな</rt></ruby>
-be out of touch,御無沙汰,<ruby>御無沙汰<rt>ごぶさた</rt></ruby>
+be out of touch,御無沙汰,<ruby>御無沙汰<rt>ごぶさた</rt></ruby>,Vocab 250
 sorry,ご免,ご<ruby>免<rt>めん</rt></ruby>
 "from now on, after this",これから,これから
 "occasion, time",際,<ruby>際<rt>さい</rt></ruby>
@@ -3749,10 +3746,10 @@ last night,昨夜,<ruby>昨夜<rt>さくや</rt></ruby>
 "to support, to maintain",支える,<ruby>支<rt>ささ</rt></ruby>える
 to pour,さす,さす
 "to rust, to get rusty",錆びる,<ruby>錆<rt>さ</rt></ruby>びる
-"various, diverse",様々,<ruby>様々<rt>さまざま</rt></ruby>,Vocab 251
+"various, diverse",様々,<ruby>様々<rt>さまざま</rt></ruby>
 right and left,左右,<ruby>左右<rt>さゆう</rt></ruby>
 three days from today,明々後日,<ruby>明々後日<rt>しあさって</rt></ruby>
-"JR, Japan Railways",ＪＲ,<ruby>ＪＲ<rt>じぇいあーる</rt></ruby>
+"JR, Japan Railways",ＪＲ,<ruby>ＪＲ<rt>じぇいあーる</rt></ruby>,Vocab 251
 time table,時間割り,<ruby>時間割<rt>じかんわ</rt></ruby>り
 "deposit, key money",敷金,<ruby>敷金<rt>しききん</rt></ruby>
 "business, achievement",事業,<ruby>事業<rt>じぎょう</rt></ruby>
@@ -3764,10 +3761,10 @@ branch office,支社,<ruby>支社<rt>ししゃ</rt></ruby>
 "borrowing money, debt",借金,<ruby>借金<rt>しゃっきん</rt></ruby>
 vigorously,じゃぶじゃぶ,じゃぶじゃぶ
 "many times, repeatedly",じゃんじゃん,じゃんじゃん
-autumnal equinox,秋分,<ruby>秋分<rt>しゅうぶん</rt></ruby>,Vocab 252
+autumnal equinox,秋分,<ruby>秋分<rt>しゅうぶん</rt></ruby>
 "four seasons, all year round",春夏秋冬,<ruby>春夏秋冬<rt>しゅんかしゅうとう</rt></ruby>
 vernal equinox,春分,<ruby>春分<rt>しゅんぶん</rt></ruby>
-"smallness, small size",小,<ruby>小<rt>しょう</rt></ruby>
+"smallness, small size",小,<ruby>小<rt>しょう</rt></ruby>,Vocab 252
 passenger,乗客,<ruby>乗客<rt>じょうきゃく</rt></ruby>
 "merchant, trader",商人,<ruby>商人<rt>しょうにん</rt></ruby>
 small amount,小量,<ruby>小量<rt>しょうりょう</rt></ruby>
@@ -3779,10 +3776,10 @@ wrinkle,しわ,しわ
 December,師走,<ruby>師走<rt>しわす</rt></ruby>
 (after) the end,末,<ruby>末<rt>すえ</rt></ruby>
 muscle,筋,<ruby>筋<rt>すじ</rt></ruby>
-"sand, grit",砂,<ruby>砂<rt>すな</rt></ruby>,Vocab 253
+"sand, grit",砂,<ruby>砂<rt>すな</rt></ruby>
 "nook, corner",隅,<ruby>隅<rt>すみ</rt></ruby>
 sumo wrestling,相撲,<ruby>相撲<rt>すもう</rt></ruby>
-"sly, cunning",ずるがしこい,ずるがしこい
+"sly, cunning",ずるがしこい,ずるがしこい,Vocab 253
 "pointed, acute",鋭い,<ruby>鋭<rt>するど</rt></ruby>い
 "right, positiveness",正,<ruby>正<rt>せい</rt></ruby>
 "sex, nature",性,<ruby>性<rt>せい</rt></ruby>
@@ -3794,10 +3791,10 @@ at most,せいぜい,せいぜい
 "just, legal",正当,<ruby>正当<rt>せいとう</rt></ruby>
 "living creature, lifeform",生物,<ruby>生物<rt>せいぶつ</rt></ruby>
 "to come in contact, to adjoin",接する,<ruby>接<rt>せっ</rt></ruby>する
-public opinion,世論,<ruby>世論<rt>せろん</rt></ruby>,Vocab 254
+public opinion,世論,<ruby>世論<rt>せろん</rt></ruby>
 "mid-year gift, summer gift",お中元,お<ruby>中元<rt>ちゅうげん</rt></ruby>
 "lively, vividly",生き生きと,<ruby>生<rt>い</rt></ruby>き<ruby>生<rt>い</rt></ruby>きと
-"absolutely, at all",一向に,<ruby>一向<rt>いっこう</rt></ruby>に
+"absolutely, at all",一向に,<ruby>一向<rt>いっこう</rt></ruby>に,Vocab 254
 sharply,がくんと,がくんと
 sparkle,きらりと,きらりと
 in one gulp,ごくんと,ごくんと
@@ -3809,10 +3806,10 @@ data,データ,データ
 "division, department",部門,<ruby>部門<rt>ぶもん</rt></ruby>
 opposition party,野党,<ruby>野党<rt>やとう</rt></ruby>
 "separation, split",分離,<ruby>分離<rt>ぶんり</rt></ruby>
-"unfolding, development",展開,<ruby>展開<rt>てんかい</rt></ruby>,Vocab 255
+"unfolding, development",展開,<ruby>展開<rt>てんかい</rt></ruby>
 "integration, combination",統合,<ruby>統合<rt>とうごう</rt></ruby>
 "input, power input",入力,<ruby>入力<rt>にゅうりょく</rt></ruby>
-"original, initial",当初,<ruby>当初<rt>とうしょ</rt></ruby>
+"original, initial",当初,<ruby>当初<rt>とうしょ</rt></ruby>,Vocab 255
 the authorities concerned,当局,<ruby>当局<rt>とうきょく</rt></ruby>
 "to strive for, to attempt",図る,<ruby>図<rt>はか</rt></ruby>る
 "sound, note",音,<ruby>音<rt>ね</rt></ruby>
