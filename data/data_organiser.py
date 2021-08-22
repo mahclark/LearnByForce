@@ -47,6 +47,20 @@ corrections = {
     ("そば", "buckwheat noodles, soba") : Correction("buckwheat noodles, next to"),
     ("辺[へん]", "vicinity, part") : Correction("vicinity, side, edge"),
     ("一帯[いったい]", "area, vicinity") : Correction("whole area, stretch of land"),
+    ("もう", "already, yet, another, again") : Correction("already, more"),
+    ("込[こ]める", "to put in, to concentrate on") : Correction("to put in (effort), to load/charge"),
+    ("いかが", "how, what") : Correction("how, how about"),
+    ("正面[しょうめん]", "front, face") : Correction("front, face, facade"),
+    ("終[お]わる", "to finish, to end") : Correction("to end, to finish (intransitive)"),
+    ("暮[く]らす", "to live, to earn one's livelihood") : Correction("to live, to earn a living"),
+    ("帰[かえ]る", "to return, to go back") : Correction("to return (home)"),
+    ("後[あと]", "after") : Correction("after, afterwards"),
+    ("より", "more, further") : Correction("than, since"),
+    ("一層[いっそう]", "more, even more") : Correction("even more"),
+    ("広[ひろ]い", "wide, big") : Correction("spacious"),
+    #() : Correction(""), 202
+    
+    ("一番[いちばん]", "most") : Correction("no. 1, most"),
 }
 
 def check_fu(fu):
