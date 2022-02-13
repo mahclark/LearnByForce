@@ -184,7 +184,10 @@ function startTest() {
     $("#landing").hide();
     $("#testing").show();
     document.getElementById("secTitle").innerHTML = selectedSec
-
+    if (selectedCat == "music") { 
+        document.getElementById("question").style.fontFamily = "Space Mono"
+    }
+    
 	if (reversed) {
         test = [];
         for (var testItem of tests[selectedSec]) {
